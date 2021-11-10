@@ -21,7 +21,7 @@ I am currently working as a DevOps Engineer at Gameserverkings developing (D)DoS
 * JavaScript
 * Java
 
-*I am also familiar with Linux and networking*
+*I am also familiar with Linux and networking.*
 
 ## My Road Map
 * Create a blog where I can create articles on interesting programming/networking-related topics including guides and more (I love writing about what I'm learning and trying my best to teach others).
