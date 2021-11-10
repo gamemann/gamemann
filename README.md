@@ -29,5 +29,6 @@ I am currently working as a DevOps Engineer at Gameserverkings developing (D)DoS
 * Learn more about the Linux kernel and driver development.
 * Learn more about Assembly and optimizing C/low-level programs.
 * Learn [the DPDK](https://doc.dpdk.org/guides/prog_guide/) (a kernel bypass library for very fast packet processing).
+* Learn more about [BGP](https://en.wikipedia.org/wiki/Border_Gateway_Protocol) (networking) and application layer protocols/tunnels.
 * Learn about AI.
 * Create a unique open-source game server panel.
