@@ -20,6 +20,7 @@ I am currently working as a DevOps Engineer at Gameserverkings developing (D)DoS
 * HTML/CSS
 * JavaScript
 * Java
+* A bit of C++ and C#
 
 *I am also familiar with Linux and networking.*
 
