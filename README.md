@@ -1,5 +1,5 @@
 ## Introduction
-Hello! My name is Christian and I am a self-taught programmer. I am mostly interested in network programming along with designing/developing firewalls and (D)DoS protection.
+Hello! My name is Christian and I am a self-taught programmer willing to learn new things and improve where I can (if you see anything that can be improved on with my code, I encourage you to point it out and give suggestions on how to improve if possible!). I am mostly interested in network programming along with designing/developing firewalls and (D)DoS protection.
 
 I am currently working as a DevOps Engineer at Gameserverkings developing (D)DoS protection.
 
