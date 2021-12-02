@@ -5,7 +5,7 @@ I am currently working as a DevOps Engineer at Gameserverkings developing (D)DoS
 
 ## My Main Projects (Present/Past)
 * [GFL (Games For Life)](https://GFLClan.com/) - A multi-gaming community that hosts game servers for many different games (founded and owned from January 25th, 2011 to July 13th, 2021). I also developed and maintained a custom [Anycast](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/) [network](https://gflclan.com/forum/959-gfls-network/) for two years under GFL (2019 - 2021).
-* [Browser.TF](https://Browser.tf/) - A fast and simple web-sided server browser for the game Team Fortress 2 (source code [here](https://github.com/gamemann/Browser.TF)).
+* [Browser.TF](https://Browser.tf/) - A fast and simple web-sided server browser for the game Team Fortress 2 I created in 2015/2016 while I was in High School (source code [here](https://github.com/gamemann/Browser.TF)).
 * [XDP Firewall](https://github.com/gamemann/XDP-Firewall) - A stateless firewall that attaches to the Linux [XDP](https://www.iovisor.org/technology/xdp) hook for fast packet processing.
 * [XDP Forwarding](https://github.com/gamemann/XDP-Forwarding) - A program that attaches to the Linux [XDP](https://www.iovisor.org/technology/xdp) hook for fast packet processing and performs layer 3/4 forwarding. It also uses source port mapping similar to [IPTables](https://linux.die.net/man/8/iptables) and [NFTables](https://wiki.nftables.org/wiki-nftables/index.php/Main_Page)!
 * [Packet Batch](https://github.com/Packet-Batch) - A project for pen-testing and network monitoring. Can act as a [DoS](https://www.cloudflare.com/learning/ddos/glossary/denial-of-service/) (Denial of Service) tool for pen-testing purposes.
