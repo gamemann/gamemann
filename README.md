@@ -1,8 +1,6 @@
 ## Introduction
 Hello! My name is Christian and I am a self-taught programmer willing to learn new things and improve where I can (if you see anything that can be improved on with my code, I encourage you to point it out and give suggestions on how to improve if possible!). I am mostly interested in network programming along with designing/developing firewalls and (D)DoS protection.
 
-I am currently working as a DevOps Engineer at Gameserverkings developing (D)DoS protection.
-
 ## My Main Projects (Present/Past)
 * [GFL (Games For Life)](https://GFLClan.com/) - A multi-gaming community that hosts game servers for many different games (founded and owned from January 25th, 2011 to July 13th, 2021). I also developed and maintained a custom [Anycast](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/) [network](https://gflclan.com/forum/959-gfls-network/) for two years under GFL (2019 - 2021).
 * [Browser.TF](https://Browser.tf/) - A fast and simple web-sided server browser for the game Team Fortress 2 I created in 2015/2016 while I was in High School (source code [here](https://github.com/gamemann/Browser.TF)).
