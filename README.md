@@ -9,7 +9,7 @@ We already have a few large content creators interested/involved and I'm sure th
 Please feel free to check us out and if you want to be a part of a community with all kinds of knowledgeable/talented individuals (programming, modeling, network engineering, and more), TMC is for you!
 
 ## My Website, Portfolio, And Blog (Deaconn)
-[Deaconn](https://deaconn.net/), a website I created, acts as my portfolio. I created the website from scratch using Python and using a CSS library named Bootstrap.
+[Deaconn](https://deaconn.net/), a website I created, acts as my portfolio which includes a custom-made blog. I created the website from scratch using Python and using a CSS library named Bootstrap.
 
 ## My Main Projects (Present/Past)
 * [TMC (The Modding Community)](https://moddingcommunity.com/) - A new and exciting project aimed to put more spotlight and support on modding in video games via custom content creation, suggestions on how to improve the modding community, and more! 
