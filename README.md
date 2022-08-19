@@ -6,7 +6,7 @@ I've learned all my technical, marketing, and leadership knowledge below from mo
 
 We already have a few large content creators interested/involved and I'm sure that'll highly grow with our vision/goal when the product is officially released!
 
-Please feel free to check us out and if you want to be a part of a community with all kinds of knowledgeable/talented individuals (programming, modeling, network engineering, and more), TMC is for you!
+If you want to be a part of a community with all kinds of knowledgeable/talented individuals (content creators of all sizes, programming, modeling, network engineering, and more), TMC is for you!
 
 ## My Website, Portfolio, And Blog (Deaconn)
 [Deaconn](https://deaconn.net/), a website I created, acts as my portfolio which includes a custom-made blog. I created the website from scratch using Python and using a CSS library named Bootstrap.
