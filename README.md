@@ -1,8 +1,8 @@
 ## Introduction
-Hello! My name is Christian and I am a self-taught programmer willing to learn new things and improve where I can (if you see anything that can be improved on with my code, I encourage you to point it out and give suggestions on how to improve if possible!). I am mostly interested in network programming along with designing/developing firewalls and (D)DoS protection.
+Hello! My name is Christian. I am a self-taught programmer willing to learn new things and improve where I can (if you see anything that can be improved on with my code, I encourage you to point it out and give suggestions on how to improve if possible!).
 
-## Website
-I am developing my own company/website dedicated to future products I will release, my career, and my blog! It's still in development, but please feel free to check it out [here](https://deaconn.net/)! This will be acting as my portfolio.
+## My Website/Portfolio/Blog
+[Deaconn](https://deaconn.net/), a website I created, acts as my portfolio. I created the website from scratch using Python and using a CSS library named Bootstrap.
 
 ## My Main Projects (Present/Past)
 * [TMC (The Modding Community)](https://moddingcommunity.com/) - A new and exciting project aimed to put more spotlight and support on modding in video games via custom content creation, suggestions on how to improve the modding community, and more! 
@@ -33,9 +33,9 @@ I am developing my own company/website dedicated to future products I will relea
 *I am also familiar with Linux and networking.*
 
 ## My Road Map
-* Create a blog where I can create articles on interesting programming/networking-related topics including guides and more (I love writing about what I'm learning and trying my best to teach others).
+* ~~Create a blog where I can create articles on interesting programming/networking-related topics including guides and more (I love writing about what I'm learning and trying my best to teach others).~~ ([Deaconn](https://deaconn.net))
 * Learn more about the Linux kernel and driver development.
 * Learn more about Assembly and optimizing C/low-level programs.
-* Learn [the DPDK](https://doc.dpdk.org/guides/prog_guide/) (a kernel bypass library for very fast packet processing).
-* Learn more about [BGP](https://en.wikipedia.org/wiki/Border_Gateway_Protocol) (networking) and application layer protocols/tunnels.
+* ~~Learn [the DPDK](https://doc.dpdk.org/guides/prog_guide/) (a kernel bypass library for very fast packet processing).~~
+* ~~Learn more about [BGP](https://en.wikipedia.org/wiki/Border_Gateway_Protocol) (networking) and application layer protocols/tunnels.~~
 * Learn about AI.
