@@ -8,7 +8,7 @@ We already have a few large content creators interested/involved and I'm sure th
 
 Please feel free to check us out and if you want to be a part of a community with all kinds of knowledgeable/talented individuals (programming, modeling, network engineering, and more), TMC is for you!
 
-## My Website/Portfolio/Blog
+## My Website, Portfolio, And Blog (Deaconn)
 [Deaconn](https://deaconn.net/), a website I created, acts as my portfolio. I created the website from scratch using Python and using a CSS library named Bootstrap.
 
 ## My Main Projects (Present/Past)
@@ -37,12 +37,15 @@ Please feel free to check us out and if you want to be a part of a community wit
 * Java
 * A bit of C++ and C#
 
-*I am also familiar with Linux and networking.*
+*I am also familiar with Linux, network engineering/programming, and automation.*
 
 ## My Road Map
-* ~~Create a blog where I can create articles on interesting programming/networking-related topics including guides and more (I love writing about what I'm learning and trying my best to teach others).~~ ([Deaconn](https://deaconn.net))
+* Continue making The Modding Community better and bringing together as many knowledable/talented individuals as possible.
+* Continue creating useful mods and tools for the modding community to use (automation-focused).
 * Learn more about the Linux kernel and driver development.
-* Learn more about Assembly and optimizing C/low-level programs.
+* Learn about AI.
+
+* ~~Create a blog where I can create articles on interesting programming/networking-related topics including guides and more (I love writing about what I'm learning and trying my best to teach others).~~ ([Deaconn](https://deaconn.net))
 * ~~Learn [the DPDK](https://doc.dpdk.org/guides/prog_guide/) (a kernel bypass library for very fast packet processing).~~
 * ~~Learn more about [BGP](https://en.wikipedia.org/wiki/Border_Gateway_Protocol) (networking) and application layer protocols/tunnels.~~
-* Learn about AI.
+* ~~Learn more about Assembly and optimizing C/low-level programs.~~
