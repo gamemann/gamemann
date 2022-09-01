@@ -2,7 +2,7 @@
 Hello! My name is Christian. I am a self-taught programmer willing to learn new things and improve where I can (if you see anything that can be improved on with my code, I encourage you to point it out and give suggestions on how to improve if possible!).
 
 ## The Modding Community (TMC)
-I've learned all my technical, marketing, and leadership knowledge below from modding games/game servers (network) and managing large gaming communities. This lead to me founding a major project called [The Modding Community](https://moddingcommunity.com/) (TMC). We are a community with goals to shine spotlight and support onto the modding community (gaming and media content/entertainment). Our primary goal is to introduce as many new people to the modding community which in return will improve content creation, gaming, careers, talent, and more along with make things like gaming/media more enjoyable!
+I've learned all my technical, marketing, and leadership knowledge below from modding games/game servers (network) and managing large gaming communities. This lead to me founding a major project called [The Modding Community](https://moddingcommunity.com/forums/topic/7-our-vision-goals-partner-proposal/) (TMC). We are a community with goals to shine spotlight and support onto the modding community (gaming and media content/entertainment). Our primary goal is to introduce as many new people to the modding community which in return will improve content creation, gaming, careers, talent, and more along with make things like gaming/media more enjoyable!
 
 We already have a few large content creators interested/involved and I'm sure that'll highly grow with our vision/goal when the product is officially released!
 
