@@ -3,7 +3,9 @@ Heya, my name is Christian! I am a self-taught programmer/network engineer who l
 
 [Deaconn](https://deaconn.net/), acts as my portfolio which includes a custom-made blog. I've created the website from scratch using Python and using a CSS library named Bootstrap.
 
-![](https://hit.yhype.me/github/profile?user_id=6509565)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamemann&show_icons=true&theme=blue-green)
+
+![](https://komarev.com/ghpvc/?username=gamemann)
 
 ## <a href="https://moddingcommunity.com/forums/topic/7-our-vision-goals-partner-proposal/#comment-7" target="_blank"><img src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" data-canonical-src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" width="551" height="61" /></a>
 
