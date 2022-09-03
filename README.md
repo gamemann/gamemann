@@ -1,7 +1,7 @@
 ## Introduction
 Heya, my name is Christian! I am a self-taught programmer/network engineer who loves learning and progressing with technology. If you find any code/configuration of mine that can be improved on, I encourage you to point it out and create pull requests if necessary!
 
-[Deaconn](https://deaconn.net/), a website I created, acts as my portfolio which includes a custom-made blog. I've created the website from scratch using Python and using a CSS library named Bootstrap.
+[Deaconn](https://deaconn.net/), acts as my portfolio which includes a custom-made blog. I've created the website from scratch using Python and using a CSS library named Bootstrap.
 
 ## <a href="https://moddingcommunity.com" target="_blank"><img src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" data-canonical-src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" width="551" height="61" /></a>
 
