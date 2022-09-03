@@ -1,15 +1,17 @@
 ## Introduction
-Hello! My name is Christian. I am a self-taught programmer willing to learn new things and improve where I can (if you see anything that can be improved on with my code, I encourage you to point it out and give suggestions on how to improve if possible!).
+Heya, my name is Christian! I am a self-taught programmer/network engineer who loves learning and progressing with technology. If you find any code/configuration of mine that can be improved on, I encourage you to point it out and create pull requests if necessary!
 
-## The Modding Community (TMC)
-I've learned all my technical, marketing, and leadership knowledge below from modding games/game servers (network) and managing large gaming communities. This lead to me founding a major project called [The Modding Community](https://moddingcommunity.com/forums/topic/7-our-vision-goals-partner-proposal/) (TMC). We are a community with goals to shine spotlight and support onto the modding community (gaming and media content/entertainment). Our primary goal is to introduce as many new people to the modding community which in return will improve content creation, gaming, careers, talent, and more along with make things like gaming/media more enjoyable!
+[Deaconn](https://deaconn.net/), a website I created, acts as my portfolio which includes a custom-made blog. I've created the website from scratch using Python and using a CSS library named Bootstrap.
+
+## <img src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" data-canonical-src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" width="551" height="64" />
+
+I've learned all my technical, marketing, and leadership knowledge below from modding games/game servers (networking) and managing large gaming communities. This lead to me founding a major project called [The Modding Community](https://moddingcommunity.com/forums/topic/7-our-vision-goals-partner-proposal/) (TMC). We are a community with goals to shine spotlight and support onto the modding community (gaming and media content/entertainment). Our primary goal is to introduce as many new people to the modding community which in return will improve content creation, gaming, careers, talent, and more along with make things like gaming/media more enjoyable!
 
 We already have a few large content creators interested/involved and I'm sure that'll highly grow with our vision/goal when the product is officially released!
 
 If you want to be a part of a community with all kinds of knowledgeable/talented individuals (content creators of all sizes, programming, modeling, network engineering, and more), TMC is for you!
 
-## My Website, Portfolio, And Blog (Deaconn)
-[Deaconn](https://deaconn.net/), a website I created, acts as my portfolio which includes a custom-made blog. I created the website from scratch using Python and using a CSS library named Bootstrap.
+**Note** - We are planning to launch an **AI/machine learning** division in the future!
 
 ## My Main Projects (Present/Past)
 * [TMC (The Modding Community)](https://moddingcommunity.com/) - A new and exciting project aimed to put more spotlight and support on modding via custom content creation, suggestions on how to improve the modding community, and more! This has huge potential to change gaming, media/content creation, entertainment, and more!
@@ -45,7 +47,10 @@ If you want to be a part of a community with all kinds of knowledgeable/talented
 * Learn more about the Linux kernel and driver development.
 * Learn about AI.
 
+### Completed
 * ~~Create a blog where I can create articles on interesting programming/networking-related topics including guides and more (I love writing about what I'm learning and trying my best to teach others).~~ ([Deaconn](https://deaconn.net))
 * ~~Learn [the DPDK](https://doc.dpdk.org/guides/prog_guide/) (a kernel bypass library for very fast packet processing).~~
 * ~~Learn more about [BGP](https://en.wikipedia.org/wiki/Border_Gateway_Protocol) (networking) and application layer protocols/tunnels.~~
 * ~~Learn more about Assembly and optimizing C/low-level programs.~~
+
+If you want to reach out, feel free to email me or add me on Discord! My Discord tag is **christiano#1190**.
