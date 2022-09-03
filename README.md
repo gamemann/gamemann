@@ -13,7 +13,7 @@ If you want to be a part of a community with all kinds of knowledgeable/talented
 
 **Note** - We are planning to launch an **AI/machine learning** division in the future!
 
-## My Main Projects (Present/Past)
+## Top Projects
 * [TMC (The Modding Community)](https://moddingcommunity.com/) - A new and exciting project aimed to put more spotlight and support on modding via custom content creation, suggestions on how to improve the modding community, and more! This has huge potential to change gaming, media/content creation, entertainment, and more!
 * [LBG (Laid Back Gaming)](https://lbgaming.co/) - A new multi-gaming community with a new and improved [Anycast](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/) network.
 * [Browser.TF](https://Browser.tf/) - A fast and simple web-sided server browser for the game Team Fortress 2 I created in 2015/2016 while I was in High School (source code [here](https://github.com/gamemann/Browser.TF)).
@@ -24,9 +24,9 @@ If you want to be a part of a community with all kinds of knowledgeable/talented
 * [Rust Auto Wipe](https://github.com/gamemann/Rust-Auto-Wipe) - A tool programmed in Go for automating wipes for [Rust](https://store.steampowered.com/agecheck/app/252490/) game servers in [Pterodactyl](https://pterodactyl.io/). This tool comes with many features including cron scheduling, map seed/world changing, warning system (configurable), host name changes, and more!
 * [Pterodactyl Game Server Watch](https://github.com/gamemann/Pterodactyl-Game-Server-Watch) - A tool programmed in Go to restart hung game servers for [Pterodactyl](https://pterodactyl.io/) that relies on Valve's A2S_INFO [query](https://developer.valvesoftware.com/wiki/Server_queries#A2S_INFO).
 
-*I also have many other open-source projects on my GitHub profile!*
+## Programming Experience
+I have over ten years of programming experience which started when I was twelve years old (2009). The following programming languages are what I'm familiar with.
 
-## Languages I Am Familiar With
 * C
 * Go
 * Python
