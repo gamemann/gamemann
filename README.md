@@ -7,7 +7,7 @@ Heya, my name is Christian! I am a self-taught programmer/network engineer who l
 
 ![](https://komarev.com/ghpvc/?username=gamemann)
 
-## <a href="https://moddingcommunity.com/forums/topic/7-our-vision-goals-partner-proposal/#comment-7" target="_blank"><img src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" data-canonical-src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" width="551" height="61" /></a>
+## <a href="https://moddingcommunity.com/forums/topic/7-our-vision-goals-partner-proposal/#comment-7" target="_blank"><img src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" data-canonical-src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" width="600" height="65" /></a>
 
 I've learned all my technical, marketing, and leadership knowledge below from modding games/game servers (networking) and managing large gaming communities. This lead to me founding a major project called [The Modding Community](https://moddingcommunity.com/forums/topic/7-our-vision-goals-partner-proposal/#comment-7) (TMC). We are a community with goals to shine spotlight and support onto the modding community (gaming and media content/entertainment). Our primary goal is to introduce as many new people to the modding community which in return will improve content creation, gaming, careers, talent, and more along with make things like gaming/media more enjoyable!
 
