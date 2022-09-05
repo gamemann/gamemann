@@ -6,7 +6,10 @@ Heya, my name is Christian and I **love** the open-source community! I am a self
 
 ![](https://komarev.com/ghpvc/?username=gamemann&label=Views&color=116262)
 
-If you want to reach out, feel free to email me or add me on Discord! My Discord tag is **christiano#1190**.
+If you want to reach out, you may do so using the following. 
+* GitHub discussions [here](https://github.com/gamemann/gamemann/discussions/categories/reach-out).
+* Email (my email is listed on the profile for those logged into GitHub).
+* Discord. My tag is **christiano#1190**.
 
 ## <a href="https://moddingcommunity.com/forums/topic/7-our-vision-goals-partner-proposal/#comment-7" target="_blank"><img src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" data-canonical-src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" width="600" height="65" /></a>
 
