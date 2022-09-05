@@ -4,7 +4,7 @@ Heya, my name is Christian and I **love** the open-source community! I am a self
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamemann&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats)
 
-![](https://komarev.com/ghpvc/?username=gamemann)
+![](https://komarev.com/ghpvc/?username=gamemann&label=Views&color=116262)
 
 ## <a href="https://moddingcommunity.com/forums/topic/7-our-vision-goals-partner-proposal/#comment-7" target="_blank"><img src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" data-canonical-src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" width="600" height="65" /></a>
 
