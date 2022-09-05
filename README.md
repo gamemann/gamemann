@@ -6,7 +6,7 @@ Heya, my name is Christian and I **love** the open-source community! I am a self
 
 ![](https://komarev.com/ghpvc/?username=gamemann&label=Views&color=116262)
 
-If you want to reach out, you may do so using the following. 
+If you want to reach out, you may do so using the following 🙂
 * GitHub discussions [here](https://github.com/gamemann/gamemann/discussions/categories/reach-out).
 * Email (my email is listed on the profile for those logged into GitHub).
 * Discord. My tag is **christiano#1190**.
