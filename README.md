@@ -1,6 +1,6 @@
 Heya, my name is Christian and I **love** the open-source community! I am a self-taught programmer/network engineer who loves learning and progressing with technology. If you find any code/configuration of mine that can be improved on, I encourage you to point it out and create pull requests if necessary!
 
-[Deaconn](https://deaconn.net/), acts as my portfolio which includes a custom-made blog. I've created the website from scratch using Python and using a CSS library named Bootstrap.
+[Deaconn](https://deaconn.net/) acts as my portfolio which includes a custom-made blog and includes a lot of information regarding my skills and experience. I've created the website from scratch using Python and using a CSS library named Bootstrap.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamemann&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats)
 
