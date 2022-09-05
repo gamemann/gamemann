@@ -1,4 +1,4 @@
-Heya, my name is Christian and I **love** the open-source community! I am a self-taught programmer/network engineer who loves learning and progressing with technology. If you find any code/configuration of mine that can be improved on, I encourage you to point it out and create pull requests if necessary!
+Heya, my name is Christian and I **love** the open-source community! I am a self-taught programmer/network engineer who enjoys learning and progressing with technology. If you find any code/configuration of mine that can be improved on, I encourage you to point it out and create pull requests if necessary!
 
 [Deaconn](https://deaconn.net/) acts as my portfolio which includes a custom-made blog and a lot of information regarding my skills, experience, and social media links. I've created the website from scratch using Python and using a CSS library named Bootstrap.
 
