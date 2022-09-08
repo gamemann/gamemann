@@ -1,8 +1,7 @@
 ## Why Did You Follow Me?
 I often **manually** follow users because I'm looking for open-source users and projects to support via suggestions or improvements to code (especially smaller projects that deserve support and I can't find otherwise). This allows me to see projects others are working on and I've already found interesting projects like an open-source [Food Delivery back-end](https://github.com/Crunch-Garage/food-delivery)! I also want to mention I have made a [GitHub Follow Bot](https://github.com/gamemann/GitHub-Follow-Bot) for educational purposes that has many features, but I do **not** use this personally since I enjoy manually following users myself which allows me to look at a lot of GitHub profiles, projects, and so on.
 
-## Me, Myself, & I
-
+## Me, Myself & I
 Heya, my name is Christian and I **love** the open-source community! I am a self-taught programmer/network engineer who enjoys learning and progressing with technology. If you find any code/configuration of mine that can be improved on, I encourage you to point it out and create pull requests if necessary!
 
 [Deaconn](https://deaconn.net/) acts as my portfolio which includes a custom-made blog and a lot of information regarding my skills, experience, and social media links. I've created the website from scratch using Python and using a CSS library named Bootstrap.
@@ -18,7 +17,7 @@ If you want to reach out, you may do so using the following 🙂
 
 ## <a href="https://moddingcommunity.com/forums/topic/7-our-vision-goals-partner-proposal/#comment-7" target="_blank"><img src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" data-canonical-src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" width="600" height="65" /></a>
 
-I've learned all my technical, marketing, and leadership knowledge below from modding games/game servers (networking) and managing large gaming communities since I was twelve years old. This lead to me founding a major project called [The Modding Community](https://moddingcommunity.com/forums/topic/7-our-vision-goals-partner-proposal/#comment-7). We are a community with goals to shine spotlight and support onto the modding community (gaming and media content/entertainment). Our primary goal is to introduce as many new people to the modding community which in return will improve content creation, gaming, careers, talent, and more along with make things like gaming/media more enjoyable!
+I've learned all my technical, marketing, and leadership knowledge below from modding games/game servers (networking) and managing large gaming communities since I was twelve years old. This led to me founding a major project called [The Modding Community](https://moddingcommunity.com/forums/topic/7-our-vision-goals-partner-proposal/#comment-7). We are a community with goals to shine spotlight and support onto the modding community (gaming and media content/entertainment). We introduce as many new people to the modding community as possible which in return will improve content creation, gaming, careers, talent, and more along with make things like gaming/media more enjoyable! We also highly support/encourage **open-source** projects!
 
 We already have a few large content creators interested/involved and I'm sure that'll highly grow with our vision/goal when the product is officially released!
 
