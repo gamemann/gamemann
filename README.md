@@ -1,3 +1,6 @@
+### Why Did You Follow Me?
+I often **manually** follow users because I'm looking for open-source users and projects to support via suggestions or improvements to code (especially smaller projects that deserve support and I can't find otherwise). This allows me to see projects others are working on and I've already found interesting projects like an open-source [Food Delivery back-end](https://github.com/Crunch-Garage/food-delivery)! I also want to mention I have made a [GitHub Follow Bot](https://github.com/gamemann/GitHub-Follow-Bot) for educational purposes that has many features, but I do **not** use this personally since I enjoy manually following users myself which allows me to look at a lot of GitHub profiles, projects, and so on.
+
 Heya, my name is Christian and I **love** the open-source community! I am a self-taught programmer/network engineer who enjoys learning and progressing with technology. If you find any code/configuration of mine that can be improved on, I encourage you to point it out and create pull requests if necessary!
 
 [Deaconn](https://deaconn.net/) acts as my portfolio which includes a custom-made blog and a lot of information regarding my skills, experience, and social media links. I've created the website from scratch using Python and using a CSS library named Bootstrap.
