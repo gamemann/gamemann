@@ -19,7 +19,7 @@ If you want to reach out, you may do so using the following 🙂
 
 I've learned all my technical, marketing, and leadership knowledge below from modding games/game servers (networking) and managing large gaming communities since I was twelve years old. This led to me founding a major project called [The Modding Community](https://moddingcommunity.com/forums/topic/7-our-vision-goals-partner-proposal/#comment-7). We are a community with goals to shine spotlight and support onto the modding community (gaming and media content/entertainment). We introduce as many new people to the modding community as possible which in return will improve content creation, gaming, careers, talent, and more along with make things like gaming/media more enjoyable! We also highly support/encourage **open-source** projects!
 
-We already have a few large content creators interested/involved and I'm sure that'll highly grow with our vision/goal when the product is officially released!
+We already have a few large content creators interested/involved and I'm sure that'll highly grow with our vision/goal when the product is officially released! We also plan to make open-source video games with full mod, free-to-play, and cross-platform support (e.g. Xbox, Playstation, and PC players can play on the same servers that may be hosted by anybody).
 
 If you want to be a part of a community with all kinds of knowledgeable/talented individuals (content creators of all sizes, programming, modeling, network engineering, and more), TMC is for you!
 
