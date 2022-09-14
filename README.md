@@ -32,6 +32,7 @@ A new and exciting project aimed to put more spotlight and support on modding vi
 #### [Laid Back Gaming (LBG)](https://lbgaming.co/)
 A new multi-gaming community with a new and improved [Anycast](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/) network.
 
+### Retired
 #### [Games For Life (GFL)](https://GFLClan.com/)
 A multi-gaming community that hosts game servers for many different games (founded and owned from January 25th, 2011 to July 13th, 2021). I also developed and maintained a custom [Anycast](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/) [network](https://gflclan.com/forum/959-gfls-network/) for two years under GFL (2019 - 2021).
 
