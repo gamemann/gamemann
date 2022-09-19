@@ -42,7 +42,7 @@ If you want to be a part of a community with all kinds of knowledgeable/talented
 **[Speedrun: The Game](https://github.com/speedruntg)** - An open-source video game made by [The Modding Community](https://moddingcommunity.com/). Will be making an open-source timer/world record library (support for external game use as well) along with allowing the community to create their own flavors/game modes and maps for the game via modding tools and support!
 
 ### Other
-**[NetConn](https://github.com/Deaconn-net/NetConn) - Open-source router and firewall software for Linux written in Go. Utilizes Linux's [XDP](https://www.iovisor.org/technology/xdp) hook through [(e)BPF](https://ebpf.io/) for fast packet processing.
+**[NetConn](https://github.com/Deaconn-net/NetConn)** - Open-source router and firewall software for Linux written in Go. Utilizes Linux's [XDP](https://www.iovisor.org/technology/xdp) hook through [(e)BPF](https://ebpf.io/) for fast packet processing.
 
 **[XDP Firewall](https://github.com/gamemann/XDP-Firewall)** - A firewall that utilizes the Linux kernel's [XDP](https://www.iovisor.org/technology/xdp) hook. The XDP hook allows for very fast network processing on Linux systems. This is great for dropping malicious traffic from a (D)DoS attack. IPv6 is supported with this firewall! I hope this helps existing network engineers/programmers interested in utilizing XDP or anybody interested in getting into those fields! (D)DoS mitigation/prevention is such an important part of Cyber Security and understanding the concept of networking and packet flow on a low-medium level would certainly help those who are pursuing a career in the field 🙂
 
