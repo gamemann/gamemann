@@ -17,9 +17,9 @@ If you want to reach out, you may do so using the following 🙂
 * **Email** - My email address is listed on this profile for those logged into GitHub.
 * **Discord** - My tag is **christiano#1190**.
 
-## <a href="https://docs.google.com/presentation/d/e/2PACX-1vSlROYETsWYlJkqM7y9J5qeHRjh6ZY6Liv0RIkxSX6EjQ7X3_kzQFkp3HNHtebks8YAe3e2QV2lBmka/pub" target="_blank"><img src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" data-canonical-src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" width="600" height="65" /></a>
+## <a href="https://moddingcommunity.com/about" target="_blank"><img src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" data-canonical-src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" width="600" height="65" /></a>
 
-I've learned all my technical, marketing, and leadership knowledge below from modding games/game servers (networking) and managing large gaming communities since I was twelve years old. This led to me founding a major project called [The Modding Community](https://docs.google.com/presentation/d/e/2PACX-1vSlROYETsWYlJkqM7y9J5qeHRjh6ZY6Liv0RIkxSX6EjQ7X3_kzQFkp3HNHtebks8YAe3e2QV2lBmka/pub). We are a community with goals to shine spotlight and support onto the modding community (gaming and media content/entertainment). We introduce as many new people to the modding community as possible which in return will improve content creation, gaming, careers, talent, and more along with make things like gaming/media more enjoyable! We also highly support/encourage **open-source** projects!
+I've learned all my technical, marketing, and leadership knowledge below from modding games/game servers (networking) and managing large gaming communities since I was twelve years old. This led to me founding a major project called [The Modding Community](https://moddingcommunity.com/about). We are a community with goals to shine spotlight and support onto the modding community (gaming and media content/entertainment). We introduce as many new people to the modding community as possible which in return will improve content creation, gaming, careers, talent, and more along with make things like gaming/media more enjoyable! We also highly support/encourage **open-source** projects!
 
 We already have a few large content creators interested/involved and I'm sure that'll highly grow with our vision/goal when the product is officially released! We also plan to make open-source video games with full mod, free-to-play, and cross-platform support (e.g. Xbox, Playstation, and PC players can play on the same servers that may be hosted by anybody).
 
@@ -28,7 +28,7 @@ If you want to be a part of a community with all kinds of knowledgeable/talented
 **Note** - We are planning to launch an **AI/machine learning** division in the future!
 
 ## My Community Projects
-**[The Modding Community (TMC)](https://moddingcommunity.com/forums/topic/7-our-vision-goals-partner-proposal/#comment-7)** - A new and exciting project aimed to put more spotlight and support on modding via custom content creation, suggestions on how to improve the modding community, and more! This has huge potential to change gaming, media/content creation, entertainment, and more!
+**[The Modding Community (TMC)](https://moddingcommunity.com/about)** - A new and exciting project aimed to put more spotlight and support on modding via custom content creation, suggestions on how to improve the modding community, and more! This has huge potential to change gaming, media/content creation, entertainment, and more!
 
 **[Laid Back Gaming (LBG)](https://lbgaming.co/)** - A new multi-gaming community with a new and improved [Anycast](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/) network.
 
