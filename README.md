@@ -39,7 +39,7 @@ If you want to be a part of a community with all kinds of knowledgeable/talented
 **[Browser.TF](https://Browser.tf/)** - A fast and simple web-sided server browser for the game Team Fortress 2 I created in 2015/2016 while I was in High School (source code [here](https://github.com/gamemann/Browser.TF)).
 
 ### Games
-**[Speedrun: The Game](https://github.com/speedruntg) - An open-source video game made by [The Modding Community](https://moddingcommunity.com/). Will be making an open-source timer/world record library (support for external game use as well) along with allowing the community to create their own flavors/game modes and maps for the game via modding tools and support!
+**[Speedrun: The Game](https://github.com/speedruntg)** - An open-source video game made by [The Modding Community](https://moddingcommunity.com/). Will be making an open-source timer/world record library (support for external game use as well) along with allowing the community to create their own flavors/game modes and maps for the game via modding tools and support!
 
 ### Other
 **[NetConn](https://github.com/Deaconn-net/NetConn) - Open-source router and firewall software for Linux written in Go. Utilizes Linux's [XDP](https://www.iovisor.org/technology/xdp) hook through [(e)BPF](https://ebpf.io/) for fast packet processing.
