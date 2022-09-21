@@ -6,8 +6,6 @@ Heya, my name is Christian and I **love** the open-source community! I am a self
 
 [Deaconn](https://deaconn.net/) acts as my portfolio which includes a custom-made blog and a lot of information regarding my skills, (professional) experience, and ways to contact me (email and social media). I've created the website's design from scratch and utilize Django's web framework for the back-end using Python. The website's source code and installation/deployment files/guides may be found [here](https://github.com/Deaconn-net)! I hope some of you find the code interesting 🙂
 
-[My Patreon ❤️](https://www.patreon.com/cdeacon/)
-
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamemann&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats)
 
 ![](https://komarev.com/ghpvc/?username=gamemann&label=Views&color=116262)
