@@ -15,7 +15,7 @@ If you want to reach out, you may do so using the following 🙂
 * **Email** - My email address is listed on this profile for those logged into GitHub.
 * **Discord** - My tag is **christiano#1190**.
 
-## <a href="https://moddingcommunity.com/" target="_blank"><img src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" data-canonical-src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" width="600" height="65" /></a>
+## <a href="https://moddingcommunity.com/about" target="_blank"><img src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" data-canonical-src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" /></a>
 
 Firstly, I'd recommend viewing [this presentation](https://moddingcommunity.com/about) which explains what [The Modding Community](https://moddingcommunity.com) is along with a new open-source game called [Speedrun: The Game](https://github.com/speedruntg). Open-source developers, especially in game development, may find this very interesting!
 
