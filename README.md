@@ -1,6 +1,19 @@
 ## Why Did You Follow Me?
 I often **manually** follow users because I'm looking for open-source users and projects to support via suggestions or improvements to code (especially smaller projects that deserve support and I can't find otherwise). This allows me to see projects others are working on and I've already found interesting projects like an open-source [Food Delivery back-end](https://github.com/Crunch-Garage/food-delivery)! I also want to mention I have made a [GitHub Follow Bot](https://github.com/gamemann/GitHub-Follow-Bot) for educational purposes that has many features, but I do **not** use this personally since I enjoy manually following users myself which allows me to look at a lot of GitHub profiles, projects, and so on.
 
+## <a href="https://moddingcommunity.com/about" target="_blank"><img src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" data-canonical-src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" /></a>
+
+Want to be a part of a community that encourages open-source and custom content creation? [The Modding Community](https://moddingcommunity.com/) is for you! We are a new, but ever-expanding community that wants to promote modding, networking, security, and give users a place to share their mods, projects, tools, and more! We have a GitHub organization [here](https://github.com/modcommunity) where we allow developers to contribute via pull requests to our projects directly! We will be providing modders with a marketplace, server and community browser, and hub while also creating open-source mod tools with the community's help and feedback! We are using open-source game engines such as [Godot Engine](https://godotengine.org). If you're interested, help us make modding the norm and generally make the gaming, technology, and media industries better!
+
+I've learned all my technical, marketing, and leadership knowledge below from modding games/game servers (networking) and managing large gaming communities since I was twelve years old. This led to me founding the project and trying to push forward network security and guides.
+
+We already have large content creators, game developers, modders, and many others involved! We are using and collaborating with **open-source** game engines to create games and tools with full mod/open-source (free) and cross-play support. We are going to be creating games that may be ran inside of the web browser along with mobile, console (Xbox, Playstation, etc.), and computer applications (Windows, Linux, MacOS, etc.) support. We will have a server/mod browser where users can connect to any community or modded servers that may be provided by any individual, community, or maintainer.
+
+**Note** - We have a [Security And Research](https://moddingcommunity.com/forums/forum/117-security-and-research/) forum category that involves security-related discussions on reverse engineeering, operating systems, networking, AI/machine learning, penetration testing, and more!
+
+### Speedrun: The Game
+In addition, we are creating an open-source game called [Speedrun: The Game](https://github.com/speedruntg) that ties into all of the above! This will be a game geared towards the speedrunning community and we will be creating an open-source timer/record library for community or modded servers to use! This timer will include support for external games and we will be providing a record library of speedruns (world records and such). With that said, with full modding support, the community will be able to create their own game modes, flavors, maps, and more for the game! We are looking for anybody with game development/design skills to help out with this project!
+
 ## Me, Myself & I
 Heya, my name is Christian and I **love** the open-source community! I am a self-taught programmer/network engineer who enjoys learning and progressing with technology. If you find any code/configuration of mine that can be improved on, I encourage you to point it out and create pull requests if necessary!
 
@@ -14,19 +27,6 @@ If you want to reach out, you may do so using the following 🙂
 * **GitHub Discussions** - [here](https://github.com/gamemann/gamemann/discussions/categories/reach-out).
 * **Email** - My email address is listed on this profile for those logged into GitHub.
 * **Discord** - My tag is **christiano#1190**.
-
-## <a href="https://moddingcommunity.com/about" target="_blank"><img src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" data-canonical-src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" /></a>
-
-Want to be a part of a community that encourages open-source and custom content creation? [The Modding Community](https://moddingcommunity.com/) is for you! We are a new, but ever-expanding community that wants to promote modding, networking, security, and give users a place to share their mods, projects, tools, and more! We have a GitHub organization [here](https://github.com/modcommunity) where we allow developers to contribute via pull requests to our projects directly! We will be providing modders with a marketplace, server and community browser, and hub while also creating open-source mod tools with the community's help and feedback! We are using open-source game engines such as [Godot Engine](https://godotengine.org). If you're interested, help us make modding the norm and generally make the gaming, technology, and media industries better!
-
-I've learned all my technical, marketing, and leadership knowledge below from modding games/game servers (networking) and managing large gaming communities since I was twelve years old. This led to me founding the project and trying to push forward network security and guides.
-
-We already have large content creators, game developers, modders, and many others involved! We are using and collaborating with **open-source** game engines to create games and tools with full mod/open-source (free) and cross-play support. We are going to be creating games that may be ran inside of the web browser along with mobile, console (Xbox, Playstation, etc.), and computer applications (Windows, Linux, MacOS, etc.) support. We will have a server/mod browser where users can connect to any community or modded servers that may be provided by any individual, community, or maintainer.
-
-**Note** - We have a [Security And Research](https://moddingcommunity.com/forums/forum/117-security-and-research/) forum category that involves security-related discussions on reverse engineeering, operating systems, networking, AI/machine learning, penetration testing, and more!
-
-### Speedrun: The Game
-In addition, we are creating an open-source game called [Speedrun: The Game](https://github.com/speedruntg) that ties into all of the above! This will be a game geared towards the speedrunning community and we will be creating an open-source timer/record library for community or modded servers to use! This timer will include support for external games and we will be providing a record library of speedruns (world records and such). With that said, with full modding support, the community will be able to create their own game modes, flavors, maps, and more for the game! We are looking for anybody with game development/design skills to help out with this project!
 
 ## My Community Projects
 **[The Modding Community (TMC)](https://moddingcommunity.com/)** - A new and exciting project aimed to put more spotlight and support on modding via custom content creation, suggestions on how to improve the modding community, and more! This has huge potential to change gaming, media/content creation, entertainment, and more!
