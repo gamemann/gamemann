@@ -14,6 +14,12 @@ We already have large content creators, game developers, modders, and many other
 ### Speedrun: The Game
 In addition, we are creating an open-source game called [Speedrun: The Game](https://github.com/speedruntg) that ties into all of the above! This will be a game geared towards the speedrunning community and we will be creating an open-source timer/record library for community or modded servers to use! This timer will include support for external games and we will be providing a record library of speedruns (world records and such). With that said, with full modding support, the community will be able to create their own game modes, flavors, maps, and more for the game! We are looking for anybody with game development/design skills to help out with this project!
 
+### <a href="https://gamecom.io/" target="_blank"><img src="https://github.com/gamemann/gamecom/blob/master/public/images/gamecom.png" data-canonical-src="https://github.com/gamemann/gamecom/blob/master/public/images/gamecom.png" /></a>
+[GameCom.io](https://gamecom.io) will be a side project to [@modcommunity](https://github.com/modcommunity) and retrieve data via an API. It will list games, communities, mods, and servers!
+
+### <a href="https://bestmods.io/" width="50%" target="_blank"><img src="https://github.com/gamemann/bestmods/blob/master/public/images/bestmods.png" data-canonical-src="https://github.com/gamemann/bestmods/blob/master/public/images/bestmods.png" /></a>
+[BestMods.io](https://bestmods.io) will be a side project to [@modcommunity](https://github.com/modcommunity) and retrieve data via an API. It will list mods and sort them by popularity and ratings!
+
 ## Me, Myself & I
 Heya, my name is Christian and I **love** the open-source community! I am a self-taught programmer/network engineer who enjoys learning and progressing with technology. If you find any code/configuration of mine that can be improved on, I encourage you to point it out and create pull requests if necessary!
 
