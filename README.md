@@ -1,7 +1,7 @@
 Follow me on Twitter [@ChristianDeacon](https://twitter.com/ChristianDeacon)! I'm pushing forward multiple open source projects I believe many developers would be interested in. These projects will involve game and network development with a focus on modding support. Please see my projects below for more details 🙂
 
 ### Why Did You Follow Me?
-I **manually** follow users because I'm looking for projects to support and contribute to. I love reading other's code and looking at other's profiles! I also enjoy contributing to the open source community.
+I **manually** follow users because I'm looking for projects to support and contribute to. I love reading code from others and contributing to the open source community.
 
 ### Me, Myself & I
 Heya, my name is Christian and I am a self-taught engineer with a love for modding, creating things, and generally having fun & making things that improves other people's lives. I own the [@modcommunity](https://github.com/modcommunity) and also work on open source projects such as [@BestMods](https://github.com/BestMods) and [@Gamecom](https://github.com/gamemann/gamecom)!
