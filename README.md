@@ -27,12 +27,7 @@ We are a community that is taking [modding](https://docs.google.com/presentation
 #### Speedrun: The Game
 Additionally, we are creating an open source game called [Speedrun: The Game](https://github.com/speedruntg)! This game will attract people from the speedrun community and will include a timer & record library for game servers to use! This timer will include support for external games and we will include record libraries of our own for world records and such.
 
-If you want to reach out, you may do so using the following 🙂
-
-### Lastly, Other Contact Methods
-* **GitHub Discussions** - [here](https://github.com/gamemann/gamemann/discussions/categories/reach-out).
-* **Email** - My email address is listed on this profile for those logged into GitHub.
-* **Discord** - My tag is **christiano#1190**.
+My Discord tag is **christiano#1190**.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamemann&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats)
 
