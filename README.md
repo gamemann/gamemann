@@ -1,4 +1,4 @@
-Follow me on Twitter [@ChristianDeacon](https://twitter.com/ChristianDeacon)! I'm pushing forward multiple open source projects I believe many developers would be interested in. These projects will involve game and network development with a focus on modding support. Please see my projects below for more details 🙂
+Follow me on Twitter [@ChristianDeacon](https://twitter.com/ChristianDeacon)! I'm pushing forward multiple open source projects I believe many developers would be interested in. These projects will involve game and network development with a focus on modding support. See my projects below for more details 🙂
 
 ### Why Did You Follow Me?
 I **manually** follow users because I'm looking for projects to support and contribute to. I love reading code from others and contributing to the open source community.
