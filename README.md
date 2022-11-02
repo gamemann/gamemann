@@ -15,25 +15,29 @@ Heya, my name is Christian and I am a self-taught engineer with a love for moddi
 We are a community that is taking [modding](https://docs.google.com/presentation/d/e/2PACX-1vSlROYETsWYlJkqM7y9J5qeHRjh6ZY6Liv0RIkxSX6EjQ7X3_kzQFkp3HNHtebks8YAe3e2QV2lBmka/pub?slide=id.g155efb98b4d_0_10) to the next level by providing a unique marketplace, server and community discovery/browser, and forum for modders. With that said, we are working with open source game engines such as [Godot](https://godotengine.org) to create and improve modding tools.
 
 ### Best Mods
-[BestMods.io](https://bestmods.io) will be a side project to [@modcommunity](https://github.com/modcommunity) and retrieve data via an API. It will list mods and sort them by popularity and ratings!
+[BestMods.io](https://bestmods.io) is an [open source](https://github.com/BestMods) website that lists many mods for any game! It retrieves data from multiple sources on the Internet and is powered by the [@modcommunity](https://github.com/modcommunity)! The website is still *in development*.
 
 <a href="https://bestmods.io/" target="_blank"><img src="https://github.com/BestMods/bestmods/blob/master/preview.jpeg" data-canonical-src="https://github.com/BestMods/bestmods/blob/master/preview.jpeg" /></a>
 
 ### Gamecom
-[Gamecom.io](https://gamecom.io) will be a side project to [@modcommunity](https://github.com/modcommunity) and retrieve data via an API. It will list games, communities, mods, and servers!
+[Gamecom.io](https://gamecom.io) is similar to [@BestMods](https://github.com/BestMods) and is also powered by the [@modcommunity](https://github.com/modcommunity). However, it will additionally list communities, servers, games, and more!
 
-<a href="https://gamecom.io/" target="_blank"><img src="preview.jpeg" data-canonical-src="https://github.com/gamemann/gamecom/preview.jpeg" /></a>
+<a href="https://gamecom.io/" target="_blank"><img src="https://github.com/gamemann/gamecom/blob/master/preview.jpeg" data-canonical-src="https://github.com/gamemann/gamecom/blob/master/preview.jpeg" /></a>
 
 ### Speedrun: The Game
-In addition, we are creating an open-source game called [Speedrun: The Game](https://github.com/speedruntg) that ties into all of the above! This will be a game geared towards the speedrunning community and we will be creating an open-source timer/record library for community or modded servers to use! This timer will include support for external games and we will be providing a record library of speedruns (world records and such). With that said, with full modding support, the community will be able to create their own game modes, flavors, maps, and more for the game! We are looking for anybody with game development/design skills to help out with this project!
+Additionally, we are creating an open source game called [Speedrun: The Game](https://github.com/speedruntg)! This game will attract people from the speedrun community and will include a timer & record library for game servers to use! This timer will include support for external games and we will include record libraries of our own for world records and such.
 
 If you want to reach out, you may do so using the following 🙂
 
 ## My Secondary Projects
 ### Community
-**[Laid Back Gaming (LBG)](https://lbgaming.co/)** - A new multi-gaming community with a new and improved [Anycast](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/) network.
+**[Laid Back Gaming](https://lbgaming.co/)** - A new multi-gaming community with a new and improved [Anycast](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/) network.
 
-**[Games For Life (GFL)](https://GFLClan.com/)** - A multi-gaming community that hosts game servers for many different games (founded and owned from January 25th, 2011 to July 13th, 2021). I also developed and maintained a custom [Anycast](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/) [network](https://gflclan.com/forum/959-gfls-network/) for two years under GFL (2019 - 2021).
+**Note** - I am not active in this community due to time restraints from my primary projects and only help out with the technical side of things when I can.
+
+**[Games For Life](https://GFLClan.com/)** - A multi-gaming community that hosts game servers for many different games (founded and owned from January 25th, 2011 to July 13th, 2021). I also developed and maintained a custom [Anycast](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/) [network](https://gflclan.com/forum/959-gfls-network/) for two years under GFL (2019 - 2021).
+
+**Note** - No longer involved.
 
 ### Websites
 **[Browser.TF](https://Browser.tf/)** - A fast and simple web-sided server browser for the game Team Fortress 2 I created in 2015/2016 while I was in High School (source code [here](https://github.com/gamemann/Browser.TF)).
