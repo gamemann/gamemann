@@ -3,7 +3,7 @@ I'm pushing forward multiple open source projects I believe many developers woul
 Join my Discord [server](https://discord.deaconn.net/) if you want to contact me! Discord is the best way to get in contact with me and I will be posting a lot of updates regarding my projects below there!
 
 ### Why Did You Follow Me?
-I **manually** follow users because I'm looking for projects to support and contribute to. I love reading code from others and contributing to the open source community!
+I **manually** follow users because I'm looking for less popular projects to support and contribute to. I love reading code from others and contributing to the open source community!
 
 ### Me, Myself & I
 ```C
