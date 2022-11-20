@@ -1,6 +1,6 @@
-Follow me on Twitter [@ChristianDeacon](https://twitter.com/ChristianDeacon) and join my Discord [server](https://discord.deaconn.net/)! Twitter and Discord are the best ways to get in contact with me and I will be posting a lot of updates regarding my projects below there!
-
 I'm pushing forward multiple open source projects I believe many developers would be interested in who are into web, game, network, or security development & design. These projects have **major** potential to change the direction of gaming on a large scale by using the power of **modding** like never seen before and I am working hard on these projects myself, but any help would be highly appreciated (close to first release)! See my projects below for more details 🙂
+
+Join my Discord [server](https://discord.deaconn.net/) if you want to contact me! Discord is the best way to get in contact with me and I will be posting a lot of updates regarding my projects below there!
 
 ### Why Did You Follow Me?
 I **manually** follow users because I'm looking for projects to support and contribute to. I love reading code from others and contributing to the open source community!
@@ -13,6 +13,8 @@ printf("Hi!");
 I am a 24 year old self-taught engineer with a love for modding, creating things, and generally having fun & making things that improves other people's lives. I own the [@modcommunity](https://github.com/modcommunity) and also work on open source projects such as [@BestMods](https://github.com/BestMods) and [@Gamecom](https://github.com/gamemann/gamecom)! I have over twelve years of technical, management, and marketing experience and have owned multiple large gaming communities in the past which have hosted popular modded game servers and more!
 
 [Deaconn](https://deaconn.net/) acts as my portfolio and lists a lot of information regarding my skills and experience. The website's source code and deployments may be found [here](https://github.com/Deaconn-net)! I hope some of you find the code interesting!
+
+Follow me on Twitter [@ChristianDeacon](https://twitter.com/ChristianDeacon)!
 
 ### My Primary Projects
 #### The Modding Community
