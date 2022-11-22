@@ -5,17 +5,6 @@ Join my Discord [server](https://discord.deaconn.net/) if you want to contact me
 ### Why Did You Follow Me?
 I **manually** follow users because I'm looking for less popular projects to support and contribute to. I love reading code from others and contributing to the open source community!
 
-### Me, Myself & I
-```C
-printf("Hi!");
-```
-
-I am a 24 year old self-taught engineer with a love for modding, creating things, and generally having fun & making things that improves other people's lives. I own the [@modcommunity](https://github.com/modcommunity) and also work on open source projects such as [@BestMods](https://github.com/BestMods) and [@Gamecom](https://github.com/gamemann/gamecom)! I have over twelve years of technical, management, and marketing experience and have owned multiple large gaming communities in the past which have hosted popular modded game servers and more!
-
-[Deaconn](https://deaconn.net/) acts as my portfolio and lists a lot of information regarding my skills and experience. The website's source code and deployments may be found [here](https://github.com/Deaconn-net)! I hope some of you find the code interesting!
-
-Follow me on Twitter [@ChristianDeacon](https://twitter.com/ChristianDeacon)!
-
 ### My Primary Projects
 #### Best Mods
 [BestMods.io](https://bestmods.io) is an [open source](https://github.com/BestMods) website that lists many mods for any game! It retrieves data from multiple sources on the Internet and is powered by the [@modcommunity](https://github.com/modcommunity)! The website is still *in development*.
@@ -38,10 +27,16 @@ Want to see one example of how powerful modding can be with modded game servers?
 
 <a href="https://gamecom.io/" target="_blank"><img src="https://github.com/gamemann/gamecom/blob/master/preview.jpeg" data-canonical-src="https://github.com/gamemann/gamecom/blob/master/preview.jpeg" /></a>
 
-#### Speedrun: The Game
-Additionally, we are creating an open source game called [Speedrun: The Game](https://github.com/speedruntg)! This game will attract people from the speedrun community and will include a timer & record library for game servers to use! This timer will include support for external games and we will include record libraries of our own for world records and such.
+### Me, Myself & I
+```C
+printf("Hi!");
+```
 
-My Discord tag is **christiano#1190**.
+I am a 24 year old self-taught engineer with a love for modding, creating things, and generally having fun & making things that improves other people's lives. I own the [@modcommunity](https://github.com/modcommunity) and also work on open source projects such as [@BestMods](https://github.com/BestMods) and [@Gamecom](https://github.com/gamemann/gamecom)! I have over twelve years of technical, management, and marketing experience and have owned multiple large gaming communities in the past which have hosted popular modded game servers and more!
+
+[Deaconn](https://deaconn.net/) acts as my portfolio and lists a lot of information regarding my skills and experience. The website's source code and deployments may be found [here](https://github.com/Deaconn-net)! I hope some of you find the code interesting!
+
+Follow me on Twitter [@ChristianDeacon](https://twitter.com/ChristianDeacon)! My Discord tag is **christiano#1190**.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamemann&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats)
 
