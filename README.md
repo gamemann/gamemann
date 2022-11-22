@@ -21,8 +21,6 @@ We are also creating an open-source base game with a focus on modding and cross-
 #### Gamecom
 [Gamecom.io](https://gamecom.io) is similar to [@BestMods](https://github.com/BestMods) and is also powered by the [@modcommunity](https://github.com/modcommunity). However, it will additionally list communities, servers, games, and more!
 
-<a href="https://gamecom.io/" target="_blank"><img src="https://github.com/gamemann/gamecom/blob/master/preview.jpeg" data-canonical-src="https://github.com/gamemann/gamecom/blob/master/preview.jpeg" /></a>
-
 ### Me, Myself & I
 ```C
 printf("Hi!");
