@@ -17,6 +17,11 @@ I am a 24 year old self-taught engineer with a love for modding, creating things
 Follow me on Twitter [@ChristianDeacon](https://twitter.com/ChristianDeacon)!
 
 ### My Primary Projects
+#### Best Mods
+[BestMods.io](https://bestmods.io) is an [open source](https://github.com/BestMods) website that lists many mods for any game! It retrieves data from multiple sources on the Internet and is powered by the [@modcommunity](https://github.com/modcommunity)! The website is still *in development*.
+
+<a href="https://bestmods.io/" target="_blank"><img src="https://github.com/BestMods/bestmods/blob/master/preview.jpeg" data-canonical-src="https://github.com/BestMods/bestmods/blob/master/preview.jpeg" /></a>
+
 #### The Modding Community
 <a href="https://moddingcommunity.com/about" target="_blank"><img src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" data-canonical-src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" /></a>
 
@@ -27,11 +32,6 @@ The projects we're creating or improving have **MAJOR** potential to positively 
 I personally want to bring many loved game modes, maps, servers, and so much more made by the **community** such as Counter-Strike Zombie Escape to open-source games surrounded by a big community that will improve these game modes or create new ones for many others to enjoy. Keep in mind this also includes 2D games as well!
 
 Want to see one example of how powerful modding can be with modded game servers? Watch this [video](https://www.youtube.com/watch?v=mW4EhWVaxVw) of my old popular CS:S Zombie Escape server from ten years ago. The game is made by [Valve](http://valvesoftware.com/) (Counter-Strike: Source), but the game mode, map (Lord Of The Rings Helms Deep), player models, materials, and so much more are made by the **community** (usually all for free other than the game itself) and awesome developers from [SourceMod via AlliedMods](https://forums.alliedmods.net/forumdisplay.php?f=132)! The server was hosted by my old gaming community and I. Keep in mind this game and its tools are **TWENTY YEARS OLD** and have rarely been updated since then because Valve stopped caring for modding support over ten years ago! Yet, many others including myself play this game and its modded servers more than the "new generation" of games since the community keeps making so much content that keeps the game fresh. 
-
-#### Best Mods
-[BestMods.io](https://bestmods.io) is an [open source](https://github.com/BestMods) website that lists many mods for any game! It retrieves data from multiple sources on the Internet and is powered by the [@modcommunity](https://github.com/modcommunity)! The website is still *in development*.
-
-<a href="https://bestmods.io/" target="_blank"><img src="https://github.com/BestMods/bestmods/blob/master/preview.jpeg" data-canonical-src="https://github.com/BestMods/bestmods/blob/master/preview.jpeg" /></a>
 
 #### Gamecom
 [Gamecom.io](https://gamecom.io) is similar to [@BestMods](https://github.com/BestMods) and is also powered by the [@modcommunity](https://github.com/modcommunity). However, it will additionally list communities, servers, games, and more!
