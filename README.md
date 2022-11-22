@@ -1,11 +1,11 @@
-I'm pushing forward multiple open source projects I believe many developers would be interested in who are into web, game, network, or security development & design. These projects have **major** potential to change the direction of gaming on a large scale by using the power of **modding** like never seen before and I am working hard on these projects myself, but any help would be highly appreciated (close to first release)! See my projects below for more details 🙂
+I'm pushing forward multiple open source projects I believe many developers would be interested in who are into web, game, network, or security development & design. These projects have **major** potential to change the direction of gaming on a large scale by using the power of **modding** like never seen before! See my projects below for more details 🙂
 
 Join my Discord [server](https://discord.deaconn.net/) if you want to contact me! Discord is the best way to get in contact with me and I will be posting a lot of updates regarding my projects below there!
 
 ### Why Did You Follow Me?
 I **manually** follow users because I'm looking for less popular projects to support and contribute to. I love reading code from others and contributing to the open source community!
 
-### My Primary Projects
+### My Main Projects
 #### Best Mods
 [BestMods.io](https://bestmods.io) is an [open source](https://github.com/BestMods) website that lists many mods for any game! It retrieves data from multiple sources on the Internet and is powered by the [@modcommunity](https://github.com/modcommunity)! The website is still *in development*.
 
