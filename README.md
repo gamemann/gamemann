@@ -16,7 +16,7 @@ I **manually** follow users because I'm looking for less popular projects to sup
 
 We are a community that is taking [modding](https://docs.google.com/presentation/d/e/2PACX-1vSlROYETsWYlJkqM7y9J5qeHRjh6ZY6Liv0RIkxSX6EjQ7X3_kzQFkp3HNHtebks8YAe3e2QV2lBmka/pub?slide=id.g155efb98b4d_0_10) to the next level by providing a unique marketplace, server and community discovery/browser (with match-making systems and flexible integration for game developers), and forum for modders. With that said, we are working with open source game engines such as [Godot](https://godotengine.org) to create and improve modding tools.
 
-We are also creating an open-source base game with a focus on modding and cross-platform support! Check it out [here](https://github.com/modcommunity/Base-Game)!
+We are also creating an open source base game with a focus on modding and cross-platform support! Check it out [here](https://github.com/modcommunity/Base-Game)!
 
 #### Gamecom
 [Gamecom.io](https://gamecom.io) is similar to [@BestMods](https://github.com/BestMods) and is also powered by the [@modcommunity](https://github.com/modcommunity). However, it will additionally list communities, servers, games, and more!
