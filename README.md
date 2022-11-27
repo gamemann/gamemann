@@ -21,6 +21,11 @@ We are also creating an open source base game with a focus on modding and cross-
 #### Gamecom
 [Gamecom.io](https://gamecom.io) is similar to [@BestMods](https://github.com/BestMods) and is also powered by the [@modcommunity](https://github.com/modcommunity). However, it will additionally list communities, servers, games, and more!
 
+#### Past Projects
+* [Games For Life](https://GFLClan.com/) - Multi-gaming community (founded and owned from January 25th, 2011 to July 13th, 2021).
+* [Browser.TF](https://browser.tf/) - A neat web-sided server browser for TF2 until I couldn't afford the domain, the domain went to the market, and another entity got it to resell, but isn't responding to any of my requests (since I now have the money).
+* [The Developing Community](https://thedevelopingcommunity.com) - Old community I tried starting in 2014 or 2015 to bring together other developers. Website source code [here](https://github.com/gamemann/Misc/tree/master/tdc_site)!
+
 ### Me, Myself & I
 ```C
 printf("Hi!");
