@@ -23,7 +23,7 @@ We are also creating an open source base game with a focus on modding and cross-
 
 #### Past Projects
 * [Games For Life](https://GFLClan.com/) - Multi-gaming community (founded and owned from January 25th, 2011 to July 13th, 2021).
-* [Browser.TF](https://browser.tf/) - A neat web-sided server browser I made in 2015/2016 for the game Team Fortress 2 until October of 2022, when I couldn't afford the domain, the domain went to the market, and another entity got it to resell, but isn't responding to any of my requests (since I now have the money). Mega RIP.
+* [Browser.TF](https://browser.tf/) - A neat web-sided server browser I made in 2015/2016 for the game Team Fortress 2 until October of 2022, when I couldn't afford the domain, the domain went to the market, and another entity got it to resell, but isn't responding to any of my requests (since I now have the money). Mega RIP and website's source code [here](https://github.com/gamemann/Browser.TF).
 * [The Developing Community](https://thedevelopingcommunity.com) - Old community I tried starting in 2014 or 2015 to bring together other developers. Website source code [here](https://github.com/gamemann/Misc/tree/master/tdc_site)!
 
 ### Me, Myself & I
