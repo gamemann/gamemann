@@ -1,4 +1,4 @@
-I'm pushing forward multiple open source projects I believe many developers would be interested in who are into web, game, network, or security development & design. These projects have **major** potential to change the direction of gaming on a large scale by using the power of **modding** and **open source** like never seen before! See my projects below for more details 🙂
+Check out **[NextGen Modding](https://github.com/NextGen-Modding)**! We are working on **open-source** tools that will allow game developers to take their community-made content to the next level with the power of modding! We will be supporting [Unity](https://unity.com/), [Unreal Engine](https://www.unrealengine.com/), and [Godot Engine](http://godotengine.org/). I also have other neat open source projects that I'm looking for help on as well below 😄
 
 Join my Discord [server](https://discord.deaconn.net/) if you want to contact me or want a relaxed server focused on technology, gaming, and sports discussions! Discord is the best way to get in contact with me and I will be posting a lot of updates regarding my projects below there!
 
