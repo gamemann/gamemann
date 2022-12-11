@@ -7,7 +7,7 @@ I **manually** follow users because I'm looking for less popular projects to sup
 
 ### My Main Projects
 #### Best Mods
-[BestMods.io](https://bestmods.io) is an [open source](https://github.com/BestMods) website that lists many mods for any game! It retrieves data from multiple sources on the Internet and is powered by the [@modcommunity](https://github.com/modcommunity)! The website is still *in development*.
+[BestMods.io](https://bestmods.io) is an [open source](https://github.com/BestMods) website that lists many mods for any game! It retrieves data from multiple sources on the Internet and is powered by the [@modcommunity](https://github.com/modcommunity) and I! The website is still *in development*.
 
 <a href="https://bestmods.io/" target="_blank"><img src="https://github.com/BestMods/bestmods/blob/master/preview.jpeg" data-canonical-src="https://github.com/BestMods/bestmods/blob/master/preview.jpeg" /></a>
 
