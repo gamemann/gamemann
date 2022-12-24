@@ -5,4 +5,4 @@ Join my Discord [server](https://discord.deaconn.net/) if you want to contact me
 ### Why Did You Follow Me?
 I **manually** follow users because I'm looking for less popular projects to support and contribute to. I love reading code from others and contributing to the open source community!
 
-Check out [Deaconn](https://deaconn.net/) for my resume, blog, and more about me as a person.
+Check out [Deaconn](https://deaconn.net/) for my resume, blog, and more about [me](https://github.com/gamemann/gamemann/blob/main/me.md) as a person.
