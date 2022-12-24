@@ -36,7 +36,3 @@ I am a 25 year old self-taught engineer with a love for modding, creating things
 [Deaconn](https://deaconn.net/) acts as my portfolio and lists a lot of information regarding my skills and experience. The website's source code and deployments may be found [here](https://github.com/Deaconn-net)! I hope some of you find the code interesting!
 
 Follow me on Twitter [@ChristianDeacon](https://twitter.com/ChristianDeacon)! My Discord tag is **christiano#1190**.
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamemann&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats)
-
-![](https://komarev.com/ghpvc/?username=gamemann&label=Views&color=116262)
