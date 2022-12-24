@@ -14,6 +14,9 @@ We are also creating an open source base game with a focus on modding and cross-
 ## Gamecom
 [Gamecom.io](https://gamecom.io) is similar to [@BestMods](https://github.com/BestMods) and is also powered by the [@modcommunity](https://github.com/modcommunity). However, it will additionally list communities, servers, games, and more!
 
+## Best Servers
+[BestServers.io](https://bestservers.io) is similar to [@BestMods](https://github.com/BestMods) and is also powered by the [@modcommunity](https://github.com/modcommunity). However, it will list game servers and hosting services (e.g. deals and packages).
+
 ## Past Projects
 * [Games For Life](https://GFLClan.com/) - Multi-gaming community (founded and owned from January 25th, 2011 to July 13th, 2021).
 * [Browser.TF](https://browser.tf/) - A neat web-sided server browser I made in 2015/2016 for the game Team Fortress 2 until October of 2022, when I couldn't afford the domain, the domain went to the market, and another entity got it to resell, but isn't responding to any of my requests (since I now have the money). Mega RIP and website's source code [here](https://github.com/gamemann/Browser.TF).
