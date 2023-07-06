@@ -1,6 +1,6 @@
 Hi! I'm a software/network engineer and developer with a love for open source. Join [Deaconn's](https://deaconn.net/) Discord [server](https://discord.deaconn.net/) if you want to contact me or want a relaxed server focused on technology, gaming, and sports discussions!
 
-## Official Open-Source Projects
+## Open-Source Projects I'm Working On
 | Name | Source | Started | Active |
 | ---- | ----        | ----    | ----   |
 | [The Modding Community](https://moddingcommunity.com/) | [Link](https://github.com/modcommunity) | Yes | Yes |
