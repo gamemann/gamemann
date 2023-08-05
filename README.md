@@ -1,4 +1,4 @@
-Hi! I'm a software/network engineer and developer with a love for open source.
+Hi! I am a self-taught, open source network, software, and system engineer who is a jack of all trades within the tech industry. I enjoy working with Linux, web development, network engineering and security, penetration testing, and game development.
 
 Join [Deaconn's](https://deaconn.net/) Discord [server](https://discord.deaconn.net/) if you want to contact me or want a relaxed server focused on technology, gaming, and sport discussions!
 
