@@ -2,6 +2,8 @@ Hi! I am a self-taught network, software, and systems engineer with a love for o
 
 **[My Portfolio](https://cdeacon.net) ([Source](https://github.com/gamemann/portfolio))**
 
+[**I Lost My Mom To Pancreatic Cancer**](https://github.com/gamemann/i-lost-my-mom-to-pancreatic-cancer)
+
 Feel free to join my Discord [server](https://discord.deaconn.net/) if you want to contact me or want a relaxed server focused on technology, gaming, and sport discussions!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gamemann&count_private=true&include_all_commits=true&show_icons=true&theme=holi&custom_title=Stats" alt="My GitHub Stats" />
