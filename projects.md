@@ -1,23 +1,596 @@
-# My Main Projects
-## Best Mods
-[BestMods.io](https://bestmods.io) is an [open source](https://github.com/BestMods) website that lists many mods for any game! It retrieves data from multiple sources on the Internet and is powered by the [@modcommunity](https://github.com/modcommunity) and I! The website is still *in development*.
+Here is a full list of projects and repositories I've created and manage.
 
-<a href="https://bestmods.io/" target="_blank"><img src="https://github.com/BestMods/bestmods/blob/master/preview.jpeg" data-canonical-src="https://github.com/BestMods/bestmods/blob/master/preview.jpeg" /></a>
+## Community & Company Projects
+### [TekWorks](https://tekworks.net)
+A future software developer and community. Formerly known as Deaconn and currently in the process of rebanding.
 
-## The Modding Community
-<a href="https://moddingcommunity.com/about" target="_blank"><img src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" data-canonical-src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" /></a>
+* Website [[link](https://tekworks.net)] [[source 2-12-24](https://github.com/tek-works/deaconn-2-12-24)]
+* React Google Analytics [[source](https://github.com/tek-works/react-google-analytics)]
+* **[G]** How To Launch A DoS Attack & Drop It [[website](https://deaconn.net/blog/view/how-to-launch-a-dos-attack-and-drop-it)] [[github](https://github.com/tek-works/how-to-launch-a-dos-attack-and-drop-it)]
+* **[G]** React Form With Dynamic Fields & Formik [[website](https://deaconn.net/blog/view/react-form-with-dynamic-fields-and-formik)] [[github](https://github.com/tek-works/react-form-with-dynamic-fields-and-formik)]
 
-We are a community that is taking [modding](https://docs.google.com/presentation/d/e/2PACX-1vSlROYETsWYlJkqM7y9J5qeHRjh6ZY6Liv0RIkxSX6EjQ7X3_kzQFkp3HNHtebks8YAe3e2QV2lBmka/pub?slide=id.g155efb98b4d_0_10) to the next level by providing a unique marketplace, server and community discovery/browser (with match-making systems and flexible integration for game developers), and forum for modders. With that said, we are working with open source game engines such as [Godot](https://godotengine.org) to create and improve modding tools.
+### [The Modding Community](https://moddingcommunity.com)
+An upcoming inclusive modding community and game developer that currently offers a [forum](https://forum.moddingcommunity.com) and, in the future, will provide a mod workshop, server browser, and much more! We support popular games like [Minecraft](https://www.minecraft.net/en-us), [GTA V](https://www.rockstargames.com/gta-v), [Skyrim](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/), [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/), and many others!
 
-We are also creating an open source base game with a focus on modding and cross-platform support! Check it out [here](https://github.com/modcommunity/Base-Game)!
+* Dot FPS Controller [[source](https://github.com/modcommunity/dot-fps-controller)]
+* **[G]** How To Setup Steam Link On A Raspberry Pi 4 [[website](https://forum.moddingcommunity.com/t/how-to-setup-steam-link-on-a-raspberry-pi-4-1080p-120hz/42)] [[github](https://github.com/modcommunity/steam-link-with-raspberry-pi-setup)]
+* **[G]** How To Make A L4D2 Server With Mods [[website](https://forum.moddingcommunity.com/t/how-to-make-a-left-4-dead-2-server-with-mods/203)] [[github](https://github.com/modcommunity/how-to-make-a-l4d2-server-with-mods)]
+* **[G]** How To Download And Run SteamCMD [[website](https://forum.moddingcommunity.com/t/how-to-download-run-steamcmd/190)] [[github](https://github.com/modcommunity/how-to-download-and-run-steamcmd)]
+* **[G]** How To Install Mods In RDR2 [[website](https://forum.moddingcommunity.com/t/how-to-install-mods-in-rdr2/204)] [[github](https://github.com/modcommunity/how-to-install-mods-in-rdr2)]
+* **[G]** How To Install GTA V Mods In Singleplayer [[website](https://forum.moddingcommunity.com/t/how-to-install-mods-in-gta-v-singleplayer/43)]
+* **[G]** Hardware & Network Requirements For Source Engine Servers [[website](https://forum.moddingcommunity.com/t/hardware-network-requirements-for-source-engine-servers/197)] [[github](https://github.com/modcommunity/hardware-and-network-requirements-for-source-engine-servers)]
+* **[G]** How To Compile SourceMod Plugins [[website](https://github.com/modcommunity/how-to-compile-sourcemod-plugins)] [[github](https://github.com/modcommunity/how-to-compile-sourcemod-plugins)]
+* **[G]** Managing User Permissions In SourceMod [[website](https://forum.moddingcommunity.com/t/how-to-manage-user-permissions-in-sourcemod/193)] [[github](https://github.com/modcommunity/managing-user-permissions-in-sourcemod)]
+* **[G]** How To Make A Garry's Mod Server With Mods & Addons [[website](https://forum.moddingcommunity.com/t/how-to-make-a-garrys-mod-server-with-mods-addons/41)] [[github](https://github.com/modcommunity/how-to-make-a-gmod-server-with-mods-and-addons)]
+* **[U]** TMC Servers Engine [[source](https://github.com/modcommunity/tmc-servers-engine)]
+* **[U]** IPS 4 Fixed NavBar [[source](https://github.com/modcommunity/Plugin.Fixed-NavBar)]
+* **[U]** IPS 4 Background Slideshow [[source](https://github.com/modcommunity/Plugin.Background-Slideshow)]
 
-## Gamecom
-[Gamecom.io](https://gamecom.io) is similar to [@BestMods](https://github.com/BestMods) and is also powered by the [@modcommunity](https://github.com/modcommunity). However, it will additionally list communities, servers, games, and more!
+### [Best Mods](https://bestmods.io)
+An open source website that acts as a global index for video game mods where you can find and rate mods from many sources on the Internet.
 
-## Best Servers
-[BestServers.io](https://bestservers.io) is similar to [@BestMods](https://github.com/BestMods) and is also powered by the [@modcommunity](https://github.com/modcommunity). However, it will list game servers and hosting services (e.g. deals and packages).
+**NOTE** - While the website is still online, the project as a whole is no longer maintained. I may come back to this project again and revamp it at some point in the future. There is still **a lot** of valuable code in the open source repositories.
 
-## Past Projects
-* [Games For Life](https://GFLClan.com/) - Multi-gaming community (founded and owned from January 25th, 2011 to July 13th, 2021).
-* [Browser.TF](https://browser.tf/) - A neat web-sided server browser I made in 2015/2016 for the game Team Fortress 2 until October of 2022, when I couldn't afford the domain, the domain went to the market, and another entity got it to resell, but isn't responding to any of my requests (since I now have the money). Mega RIP and website's source code [here](https://github.com/gamemann/Browser.TF).
-* [The Developing Community](https://thedevelopingcommunity.com) - Old community I tried starting in 2014 or 2015 to bring together other developers. Website source code [here](https://github.com/gamemann/Misc/tree/master/tdc_site)!
+* Website [[link](https://bestmods.io)] [[source](https://github.com/bestmods/bestmods)]
+* Scan R Us [[source](https://github.com/bestmods/scan-r-us)]
+* Tasks [[source](https://github.com/bestmods/tasks)]
+* **[U]** Scripts [[source](https://github.com/bestmods/scripts)]
+* **[U]** Database Testing [[source](https://github.com/bestmods/db-testing)]
+
+### [Best Servers](https://github.com/bestserversio)
+An open source server browser that allows users to discover servers in platforms and games such as Counter-Strike, Team Fortress 2, Garry's Mod, and Discord!
+
+**NOTE** - This project was discontinued and replaced with a private server browser for TMC (not yet released). I did spend a lot of time working on the Best Servers open source website and there is **a lot** of valuable code in the repositories!
+
+* **[U]** Website [[source](https://github.com/bestserversio)]
+* **[U]** Spy [[source](https://github.com/bestserversio/spy)]
+
+## Single Projects
+### [XDP Firewall](https://github.com/gamemann/XDP-Firewall)
+A *stateless* firewall that attaches to the [XDP](https://www.iovisor.org/technology/xdp) hook in the Linux kernel using [(e)BPF](https://ebpf.io/) for fast packet processing.
+
+[[source]](https://github.com/gamemann/XDP-Firewall)
+
+### [XDP Proxy](https://github.com/gamemann/XDP-Proxy)
+A *stateless*, high-performance NAT-like proxy that attaches to the [XDP](https://www.iovisor.org/technology/xdp) hook in the Linux kernel using [(e)BPF](https://ebpf.io/) for fast packet processing.
+
+[[source](https://github.com/gamemann/XDP-Proxy)]
+
+### [Packet Batch](https://github.com/Packet-Batch)
+A collection of high-performance applications and tools designed for sending network packets. It serves two main purposes: penetration testing, which involves assessing network security by simulating various attacks like [Denial of Service](https://www.cloudflare.com/learning/ddos/glossary/denial-of-service/) (DoS); and network monitoring, which involves analyzing and inspecting network traffic.
+
+* Main Program [[source](https://github.com/Packet-Batch/Program)]
+* AF_XDP C API [[source](https://github.com/Packet-Batch/tech-afxdp)]
+* Common (old) [[source](https://github.com/Packet-Batch/old-common)]
+* **[U]** AF_XDP (old) [[source](https://github.com/Packet-Batch/old-af-xdp)]
+* **[U]** DPDK (old) [[source](https://github.com/Packet-Batch/old-dpdk)]
+* **[U]** Standard (old) [[source](https://github.com/Packet-Batch/old-standard)]
+
+### [Browser.TF](https://btf.bestservers.io)
+A web-sided server browser for the game Team Fortress 2 I made back in 2015/2016 while in High School. The domain used to be `browser.tf` and fairly active, but was unfortunately lost in mid-2022. As a result, it is now `btf.bestservers.io`.
+
+[[source](https://github.com/gamemann/Browser.TF)]
+
+### [GitHub Follow Bot](https://github.com/gamemann/GitHub-Follow-Bot)
+A GitHub Follow Bot that utilizes Django's web framework and Python. The bot comes with many features, but please use at your own risk. The bot was made for educational purposes.
+
+[[source](https://github.com/gamemann/GitHub-Follow-Bot)]
+
+### [Portfolio](https://cdeacon.net/)
+My portfolio website live at [cdeacon.net](https://cdeacon.net).
+
+[[source](https://github.com/gamemann/portfolio)]
+
+### [cweb](https://github.com/gamemann/cweb)
+A low-level web server written in C I'm using to learn more about web servers.
+
+[[source](https://github.com/gamemann/cweb)]
+
+### [DPDK Examples](https://github.com/gamemann/The-DPDK-Examples)
+A small repository that stores examples of [the DPDK](https://www.dpdk.org/) which is a kernel bypass library for network programming.
+
+[[source](https://github.com/gamemann/The-DPDK-Examples)]
+
+### [Packet Sequence](https://github.com/gamemann/Packet-Sequence)
+A pen-test/DoS tool that allows you can send single or multiple packets in sequences. Also supports a bunch of customization.
+
+**NOTE** - This was replaced with Packet Batch.
+
+[[source](https://github.com/gamemann/Packet-Sequence)]
+
+### [BestBuy Parser](https://github.com/gamemann/BestBuy-Parser)
+A personal tool using Python's Scrapy framework to scrape Best Buy's product pages for RTX 3080 TIs and notify if available/not sold out.
+
+[[source](https://github.com/gamemann/BestBuy-Parser)]
+
+### [The DPDK Common](https://github.com/gamemann/The-DPDK-Common)
+This project includes helpful functions and global variables for developing applications using [the DPDK](https://www.dpdk.org/). I am using this for my projects using the DPDK.
+
+[[source](https://github.com/gamemann/The-DPDK-Common)]
+
+### [Pterodactyl Game Server Watch](https://github.com/gamemann/Pterodactyl-Game-Server-Watch)
+A tool programmed in Go to automatically restart 'hung' (game) servers via the Pterodactyl API (working since version 1.4.2). This only supports servers that respond to the [A2S_INFO](https://developer.valvesoftware.com/wiki/Server_queries#A2S_INFO) query (a Valve Master Server query). I am currently looking for a better way to detect if a server is hung, though.
+
+[[source](https://github.com/gamemann/Pterodactyl-Game-Server-Watch)]
+
+### [Kilimanjaro](https://github.com/gamemann/Kilimanjaro)
+A neat packet processing/forwarding program I made for a gaming community I used to be a part of. Includes many features such as rate limiting, A2S caching, and more!
+
+[[source](https://github.com/gamemann/Kilimanjaro)]
+
+### [My Raspberry Pi Manager](https://github.com/gamemann/My-Raspberry-Pi-Manager)
+A simple manager interface I'm using for my Raspberry Pis written in Python. Allows me to start and stop processes such as Steam Link.
+
+[[source](https://github.com/gamemann/My-Raspberry-Pi-Manager)]
+
+### [Packet Flooder](https://github.com/gamemann/Packet-Flooder)
+A packet flooding/generating program I made that supports TCP, UDP, and ICMP packets. Includes functionality to change characteristics per packet and is also multithreaded.
+
+**NOTE** - Replaced with Packet Sequence above.
+
+[[source](https://github.com/gamemann/Packet-Flooder)]
+
+### [TC IPIP Mapper](https://github.com/gamemann/TC-IPIP-Mapper)
+TC programs aimed to add support for multiple remote hosts in IPIP tunnels.
+
+[[source](https://github.com/gamemann/TC-IPIP-Mapper)]
+
+### [Rust Auto Wipe](https://github.com/gamemann/Rust-Auto-Wipe)
+An application made in Go (latest version works) for Rust servers operating with Pterodactyl (latest API version works). This application automatically wipes server(s) based off of cron jobs. The program is aimed to be as flexible as possible.
+
+[[source](https://github.com/gamemann/Rust-Auto-Wipe)]
+
+### [Discord Chooseable Roles](https://github.com/gamemann/Discord-Chooseable-Roles)
+A small open-source Discord Bot that allows you to react to setup messages and obtain roles on reaction. This is being used in a Discord server of mine.
+
+[[source](https://github.com/gamemann/Discord-Chooseable-Roles)]
+
+### [Misc](https://github.com/gamemann/Misc)
+A bunch of smaller projects and programs written in various languages. Includes many test programs.
+
+[[source](https://github.com/gamemann/Misc)]
+
+### [Discord Global Chat](https://github.com/gamemann/Discord-Global-Chat)
+A Discord bot that allows for global chat between Discord servers in certain channels. Used for the Unnamed Discord community brand.
+
+[[source](https://github.com/gamemann/Discord-Global-Chat)]
+
+### [The DPDK Stats](https://github.com/gamemann/The-DPDK-Stats)
+A small DPDK application that increments a basic packet counter for TCP or UDP packets depending on what's specified in the command line (UDP is default). The amount of packets per second is outputted on a new line each second and total packets is outputted before the program exits.
+
+[[source](https://github.com/gamemann/The-DPDK-Stats)]
+
+### [CS Spawn Protection](https://github.com/gamemann/Spawn-Protection)
+A simple SourceMod Spawn Protection plugin that was developed for Counter-Strike: Source and Counter-Strike: Global Offensive.
+
+[[source](https://github.com/gamemann/Spawn-Protection)]
+
+### [IP ASN List](https://github.com/gamemann/IP-ASN-List)
+A Go application that outputs prefixes to a text file and supports ASN lookups.
+
+[[source](https://github.com/gamemann/IP-ASN-List)]
+
+### [Create T3 Test](https://github.com/gamemann/Create-T3-Test)
+A repository to help with learning Create T3 App which is being used in a future version of Best Mods.
+
+[[source](https://github.com/gamemann/Create-T3-Test)]
+
+### [XDP Dynamic Payload Match](https://github.com/gamemann/XDP-Dynamic-Payload-Matching)
+This repository is used to store my findings on matching dynamic payloads in XDP. In my opinion, being able to match payload data from a BPF map is important for the future of XDP.
+
+[[source](https://github.com/gamemann/XDP-Dynamic-Payload-Matching)]
+
+### [CS Extra Spawn Points](https://github.com/gamemann/Extra-Spawn-Points)
+Adds extra CT and T spawn points in Counter-Strike: Source and Counter-Strike: Global Offensive. This is useful for large servers that have to deal with maps with not enough map spawn points.
+
+[[source](https://github.com/gamemann/Extra-Spawn-Points)]
+
+### [C To Assembly Tests](https://github.com/gamemann/C-To-Assembly-Tests)
+This repository stores both C and Assembly code.
+
+[[source](https://github.com/gamemann/C-To-Assembly-Tests)]
+
+### [Auto Cmd On Update](https://github.com/gamemann/Auto-Cmd-On-Update)
+A SourceMod plugin that executes a console command on SRCDS servers when a game update is detected. This plugins relies on a forward call in SteamWork's Update Check plugin [here](https://github.com/KyleSanderson/SteamWorks/blob/master/Pawn/UpdateCheck.sp). Therefore, you will need the plugin and SteamWorks for this plugin to operate.
+
+[[source](https://github.com/gamemann/Auto-Cmd-On-Update)]
+
+### [XDP TCP Header Options](https://github.com/gamemann/XDP-TCP-Header-Options)
+A repository to show attempts at dynamically parsing the TCP header options (specifically timestamps in this repository) within XDP/BPF.
+
+[[source](https://github.com/gamemann/XDP-TCP-Header-Options)]
+
+### [IPIP-Direct](https://github.com/gamemann/IPIPDirect-TC)
+A program made to attach to the TC hook using the egress filter. This program makes it so any outgoing IPIP packets are sent directly back to the client instead of back through the IPIP tunnel. In cases where you don't need the end-application replies to go back through the forwarding server/IPIP tunnel, this is very useful and will result in less load on the forwarding server. With that said, in other cases it can result in less latency and more.
+
+[[source](https://github.com/gamemann/IPIPDirect-TC)]
+
+### [CS:GO Decoy Dodgeball](https://github.com/gamemann/CSGO_DecoyDodgeball)
+An once popular mod and plugin for the game Counter-Strike: Global Offensive. The plugin was made for [SourceMod](https://www.sourcemod.net/)!
+
+This mod continuously equips decoys to players after throwing and sets a player's health to 1 by default on spawn. Additionally, there are many other settings and also support for minigame-like gameplay (e.g. being able to set configuration settings for special rounds).
+
+[[source](https://github.com/gamemann/CSGO_DecoyDodgeball)]
+
+### [XDP Stats](https://github.com/gamemann/XDP-Stats)
+This is a program that calculates stats inside of an XDP program (support for both dropping and TX'ing the packet). As of right now, the stats are just the amount of packets and bytes (including per second).
+
+[[source](https://github.com/gamemann/XDP-Stats)]
+
+### [UDP Spoof](https://github.com/gamemann/UDP-Spoof)
+A small C program I made to send out spoofed/non-spoofed UDP packets via raw sockets. This program includes setting the data string and timeout as well.
+
+[[source](https://github.com/gamemann/UDP-Spoof)]
+
+### [GLib Tests](https://github.com/gamemann/GLib-Tests)
+A repository I'm using to store my progress while learning GNOME's GLib [library](https://github.com/GNOME/glib). Specifically hashing via `ghash`.
+
+[[source](https://github.com/gamemann/GLib-Tests)]
+
+### [Web Extract With ChatGPT](https://github.com/gamemann/web-extract-with-chatgpt)
+A [Python](https://www.python.org/) project that extracts data from websites using [Selenium](https://www.selenium.dev/) and [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/), then either prints the results to `stdout` or sends them via a POST request. Optionally, the extracted web data can be processed through [OpenAI](https://openai.com/)'s **[ChatGPT](https://openai.com/index/chatgpt/) API**, with the API response included in the final output!
+
+[[source](https://github.com/gamemann/web-extract-with-chatgpt)]
+
+### [Web Desktop App Launcher](https://github.com/gamemann/web-desktop-app-launcher)
+A web/desktop application launcher I made for a mini-PC I purchased for game/movie streaming and emulation.
+
+[[source](https://github.com/gamemann/web-desktop-app-launcher)]
+
+### [How To Use Selenium And BeautifulSoup](https://github.com/gamemann/How-To-Use-Selenium-And-BeautifulSoup)
+A full lab and how-to guide on how to use Selenium paired with Beautiful Soup to parse and extract data from a website using Python.
+
+[[source](https://github.com/gamemann/How-To-Use-Selenium-And-BeautifulSoup)]
+
+### [Stat](https://github.com/gamemann/Stat)
+A small project to gather counter statistics from the file system or output from commands. Useful for retrieving packets per second and bytes per second on a network interface.
+
+[[source](https://github.com/gamemann/Stat)]
+
+### [My React Playground](https://github.com/gamemann/My-React-Playground)
+A playground for experimenting with components I'm creating with React and TypeScript. Components in this repository shouldn't be used in production. Instead, I will be creating separate repositories for official components I want to publish publicly.
+
+[[source](https://github.com/gamemann/My-React-Playground)]
+
+### [Laravel Testing](https://github.com/gamemann/Laravel-Testing)
+A repository that stores my testing with Laravel, Tailwind CSS, React, and SCSS.
+
+[[source](https://github.com/gamemann/Laravel-Testing)]
+
+### [Map Restart](https://github.com/gamemann/Map-Restart)
+A simple plugin for SourceMod that restarts the map or server (if configured properly) after the time limit is reached and the server is reported as empty (not including bots).
+
+[[source](https://github.com/gamemann/Map-Restart)]
+
+### [CSharp Websockets Chat](https://github.com/gamemann/csharp-websockets-chat)
+This is a small project that utilizes CSharp and the [.NET library](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet) (7.0). This program allows you to establish multiple web sockets at once (client -> server and server -> client both supported). This is intended to run on Linux-based operating systems that support .NET 7.0 (e.g. using the `dotnet` package). It is possible this works with Windows, but I haven't tried testing it. This project should also work with .NET 8.0, but I haven't tested that as well.
+
+This program operates as a very simple one-on-one chat room. When connected, the client and server can exchange basic UTF-8 text messages with each other.
+
+I made this project to learn more about web sockets in CSharp/.NET along with how to manage multiple web sockets receiving/sending data concurrently via asynchronous methods.
+
+[[source](https://github.com/gamemann/csharp-websockets-chat)]
+
+### [PostgreSQL Docker Image With Backups](https://github.com/gamemann/postgresql-docker-image-with-backups)
+This is a custom Docker image based off of the PostgreSQL Docker image [here](https://github.com/docker-library/postgres). This image uses [Supervisor](http://supervisord.org/) to start both Cron and the PostgreSQL server.
+
+Additionally, a cron job is installed inside of the image ([`image/conf/cron.conf`](./image/conf/cron.conf)) that executes a backup script written in Bash ([`image/scripts/backup.sh`](./image/scripts/backup.sh)). The backup script dumps the database `$POSTGRES_DB` with the user `$POSTGRES_USER` to `/tmp/dbname.pgsql`. Afterwards, it uploads the database dump to a [Backblaze B2](https://www.backblaze.com/cloud-storage) bucket using [Duplicity](https://duplicity.us/) and deletes the local database dump.
+
+[[source](https://github.com/gamemann/postgresql-docker-image-with-backups)]
+
+### [TC Ingress IPIP Blocker](https://github.com/gamemann/TC-Ingress-IPIP-Blocker)
+A simple TC BPF program that attaches to the ingress filter and blocks any IPs stored in the specified file (default is `/etc/IPIPBlock/list.conf`). This program checks the source IP of the inner IP header.
+
+[[source](https://github.com/gamemann/TC-Ingress-IPIP-Blocker)]
+
+### [Old Website #1](https://github.com/gamemann/Old-Website-1)
+An old website I made in 2014 while I was in High School! My first advanced project for PHP/MySQL.
+
+[[source](https://github.com/gamemann/Old-Website-1)]
+
+### [Linux BTRFS Lab](https://github.com/gamemann/Linux-BTRFS-Lab)
+This is just a small repository to store my results on testing Linux [BTRFS's](https://archive.kernel.org/oldwiki/btrfs.wiki.kernel.org/) out-of-band deduplication [feature](https://btrfs.readthedocs.io/en/latest/Deduplication.html). BTRFS is an advanced Linux file system that comes with many neat features!
+
+[[source](https://github.com/gamemann/Linux-BTRFS-Lab)]
+
+### [Fitbit Heartrate Monitor](https://github.com/gamemann/Fitbit-Heartrate-Monitor)
+An application that interacts with [Fitbit's](https://fitbit.com/) [Web API](https://dev.fitbit.com/build/reference/web-api) to retrieve information on a person's heart rate. If the heart rate goes below or above a certain threshold, certain actions may be performed such as sending an email or HTTP request.
+
+[[source](https://github.com/gamemann/Fitbit-Heartrate-Monitor)]
+
+### [Go Spawn & Output Logs From Process](https://github.com/gamemann/Go-Spawn-And-Output-Logs-From-Process)
+This is a small project to demonstrate how to spawn multiple processes from a Go program and have the Go program write their `stdout` and `stderr` lines to a log file.
+
+[[source](https://github.com/gamemann/Go-Spawn-And-Output-Logs-From-Process)]
+
+### [Dynamic Slots](https://github.com/gamemann/Dynamic-Slots)
+A simple Dynamic Slots plugin for SourceMod.
+
+[[source](https://github.com/gamemann/Dynamic-Slots)]
+
+### [FPS Threshold](https://github.com/gamemann/FPS-Threshold)
+A SourceMod plugin that creates a forward for when the average server FPS goes under a threshold.
+
+* Noblock [[source](https://github.com/gamemann/FPS-Threshold-Noblock)]
+
+[[source](https://github.com/gamemann/FPS-Threshold)]
+
+### [Hard Link Files](https://github.com/gamemann/Hard-Link-Files)
+A small C++ program I made in 2016 that automatically hard links all files and subfolders in a directory. I use this program on my Windows Home Server (2008) to make game servers. Since it hard links the files, they don't take up any extra hard drive space.
+
+[[source](https://github.com/gamemann/Hard-Link-Files)]
+
+### [Bootstrap Testing Website](https://github.com/gamemann/Bootstrap-Testing-Website)
+This is a Bootstrap testing website. This is the first website I created with Bootstrap. This project does not include any PHP code whatsoever.
+
+[[source](https://github.com/gamemann/Bootstrap-Testing-Website)]
+
+### [Garry's Mod Purge Timer](https://github.com/gamemann/-GMod-Purge-Timer)
+A custom timer made for the Purge game mode in the game Garry's Mod.
+
+[[source](https://github.com/gamemann/-GMod-Purge-Timer)]
+
+### [Discord MG Bot](https://github.com/gamemann/discord-mg-bot)
+An open source Discord bot that allows users to play mini-games on Discord servers and get awarded points.
+
+[[source](https://github.com/gamemann/discord-mg-bot)]
+
+### [L4D2 Party Boxes](https://github.com/gamemann/l4d2-partyboxes)
+A [SourceMod](https://www.sourcemod.net/) plugin for [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/) that turns upgrade boxes such as incendiary and explosive ammo boxes into random/fun boxes. There are three categories a box may be registered under which include **Good**, **Mid**, and **Bad**. Good boxes help the survivors, mid boxes are somewhere in-between (misc?), and bad boxes negatively impact the survivors.
+
+[[source](https://github.com/gamemann/l4d2-partyboxes)]
+
+### [XDP Access Last Byte](https://github.com/gamemann/Xdp-Access-Last-Byte)
+A repository to store information accessing the last byte of a packet in BPF and XDP.
+
+[[source](https://github.com/gamemann/Xdp-Access-Last-Byte)]
+
+### [Performance Test Program](https://github.com/gamemann/Performance-Test-Program)
+This is a simple program in C for performance testing which only works for x86 and x86_64 systems. A `for` loop is executed *x* times and we use the Assembly instruction `rdtsc` for profiling.
+
+[[source](https://github.com/gamemann/Performance-Test-Program)]
+
+### [UDP Ping](https://github.com/gamemann/UDP-Ping)
+A simple UDP Client/Server implementation for pinging. Used for benchmarking.
+
+[[source]](https://github.com/gamemann/UDP-Ping)
+
+### [Simple Discord Bot](https://github.com/gamemann/Simple-Discord-Bot)
+A simple Discord bot I made for friends that owned a gaming community at some point. Bot was written in Java.
+
+[[source](https://github.com/gamemann/Simple-Discord-Bot)]
+
+### [CS:GO Zeus Toggle](https://github.com/gamemann/CSGO_ZeusToggle)
+A CS:GO plugin that toggles spawning with a zeus.
+
+[[source](https://github.com/gamemann/CSGO_ZeusToggle)]
+
+### [Pterodactyl Packet Watch](https://github.com/gamemann/Pterodactyl-Packet-Watch)
+A project based off of my Pterodactyl Game Server Watch [tool](https://github.com/gamemann/Pterodactyl-Game-Server-Watch). This specific project basically sends specified packet types and if the average response time (in milliseconds) goes beyond a specified threshold, misc options (web hooks) will be performed.
+
+[[source](https://github.com/gamemann/Pterodactyl-Packet-Watch)]
+
+### [Anycast Endpoint](https://github.com/gamemann/Anycast-Endpoint)
+A repository that stores config files, Docker images, and more of a no longer running Anycast network I managed/owned a long time ago hosting game servers.
+
+[[source](https://github.com/gamemann/Anycast-Endpoint)]
+
+### [Test Kernel Modules](https://github.com/gamemann/Test-Kernel-Modules)
+A repository used to store my test Linux kernel modules I make while I'm learning.
+
+[[source](https://github.com/gamemann/Test-Kernel-Modules)]
+
+### [Garry's Mod Server Browser Edits](https://github.com/gamemann/GMod-Server-Browser)
+A modifed version of Garry's Mod server browser in JavaScript that supports displaying all servers on a web page and more.
+
+[[source](https://github.com/gamemann/GMod-Server-Browser)]
+
+### [Elixir Phoenix User System](https://github.com/gamemann/Elixir-Phoenix-User-System)
+A Phoenix web application that allows users to register and login. I'm making this application to practice Elixir, a functional programming language I'm learning.
+
+This project uses [Argon2](https://hexdocs.pm/argon2_elixir/Argon2.html) for password hashing.
+
+[[source](https://github.com/gamemann/Elixir-Phoenix-User-System)]
+
+### [AF_XDP Test](https://github.com/gamemann/AF_XDP-Test)
+A simple and basic AF_XDP program. Used for testing.
+
+[[source](https://github.com/gamemann/AF_XDP-Test)]
+
+### [Simple Java MySQL Wrapper](https://github.com/gamemann/Simple-Java-MySQL-Wrapper)
+A simple MySQL wrapper for Java.
+
+[[source](https://github.com/gamemann/Simple-Java-MySQL-Wrapper)]
+
+### [Compressor V2 FOU Wrapper/UnWrapper](https://github.com/gamemann/Compressor-V2-FOU-Wrap-Unwrapper)
+TC programs made for wrapping and unwrapping marked FOU-encapped packets. This was made for an old project called Compressor V2.
+
+[[source](https://github.com/gamemann/Compressor-V2-FOU-Wrap-Unwrapper)]
+
+### [SM - Discord On Connect](https://github.com/gamemann/Discord-OnConnect)
+A SourceMod plugin that automatically opens a link when a player connects. Supports cookies and more. Intended for opening a Discord invite link.
+
+[[source](https://github.com/gamemann/Discord-OnConnect)]
+
+### [CloudFlare NGINX/IPTables Automation](https://github.com/gamemann/cf-nginx-iptables-automation)
+A small, but neat Bash script that retrieves the latest IPv4 and IPv6 ranges from CloudFlare and then updates NGINX real IP headers and an IPTables chain.
+
+[[source](https://github.com/gamemann/cf-nginx-iptables-automation)]
+
+### [Killtrocity](https://github.com/gamemann/Killtrocity)
+A Python program used for communication between Kilimanjaro and Killfrenzy.
+
+[[source](https://github.com/gamemann/Killtrocity)]
+
+### [Rust Plugins](https://github.com/gamemann/Rust-Plugins)
+Two Rust plugins I developed a long time ago that contained a user management plugin along with a plugin that gave items to players on spawn.
+
+[[source](https://github.com/gamemann/Rust-Plugins)]
+
+### [Linux Back-End Scripts](https://github.com/gamemann/Linux-Back-End-Scripts)
+An old collection of back-end scripts I use for my Linux servers.
+
+[[source](https://github.com/gamemann/Linux-Back-End-Scripts)]
+
+### [CS - Unlimited Ammo](https://github.com/gamemann/CS-Unlimited-Ammo)
+
+### [IPIP Forward](https://github.com/gamemann/IPIP-Forward)
+An older and simple IPIP forwarding program that used standard Linux sockets (AF_PACKETv3).
+
+[[source](https://github.com/gamemann/IPIP-Forward)]
+
+### [Prop Health](https://github.com/gamemann/All_PropHealth)
+
+[[source](https://github.com/gamemann/All_PropHealth)]
+
+### [Garry's Mod - Server Hop](https://github.com/gamemann/-GMod-Server-Hop)
+A neat server hop addon for Garry's Mod that allows users to join other servers from a configurable list. Also includes advertisements for servers.
+
+[[source](https://github.com/gamemann/-GMod-Server-Hop)]
+
+### [CS - Map Spawns Checker](https://github.com/gamemann/CS_MapSpawnsChecker)
+An older plugin for SourceMod that checks the amount of spawns in Counter-Strike and if the amount of spawn points is below a certain threshold (e.g. not enough room for the all players), will perform another action such as changing the map.
+
+[[source](https://github.com/gamemann/CS_MapSpawnsChecker)]
+
+### [Garry's Mod - Prop Spam Protection](https://github.com/gamemann/GModPropSpamProtection)
+An old addon I made for Garry's Mod that helped prevent prop spamming that would lag and crash servers. Certain actions can be used such as banning the player or deleting the props that are penetrating and lagging the server.
+
+[[source](https://github.com/gamemann/GModPropSpamProtection)]
+
+### [Match And Log](https://github.com/gamemann/Match-And-Log)
+My first Rust program that allows you to spawn processes and then perform actions based off of the process's stdout and stderr pipes
+
+[[source](https://github.com/gamemann/Match-And-Log)]
+
+### [Killfrenzy](https://github.com/gamemann/Killfrenzy)
+A Django web application used to sync edge servers running Kilimanjaro and consume/display stats.
+
+[[source](https://github.com/gamemann/Killfrenzy)]
+
+### [XDP Playground](https://github.com/gamemann/xdp-playground)
+A repository that stores smaller XDP and BPF programs. Used for testing.
+
+[[source](https://github.com/gamemann/xdp-playground)]
+
+### [Server Hop](https://github.com/gamemann/SM-Server-Hop)
+An advanced server hop plugin for SourceMod I wrote for an old community I once owned. This plugin allows users to join other servers, includes chat advertisements (with permissions), and also supports storing in a database compared to a file on disk.
+
+[[source](https://github.com/gamemann/SM-Server-Hop)]
+
+### [Lua User Management](https://github.com/gamemann/Lua-User-Management)
+A small addon for Garry's Mod that handled user management in an old gaming community I once owned.
+
+[[source](https://github.com/gamemann/Lua-User-Management)]
+
+### [Game Server Versions](https://github.com/gamemann/Game-Server-Versions)
+A small project I made a long time ago that compares the current game server's version to the actual most up-to-date version.
+
+[[source](https://github.com/gamemann/Game-Server-Versions)]
+
+### [Full Alltalk Patch](https://github.com/gamemann/Full-Alltalk-Patch)
+A CS:GO plugin I made a long time ago that fixes a CS:GO server from forcefully changing the value of a ConVar related to alltalk.
+
+[[source](https://github.com/gamemann/Full-Alltalk-Patch)]
+
+### [Garry's Mod - Spawn Protection](https://github.com/gamemann/GMod---Roy-s-Spawn-Protection)
+A spawn protection addon for Garry's Mod.
+
+[[source](https://github.com/gamemann/GMod---Roy-s-Spawn-Protection)]
+
+### [TCP App With Encryption](https://github.com/gamemann/TCP-App-With-Encryption)
+A client and server project that encrypts and decrypts messages. The client is programmed in C using the Libsodium library and the server is programmed in Elixir using ErLang's crypto module.
+
+[[source](https://github.com/gamemann/TCP-App-With-Encryption)]
+
+### [Simple Golang Web Application With CircleCI](https://github.com/gamemann/Simple-GoLang-Application-With-CircleCI)
+A very simple web application made in Go that is deployed using CircleCI.
+
+[[source](https://github.com/gamemann/Simple-GoLang-Application-With-CircleCI)]
+
+### [Garry's Mod - Simple Discord Relay](https://github.com/gamemann/Simple-GMod-Discord-Relay)
+A simple addon for Garry's Mod that relays messages from the chat to a Discord server.
+
+[[source](https://github.com/gamemann/Simple-GMod-Discord-Relay)]
+
+### [Go Web Attack Simulator](https://github.com/gamemann/Go-Web-Attack-Log-Simulation)
+A basic Go program imported from GFL's Gitlab. This simply simulates a web attack via logs.
+
+[[source](https://github.com/gamemann/Go-Web-Attack-Log-Simulation)]
+
+### [Continuous A2S_INFO Requests](https://github.com/gamemann/Continuous-A2S_INFO-Requests)
+A small program written in C that continuously sends A2S_INFO requests using standard Linux sockets.
+
+[[source](https://github.com/gamemann/Continuous-A2S_INFO-Requests)]
+
+### [Rust User Management](https://github.com/gamemann/Rust-User-Management)
+A plugin I made a long time ago for a Rust server in my old gaming community. This plugin managed permissions for users and assigned them the group they belonged to (e.g. Member, Supporter, VIP, Admin, etc.).
+
+[[source](https://github.com/gamemann/Rust-User-Management)]
+
+### [RTV Exclude AFKs](https://github.com/gamemann/RTV-Exclude-AFKs)
+A modified version of a base SourceMod plugin that votes to change the map. This modified version implements the option to exclude AFK players in the vote.
+
+[[source](https://github.com/gamemann/RTV-Exclude-AFKs)]
+
+### [UDP Sender](https://github.com/gamemann/UDP-Sender)
+An old program I made in C that sends UDP packets and comes with a couple useful features.
+
+[[source](https://github.com/gamemann/UDP-Sender)]
+
+### [Website #1](https://github.com/gamemann/Website-1)
+A website I made a long time ago while learning jQuery animation. Uses BootStrap, jQuery, HTML, CSS, and PHP.
+
+[[source](https://github.com/gamemann/Website-1)]
+
+### [CS - Time Limit Enforcer](https://github.com/gamemann/CS_TimeLimitEnforcer)
+
+### [CS:GO - ZR Burn Slowdown](https://github.com/gamemann/CSGO_ZRBurnSlowDown)
+A plugin for SourceMod that slows burning zombies down in the Zombie Reloaded game mode for CS:GO.
+
+[[source](https://github.com/gamemann/CSGO_ZRBurnSlowDown)]
+
+### [My Retro Setup](https://github.com/gamemann/my-retro-setup)
+Details going over my retro setup which consists of game streaming and emulation along with details on getting Wii Remotes and a Dolphinbar to work on Linux/Debian 12.
+
+[[source](https://github.com/gamemann/my-retro-setup)]
+
+### [GFL API In Exlixir](https://github.com/gamemann/GFL-API-In-Elixir)
+A user management API I made in Elixir for an old gaming community I once owned.
+
+[[source](https://github.com/gamemann/GFL-API-In-Elixir)]
+
+### [SM - MySQL](https://github.com/gamemann/SM-MySQL)
+A SourceMod plugin I wrote for an old gaming community I once owned that provides MySQL functionality for a plugin pack the plugin is a part of.
+
+[[source](https://github.com/gamemann/SM-MySQL)]
+
+### [Dot Menu Settings Example](https://github.com/gamemann/dot-menu-settings-example)
+A small project that acts as an example of a settings menu in the Godot game engine.
+
+[[source](https://github.com/gamemann/dot-menu-settings-example)]
+
+### [Go Playground](https://github.com/gamemann/go-playground)
+A repository to stores smaller Go programs. Includes many examples of executing C functions in Go. Generally used for testing.
+
+[[source](https://github.com/gamemann/go-playground)]
+
+### [CS - Who Did I Flash?](https://github.com/gamemann/cs-who-did-i-flash)
+A SourceMod plugin for Counter-Strike: Source that notifies players of how many teammates or enemies they've flashed after throwing a flashbang.
+
+[[source](https://github.com/gamemann/cs-who-did-i-flash)]
+
+### [SM - Server Ads](https://github.com/gamemann/SM-Server-Ads)
+A SourceMod plugin I wrote for an old gaming community I once owned that comes with in-game advertisements (chat, hud, and more supported). Also supports grabbing advertisement messages from MySQL database and paid advertisement support.
+
+[[source](https://github.com/gamemann/SM-Server-Ads)]
+
+### [SM - User Management](https://github.com/gamemann/SM-User-Management)
+A SourceMod plugin I wrote for an old gaming community I once owned that implements user management by assigning users specific groups and flags from a MySQL database.
+
+[[source](https://github.com/gamemann/SM-User-Management)]
+
+### [SM - Core](https://github.com/gamemann/SM-Core)
+A SourceMod plugin I wrote for an old gaming community I once owned that implements core functionality for other plugins such as MySQL, Server Hop, Server Ads, etc.
+
+[[source](https://github.com/gamemann/SM-Core)]
