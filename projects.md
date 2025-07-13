@@ -1,4 +1,4 @@
-Here is a full list of projects and repositories I've created and manage.
+Here is a **full list** of open source projects and repositories I've created and managed over the years.
 
 ## Overview
 * [Portfolio](#portfolio)
