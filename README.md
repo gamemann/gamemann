@@ -1,7 +1,7 @@
 Hi! I am a self-taught network, software, and systems engineer with a love for open source. I enjoy working with Linux, network engineering and security, penetration testing, web development, web scraping, bot development, and game development.
 
-* View my [website portfolio](https://cdeacon.net).
-* View a [full list of my projects](./projects.md).
+* View my open source [website portfolio](https://cdeacon.net).
+* View a [full list of my open source projects](./projects.md).
 * Feel free to join my Discord [server](https://discord.deaconn.net/) if you need support or if you're looking for a relaxed server focused on tech and gaming! My username is `gamemann`.
 
 
