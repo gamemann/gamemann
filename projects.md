@@ -1,5 +1,137 @@
 Here is a full list of projects and repositories I've created and manage.
 
+## Overview
+* [Portfolio](#portfolio)
+* [Community & Company Projects](#community--company-projects)
+    * [Active](#active)
+        * [TekWorks](#tekworks)
+        * [The Modding Community](#the-modding-community)
+    * [Inactive](#inactive)
+        * [Best Mods](#best-mods)
+        * [Best Servers](#best-servers)
+* [Popular Projects](#popular-projects)
+    * [XDP Firewall](#xdp-firewall)
+    * [XDP Proxy](#xdp-proxy)
+    * [Packet Batch](#packet-batch)
+    * [Browser.TF](#browsertf)
+    * [GitHub Follow Bot](#github-follow-bot)
+* [Smaller Projects](#smaller-projects)
+    * [cweb](#cweb)
+    * [Rust Auto Wipe](#rust-auto-wipe)
+    * [Pterodactyl Game Server Watch](#pterodactyl-game-server-watch)
+    * [Web Extract With ChatGPT](#web-extract-with-chatgpt)
+    * [Discord Chooseable Roles](#discord-chooseable-roles)
+    * [Discord Global Chat](#discord-global-chat)
+    * [Stat](#stat)
+    * [TC IPIP Mapper](#tc-ipip-mapper)
+    * [IP ASN List](#ip-asn-list)
+    * [CSharp Websockets Chat](#csharp-websockets-chat)
+    * [IPIP Direct](#ipip-direct)
+    * [XDP Stats](#xdp-stats)
+    * [PostgreSQL Docker Image With Backups](#postgresql-docker-image-with-backups)
+    * [CloudFlare NGINX/IPTables Automation](#cloudflare-nginxiptables-automation)
+    * [TCP App With Encryption](#tcp-app-with-encryption)
+    * [Discord MG Bot](#discord-mg-bot)
+* [Labs & Tests](#labs--tests)
+    * [Home Lab](#home-lab)
+        * [Web Desktop App Launcher](#web-desktop-app-launcher)
+        * [My Retro Setup](#my-retro-setup)
+        * [My Raspberry Pi Manager](#my-raspberry-pi-manager)
+        * [BestBuy Parser](#bestbuy-parser)
+    * [Other](#other)
+        * [How To Use Selenium And BeautifulSoup](#how-to-use-selenium-and-beautifulsoup)
+        * [C To Assembly Tests](#c-to-assembly-tests)
+        * [XDP Playground](#xdp-playground)
+        * [Go Playground](#go-playground)
+        * [Linux BTRFS Lab](#linux-btrfs-lab)
+        * [Go Spawn & Output Logs From Process](#go-spawn--output-logs-from-process)
+        * [GLib Tests](#glib-tests)
+        * [Performance Test Program](#performance-test-program)
+        * [XDP Access Last Byte](#xdp-access-last-byte)
+        * [Dot Menu Settings Example](#dot-menu-settings-example)
+        * [My React Playground](#my-react-playground)
+        * [Laravel Testing](#laravel-testing)
+        * [Test kernel Modules](#test-kernel-modules)
+        * [XDP TCP Header Options](#xdp-tcp-header-options)
+        * [XDP Dynamic Payload Matching](#xdp-dynamic-payload-match)
+        * [The DPDK Examples](#the-dpdk-examples)
+        * [Simple Golang Web Application With CircleCI](#simple-golang-web-application-with-circleci)
+
+* [Game Plugins & Addons](#game-plugins--addons)
+    * [SourceMod Megapack #1](#sourcemod-megapack-1)
+        * [Core](#core)
+        * [MySQL](#mysql)
+        * [User Management](#user-management)
+        * [Server Ads](#server-ads)
+        * [Server Hop](#server-hop)
+    * [General](#general)
+        * [Auto Cmd On Update](#auto-cmd-on-update)
+        * [Dynamic Slots](#dynamic-slots)
+        * [RTV Exclude AFKs](#rtv-exclude-afks)
+        * [Discord On Connect](#discord-on-connect)
+        * [Map Restart](#map-restart)
+        * [FPS Threshold](#fps-threshold)
+        * [Anycast Endpoint](#anycast-endpoint)
+    * [Left 4 Dead 2](#left-4-dead-2)
+        * [Party Boxes](#party-boxes)
+    * [Counter-Strike](#counter-strike)
+        * [Spawn Protection](#spawn-protection)
+        * [Who Did I Flash?](#who-did-i-flash)
+        * [Extra Spawn Points](#extra-spawn-points)
+        * [Decoy Dodgeball](#decoy-dodgeball)
+        * [Prop Health](#prop-health)
+        * [Time Limit Enforcer](#time-limit-enforcer)
+        * [Full Alltalk Patch](#full-alltalk-patch)
+        * [Unlimited Ammo](#unlimited-ammo)
+        * [Map Spawns Checker](#map-spawns-checker)
+        * [Zeus Toggle](#zeus-toggle)
+        * [ZR Burn Slowdown](#zr-burn-slowdown)
+    * [Garry's Mod](#garrys-mod)
+        * [Server Hop](#server-hop-1)
+        * [Spawn Protection](#spawn-protection-1)
+        * [Purge Timer](#purge-timer)
+        * [Prop Spam Protection](#prop-spam-protection)
+        * [Server Browser Edits](#server-browser-edits)
+        * [Simple Discord Relay](#simple-discord-relay)
+        * [Lua User Management](#lua-user-management)
+    * [Rust](#rust)
+        * [User Management](#user-management-1)
+        * [Small Plugin Pack](#small-plugin-pack)
+* [Outdated & Old Projects](#outdated--old-projects)
+    * [Packet Sequence](#packet-sequence)
+    * [The DPDK Common](#the-dpdk-common)
+    * [Kilimanjaro](#kilimanjaro)
+    * [Packet Flooder](#packet-flooder)
+    * [Misc](#misc)
+    * [Notes & Guides](#notes--guides)
+    * [The DPDK Stats](#the-dpdk-stats)
+    * [Create T3 Test](#create-t3-test)
+    * [UDP Spoof](#udp-spoof)
+    * [TC Ingress IPIP Blocker](#tc-ingress-ipip-blocker)
+    * [CircleCI Test #2](#circleci-test-2)
+    * [Old Website #1](#old-website-1)
+    * [Fitbit Heartrate Monitor](#fitbit-heartrate-monitor)
+    * [Hard Link Files](#hard-link-files)
+    * [Bootstrap Testing Website](#bootstrap-testing-website)
+    * [UDP Ping](#udp-ping)
+    * [Simple Discord Bot](#simple-discord-bot)
+    * [Pterodactyl Packet Watch](#pterodactyl-packet-watch)
+    * [Elixir Phoenix User System](#elixir-phoenix-user-system)
+    * [AF_XDP Test](#af_xdp-test)
+    * [Simple Java MySQL Wrapper](#simple-java-mysql-wrapper)
+    * [Compressor V2 FOU Wrapper/UnWrapper](#compressor-v2-fou-wrapperunwrapper)
+    * [Killtrocity](#killtrocity)
+    * [Linux Back-End Scripts](#linux-back-end-scripts)
+    * [IPIP Forward](#ipip-forward)
+    * [Match And Log](#match-and-log)
+    * [Killfrenzy](#killfrenzy)
+    * [Game Server Versions](#game-server-versions)
+    * [Go Web Attack Simulator](#go-web-attack-simulator)
+    * [Continuous A2S_INFO Requests](#continuous-a2s_info-requests)
+    * [UDP Sender](#udp-sender)
+    * [Website #1](#website-1)
+    * [GFL API In Exlixir](#gfl-api-in-exlixir)
+
 **[G]** - Guide  
 **[U]** - Unsupported or outdated
 
@@ -278,7 +410,7 @@ This is a small project to demonstrate how to spawn multiple processes from a Go
 
 [[source](https://github.com/gamemann/Go-Spawn-And-Output-Logs-From-Process)]
 
-### [GLib Tests](https://github.com/gamemann/GLib-Tests)
+#### [GLib Tests](https://github.com/gamemann/GLib-Tests)
 A repository I'm using to store my progress while learning GNOME's GLib [library](https://github.com/GNOME/glib). Specifically hashing via `ghash`.
 
 [[source](https://github.com/gamemann/GLib-Tests)]
@@ -323,8 +455,7 @@ This repository is used to store my findings on matching dynamic payloads in XDP
 
 [[source](https://github.com/gamemann/XDP-Dynamic-Payload-Matching)]
 
-## Examples
-### [DPDK Examples](https://github.com/gamemann/The-DPDK-Examples)
+#### [The DPDK Examples](https://github.com/gamemann/The-DPDK-Examples)
 A small repository that stores examples of [the DPDK](https://www.dpdk.org/) which is a kernel bypass library for network programming.
 
 **Category** - Network -> Kernel Bypass  
@@ -333,26 +464,31 @@ A small repository that stores examples of [the DPDK](https://www.dpdk.org/) whi
 
 [[source](https://github.com/gamemann/The-DPDK-Examples)]
 
-## Game Plugins & Addons
-I used to own an active gaming community a long time ago that hosted servers throughout multiple games such as Counter-Strike: Global Offensive (now CS2), Counter-Strike: Source, Team Fortress 2, Garry's Mod, Rust, and more. These are game server plugins and addons I've written for mostly my own servers in the past. I've also worked on some plugins and addons recently which I tried keeping towards the top of the sub-categories below.
+### [Simple Golang Web Application With CircleCI](https://github.com/gamemann/Simple-GoLang-Application-With-CircleCI)
+A very simple web application made in Go that is deployed using CircleCI.
 
-### Megapack
-#### [SM - Core](https://github.com/gamemann/SM-Core)
+[[source](https://github.com/gamemann/Simple-GoLang-Application-With-CircleCI)]
+
+## Game Plugins & Addons
+I used to own an active gaming community a long time ago that hosted servers throughout multiple games such as Counter-Strike: Global Offensive (now CS2), Counter-Strike: Source, Team Fortress 2, Garry's Mod, Rust, and more. These are game server plugins and addons I've written for mostly my own servers in the past. I've also worked on some plugins and addons recently which I tried keeping towards the top of the sub-categories below. However, most of these projects listed below are very old (10+ years).
+
+### SourceMod Megapack #1
+#### [Core](https://github.com/gamemann/SM-Core)
 A SourceMod plugin I wrote for an old gaming community I once owned that implements core functionality for other plugins such as MySQL, Server Hop, Server Ads, etc.
 
 [[source](https://github.com/gamemann/SM-Core)]
 
-#### [SM - MySQL](https://github.com/gamemann/SM-MySQL)
+#### [MySQL](https://github.com/gamemann/SM-MySQL)
 A SourceMod plugin I wrote for an old gaming community I once owned that provides MySQL functionality for a plugin pack the plugin is a part of.
 
 [[source](https://github.com/gamemann/SM-MySQL)]
 
-#### [SM - User Management](https://github.com/gamemann/SM-User-Management)
+#### [User Management](https://github.com/gamemann/SM-User-Management)
 A SourceMod plugin I wrote for an old gaming community I once owned that implements user management by assigning users specific groups and flags from a MySQL database.
 
 [[source](https://github.com/gamemann/SM-User-Management)]
 
-#### [SM - Server Ads](https://github.com/gamemann/SM-Server-Ads)
+#### [Server Ads](https://github.com/gamemann/SM-Server-Ads)
 A SourceMod plugin I wrote for an old gaming community I once owned that comes with in-game advertisements (chat, hud, and more supported). Also supports grabbing advertisement messages from MySQL database and paid advertisement support.
 
 [[source](https://github.com/gamemann/SM-Server-Ads)]
@@ -368,7 +504,7 @@ A SourceMod plugin that executes a console command on SRCDS servers when a game 
 
 [[source](https://github.com/gamemann/Auto-Cmd-On-Update)]
 
-### [Dynamic Slots](https://github.com/gamemann/Dynamic-Slots)
+#### [Dynamic Slots](https://github.com/gamemann/Dynamic-Slots)
 A simple Dynamic Slots plugin for SourceMod.
 
 [[source](https://github.com/gamemann/Dynamic-Slots)]
@@ -395,19 +531,19 @@ A SourceMod plugin that creates a forward for when the average server FPS goes u
 
 [[source](https://github.com/gamemann/FPS-Threshold)]
 
-### [Anycast Endpoint](https://github.com/gamemann/Anycast-Endpoint)
+#### [Anycast Endpoint](https://github.com/gamemann/Anycast-Endpoint)
 A repository that stores config files, Docker images, and more of a no longer running Anycast network I managed/owned a long time ago hosting game servers.
 
 [[source](https://github.com/gamemann/Anycast-Endpoint)]
 
 ### Left 4 Dead 2
-#### [L4D2 Party Boxes](https://github.com/gamemann/l4d2-partyboxes)
+#### [Party Boxes](https://github.com/gamemann/l4d2-partyboxes)
 A [SourceMod](https://www.sourcemod.net/) plugin for [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/) that turns upgrade boxes such as incendiary and explosive ammo boxes into random/fun boxes. There are three categories a box may be registered under which include **Good**, **Mid**, and **Bad**. Good boxes help the survivors, mid boxes are somewhere in-between (misc?), and bad boxes negatively impact the survivors.
 
 [[source](https://github.com/gamemann/l4d2-partyboxes)]
 
 ### Counter-Strike
-#### [CS Spawn Protection](https://github.com/gamemann/Spawn-Protection)
+#### [Spawn Protection](https://github.com/gamemann/Spawn-Protection)
 A simple SourceMod Spawn Protection plugin that was developed for Counter-Strike: Source and Counter-Strike: Global Offensive.
 
 [[source](https://github.com/gamemann/Spawn-Protection)]
@@ -459,7 +595,7 @@ A CS:GO plugin that toggles spawning with a zeus.
 
 [[source](https://github.com/gamemann/CSGO_ZeusToggle)]
 
-### [ZR Burn Slowdown](https://github.com/gamemann/CSGO_ZRBurnSlowDown)
+#### [ZR Burn Slowdown](https://github.com/gamemann/CSGO_ZRBurnSlowDown)
 A plugin for SourceMod that slows burning zombies down in the Zombie Reloaded game mode for CS:GO.
 
 [[source](https://github.com/gamemann/CSGO_ZRBurnSlowDown)]
@@ -485,7 +621,7 @@ An old addon I made for Garry's Mod that helped prevent prop spamming that would
 
 [[source](https://github.com/gamemann/GModPropSpamProtection)]
 
-### [Server Browser Edits](https://github.com/gamemann/GMod-Server-Browser)
+#### [Server Browser Edits](https://github.com/gamemann/GMod-Server-Browser)
 A modifed version of Garry's Mod server browser in JavaScript that supports displaying all servers on a web page and more.
 
 [[source](https://github.com/gamemann/GMod-Server-Browser)]
@@ -501,12 +637,12 @@ A small addon for Garry's Mod that handled user management in an old gaming comm
 [[source](https://github.com/gamemann/Lua-User-Management)]
 
 ### Rust
-#### [Rust User Management](https://github.com/gamemann/Rust-User-Management)
+#### [User Management](https://github.com/gamemann/Rust-User-Management)
 A plugin I made a long time ago for a Rust server in my old gaming community. This plugin managed permissions for users and assigned them the group they belonged to (e.g. Member, Supporter, VIP, Admin, etc.).
 
 [[source](https://github.com/gamemann/Rust-User-Management)]
 
-#### [Rust Plugins](https://github.com/gamemann/Rust-Plugins)
+#### [Small Plugin Pack](https://github.com/gamemann/Rust-Plugins)
 Two Rust plugins I developed a long time ago that contained a user management plugin along with a plugin that gave items to players on spawn.
 
 [[source](https://github.com/gamemann/Rust-Plugins)]
@@ -549,6 +685,11 @@ A bunch of smaller projects and programs written in various languages. Includes 
 
 [[source](https://github.com/gamemann/Misc)]
 
+### [Notes & Guides](https://github.com/gamemann/Notes-and-Guides)
+A bunch of notes, guides, updates, events, and more I've written in the past, mostly regarding an old gaming community I once owned. These were all published on a forum and there were a lot of people interested in the tech-related content, etc.
+
+[[source](https://github.com/gamemann/Notes-and-Guides)]
+
 ### [The DPDK Stats](https://github.com/gamemann/The-DPDK-Stats)
 A small DPDK application that increments a basic packet counter for TCP or UDP packets depending on what's specified in the command line (UDP is default). The amount of packets per second is outputted on a new line each second and total packets is outputted before the program exits.
 
@@ -568,6 +709,11 @@ A small C program I made to send out spoofed/non-spoofed UDP packets via raw soc
 A simple TC BPF program that attaches to the ingress filter and blocks any IPs stored in the specified file (default is `/etc/IPIPBlock/list.conf`). This program checks the source IP of the inner IP header.
 
 [[source](https://github.com/gamemann/TC-Ingress-IPIP-Blocker)]
+
+### [CircleCI Test #2](https://github.com/gamemann/CircleCI-Test2)
+A repository that stored my results from a CircleCI interview I had many years ago.
+
+[[source](https://github.com/gamemann/CircleCI-Test2)]
 
 ### [Old Website #1](https://github.com/gamemann/Old-Website-1)
 An old website I made in 2014 while I was in High School! My first advanced project for PHP/MySQL.
@@ -655,11 +801,6 @@ A Django web application used to sync edge servers running Kilimanjaro and consu
 A small project I made a long time ago that compares the current game server's version to the actual most up-to-date version.
 
 [[source](https://github.com/gamemann/Game-Server-Versions)]
-
-### [Simple Golang Web Application With CircleCI](https://github.com/gamemann/Simple-GoLang-Application-With-CircleCI)
-A very simple web application made in Go that is deployed using CircleCI.
-
-[[source](https://github.com/gamemann/Simple-GoLang-Application-With-CircleCI)]
 
 ### [Go Web Attack Simulator](https://github.com/gamemann/Go-Web-Attack-Log-Simulation)
 A basic Go program imported from GFL's Gitlab. This simply simulates a web attack via logs.
