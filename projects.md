@@ -145,7 +145,7 @@ My website portfolio is live at [cdeacon.net](https://cdeacon.net)!
 A future software developer and community. Formerly known as Deaconn and currently in the process of rebanding.
 
 **Category** - IT Company  
-**Skills** - Freelancing, web development, security, Docker, Next.JS, Prisma, and system administration.  
+**Skills** - Freelancing, web development, security, Docker, Next.JS, Prisma, technical writing, and system administration.  
 **Languages** - TypeScript, React, HTML, CSS (Tailwind CSS)
 
 * Website [[link](https://tekworks.net)] [[source 2-12-24](https://github.com/tek-works/deaconn-2-12-24)]
@@ -159,7 +159,7 @@ A future software developer and community. Formerly known as Deaconn and current
 An upcoming inclusive modding community and game developer that currently offers a [forum](https://forum.moddingcommunity.com) and, in the future, will provide a mod workshop, server browser, and much more! We support popular games like [Minecraft](https://www.minecraft.net/en-us), [GTA V](https://www.rockstargames.com/gta-v), [Skyrim](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/), [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/), and many others!
 
 **Category** - Gaming Community  
-**Skills** - Web development, security, Docker, Next.JS, Prisma, and system administration.  
+**Skills** - Web development, security, Docker, Next.JS, Prisma, technical writing, and system administration.  
 **Languages** - TypeScript, React, HTML, CSS (Tailwind CSS)
 
 * Dot FPS Controller [[source](https://github.com/modcommunity/dot-fps-controller)]
