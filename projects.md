@@ -614,7 +614,7 @@ A repository to help with learning Create T3 App which is being used in a future
 ## Game Plugins & Addons
 I used to own an active gaming community a long time ago that hosted servers throughout multiple games such as Counter-Strike: Global Offensive (now CS2), Counter-Strike: Source, Team Fortress 2, Garry's Mod, Rust, and more. These are game server plugins and addons I've written for mostly my own servers in the past. I've also worked on some plugins and addons recently which I tried keeping towards the top of the sub-categories below. However, most of these projects listed below are very old (10+ years).
 
-You can also view very old SourceMod plugins I made on [AlliedMods](https://sourcemod.net/plugins.php?cat=0&mod=-1&title=&author=gamemann&description=&search=1). SourceMod plugins introduced me to the programming field!
+**Fun Fact** - You can view very old SourceMod plugins I made on [AlliedMods](https://sourcemod.net/plugins.php?cat=0&mod=-1&title=&author=gamemann&description=&search=1). SourceMod plugins introduced me to the programming field in 2009/2010 when I was 11/12 years old! You can also find other mods like maps on my Gamebanana account [here](https://gamebanana.com/members/774742)
 
 ### SourceMod Megapack #1
 #### [Core](https://github.com/gamemann/SM-Core)
