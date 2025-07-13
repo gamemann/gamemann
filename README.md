@@ -15,6 +15,6 @@ Hi! I am a self-taught network, software, and systems engineer with a love for o
   <details>
     <summary>More Stats</summary>
 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=holi" alt="My GitHub Time Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=holi" alt="My GitHub Time Stats" />
   </details>
 </div>
