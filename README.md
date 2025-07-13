@@ -8,7 +8,7 @@ Hi! I am a self-taught network, software, and systems engineer with a love for o
 
 <div align="center">
 
-  [❤️**I Lost My Mom To Pancreatic Cancer**❤️](https://github.com/gamemann/i-lost-my-mom-to-pancreatic-cancer)
+  [❤️ **I Lost My Mom To Pancreatic Cancer** ❤️](https://github.com/gamemann/i-lost-my-mom-to-pancreatic-cancer)
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gamemann&count_private=true&include_all_commits=true&show_icons=true&theme=holi&custom_title=Stats" alt="My GitHub Stats" />
 
