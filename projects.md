@@ -9,7 +9,7 @@ Here is a full list of projects and repositories I've created and manage.
     * [Inactive](#inactive)
         * [Best Mods](#best-mods)
         * [Best Servers](#best-servers)
-* [Popular Projects](#popular-projects)
+* [Most Popular Projects](#most-popular-projects)
     * [XDP Firewall](#xdp-firewall)
     * [XDP Proxy](#xdp-proxy)
     * [Packet Batch](#packet-batch)
@@ -203,7 +203,7 @@ An open source server browser that allows users to discover servers in platforms
 
 [[source](https://github.com/bestserversio)]
 
-## Popular Projects
+## Most Popular Projects
 ### [XDP Firewall](https://github.com/gamemann/XDP-Firewall)
 A *stateless* firewall that attaches to the [XDP](https://www.iovisor.org/technology/xdp) hook in the Linux kernel using [(e)BPF](https://ebpf.io/) for fast packet processing.
 
