@@ -1,135 +1,135 @@
 Here is a **full list** of open source projects and repositories I've created and managed over the years.
 
 ## Overview
-* [Portfolio](#portfolio)
+* [Portfolio](#portfolio) [[website](https://cdeacon.net/)] [[source](https://github.com/gamemann/portfolio)]
 * [Community & Company Projects](#community--company-projects)
     * [Active](#active)
-        * [TekWorks](#tekworks)
-        * [The Modding Community](#the-modding-community)
+        * [TekWorks](#tekworks) [[website](https://tekworks.net)] [[source](https://github.com/tek-works)]
+        * [The Modding Community](#the-modding-community) [[website](https://moddingcommunity.com)] [[source](https://github.com/modcommunity)]
     * [Inactive](#inactive)
-        * [Best Mods](#best-mods)
-        * [Best Servers](#best-servers)
+        * [Best Mods](#best-mods) [[website](https://bestmods.io/)] [[source](https://github.com/bestmods)]
+        * [Best Servers](#best-servers) [[source](https://github.com/bestserversio)]
 * [Most Popular Projects](#most-popular-projects)
-    * [XDP Firewall](#xdp-firewall)
-    * [XDP Proxy](#xdp-proxy)
-    * [Packet Batch](#packet-batch)
-    * [Browser.TF](#browsertf)
-    * [GitHub Follow Bot](#github-follow-bot)
+    * [XDP Firewall](#xdp-firewall) [[source](https://github.com/gamemann/XDP-Firewall)]
+    * [XDP Proxy](#xdp-proxy) [[source](https://github.com/gamemann/XDP-Proxy)]
+    * [Packet Batch](#packet-batch) [[source](https://github.com/Packet-Batch)]
+    * [Browser.TF](#browsertf) [[website](https://btf.bestservers.io/)] [[source](https://github.com/gamemann/Browser.TF)]
+    * [GitHub Follow Bot](#github-follow-bot) [[source](https://github.com/gamemann/GitHub-Follow-Bot)]
 * [Smaller Projects](#smaller-projects)
-    * [cweb](#cweb)
-    * [Rust Auto Wipe](#rust-auto-wipe)
-    * [Pterodactyl Game Server Watch](#pterodactyl-game-server-watch)
-    * [Web Extract With ChatGPT](#web-extract-with-chatgpt)
-    * [Discord Chooseable Roles](#discord-chooseable-roles)
-    * [Discord Global Chat](#discord-global-chat)
-    * [Stat](#stat)
-    * [TC IPIP Mapper](#tc-ipip-mapper)
-    * [IP ASN List](#ip-asn-list)
-    * [CSharp Websockets Chat](#csharp-websockets-chat)
-    * [IPIP Direct](#ipip-direct)
-    * [XDP Stats](#xdp-stats)
-    * [PostgreSQL Docker Image With Backups](#postgresql-docker-image-with-backups)
-    * [CloudFlare NGINX/IPTables Automation](#cloudflare-nginxiptables-automation)
-    * [TCP App With Encryption](#tcp-app-with-encryption)
-    * [Discord MG Bot](#discord-mg-bot)
+    * [cweb](#cweb) [[source](https://github.com/gamemann/cweb)]
+    * [Rust Auto Wipe](#rust-auto-wipe) [[source](https://github.com/gamemann/Rust-Auto-Wipe)]
+    * [Pterodactyl Game Server Watch](#pterodactyl-game-server-watch) [[source](https://github.com/gamemann/Pterodactyl-Game-Server-Watch)]
+    * [Web Extract With ChatGPT](#web-extract-with-chatgpt) [[source](https://github.com/gamemann/web-extract-with-chatgpt)]
+    * [Discord Chooseable Roles](#discord-chooseable-roles) [[source](https://github.com/gamemann/Discord-Chooseable-Roles)]
+    * [Discord Global Chat](#discord-global-chat) [[source](https://github.com/gamemann/Discord-Global-Chat)]
+    * [Stat](#stat) [[source](https://github.com/gamemann/Stat)]
+    * [TC IPIP Mapper](#tc-ipip-mapper) [[source](https://github.com/gamemann/TC-IPIP-Mapper)]
+    * [IP ASN List](#ip-asn-list) [[source](https://github.com/gamemann/IP-ASN-List)]
+    * [CSharp Websockets Chat](#csharp-websockets-chat) [[source](https://github.com/gamemann/csharp-websockets-chat)]
+    * [IPIP Direct](#ipip-direct) [[source](https://github.com/gamemann/IPIPDirect-TC)]
+    * [XDP Stats](#xdp-stats) [[source](https://github.com/gamemann/XDP-Stats)]
+    * [PostgreSQL Docker Image With Backups](#postgresql-docker-image-with-backups) [[source](https://github.com/gamemann/postgresql-docker-image-with-backups)]
+    * [CloudFlare NGINX/IPTables Automation](#cloudflare-nginxiptables-automation) [[source](https://github.com/gamemann/cf-nginx-iptables-automation)]
+    * [TCP App With Encryption](#tcp-app-with-encryption) [[source](https://github.com/gamemann/TCP-App-With-Encryption)]
+    * [Discord MG Bot](#discord-mg-bot) [[source](https://github.com/gamemann/discord-mg-bot)]
 * [Labs & Tests](#labs--tests)
-    * [Home Lab](#home-lab)
-        * [Web Desktop App Launcher](#web-desktop-app-launcher)
-        * [My Retro Setup](#my-retro-setup)
-        * [My Raspberry Pi Manager](#my-raspberry-pi-manager)
-        * [BestBuy Parser](#bestbuy-parser)
+    * [Home Lab](#home-lab) [[source](https://github.com/gamemann/Home-Lab)]
+        * [Web Desktop App Launcher](#web-desktop-app-launcher) [[source](https://github.com/gamemann/web-desktop-app-launcher)]
+        * [My Retro Setup](#my-retro-setup) [[source](https://github.com/gamemann/my-retro-setup)]
+        * [My Raspberry Pi Manager](#my-raspberry-pi-manager) [[source](https://github.com/gamemann/My-Raspberry-Pi-Manager)]
+        * [BestBuy Parser](#bestbuy-parser) [[source](https://github.com/gamemann/BestBuy-Parser)]
     * [Other](#other)
-        * [How To Use Selenium And BeautifulSoup](#how-to-use-selenium-and-beautifulsoup)
-        * [C To Assembly Tests](#c-to-assembly-tests)
-        * [XDP Playground](#xdp-playground)
-        * [Go Playground](#go-playground)
-        * [Linux BTRFS Lab](#linux-btrfs-lab)
-        * [Go Spawn & Output Logs From Process](#go-spawn--output-logs-from-process)
-        * [GLib Tests](#glib-tests)
-        * [Performance Test Program](#performance-test-program)
-        * [XDP Access Last Byte](#xdp-access-last-byte)
-        * [Dot Menu Settings Example](#dot-menu-settings-example)
-        * [My React Playground](#my-react-playground)
-        * [Laravel Testing](#laravel-testing)
-        * [Test kernel Modules](#test-kernel-modules)
-        * [XDP TCP Header Options](#xdp-tcp-header-options)
-        * [XDP Dynamic Payload Matching](#xdp-dynamic-payload-match)
-        * [The DPDK Examples](#the-dpdk-examples)
-        * [Simple Golang Web Application With CircleCI](#simple-golang-web-application-with-circleci)
-        * [Create T3 Test](#create-t3-test)
+        * [How To Use Selenium And BeautifulSoup](#how-to-use-selenium-and-beautifulsoup) [[source](https://github.com/gamemann/How-To-Use-Selenium-And-BeautifulSoup)]
+        * [C To Assembly Tests](#c-to-assembly-tests) [[source](https://github.com/gamemann/C-To-Assembly-Tests)]
+        * [XDP Playground](#xdp-playground) [[source](https://github.com/gamemann/xdp-playground)]
+        * [Go Playground](#go-playground) [[source](https://github.com/gamemann/go-playground)]
+        * [Linux BTRFS Lab](#linux-btrfs-lab) [[source](https://github.com/gamemann/Linux-BTRFS-Lab)]
+        * [Go Spawn & Output Logs From Process](#go-spawn--output-logs-from-process) [[source](https://github.com/gamemann/Go-Spawn-And-Output-Logs-From-Process)]
+        * [GLib Tests](#glib-tests) [[source](https://github.com/gamemann/GLib-Tests)]
+        * [Performance Test Program](#performance-test-program) [[source](https://github.com/gamemann/Performance-Test-Program)]
+        * [XDP Access Last Byte](#xdp-access-last-byte) [[source](https://github.com/gamemann/Xdp-Access-Last-Byte)]
+        * [Dot Menu Settings Example](#dot-menu-settings-example) [[source](https://github.com/gamemann/dot-menu-settings-example)]
+        * [My React Playground](#my-react-playground) [[source](https://github.com/gamemann/My-React-Playground)]
+        * [Laravel Testing](#laravel-testing) [[source](https://github.com/gamemann/Laravel-Testing)]
+        * [Test kernel Modules](#test-kernel-modules) [[source](https://github.com/gamemann/Test-Kernel-Modules)]
+        * [XDP TCP Header Options](#xdp-tcp-header-options) [[source](https://github.com/gamemann/XDP-TCP-Header-Options)]
+        * [XDP Dynamic Payload Matching](#xdp-dynamic-payload-match) [[source](https://github.com/gamemann/XDP-Dynamic-Payload-Matching)]
+        * [The DPDK Examples](#the-dpdk-examples) [[source](https://github.com/gamemann/The-DPDK-Examples)]
+        * [Simple Golang Web Application With CircleCI](#simple-golang-web-application-with-circleci) [[source](https://github.com/gamemann/Simple-GoLang-Application-With-CircleCI)]
+        * [Create T3 Test](#create-t3-test) [[source](https://github.com/gamemann/Create-T3-Test)]
 * [Game Plugins & Addons](#game-plugins--addons)
     * [SourceMod Megapack #1](#sourcemod-megapack-1)
-        * [Core](#core)
-        * [MySQL](#mysql)
-        * [User Management](#user-management)
-        * [Server Ads](#server-ads)
-        * [Server Hop](#server-hop)
+        * [Core](#core) [[source](https://github.com/gamemann/SM-Core)]
+        * [MySQL](#mysql) [[source](https://github.com/gamemann/SM-MySQL)]
+        * [User Management](#user-management) [[source](https://github.com/gamemann/SM-User-Management)]
+        * [Server Ads](#server-ads) [[source](https://github.com/gamemann/SM-Server-Ads)]
+        * [Server Hop](#server-hop) [[source](https://github.com/gamemann/SM-Server-Hop)]
     * [General](#general)
-        * [Auto Cmd On Update](#auto-cmd-on-update)
-        * [Dynamic Slots](#dynamic-slots)
-        * [RTV Exclude AFKs](#rtv-exclude-afks)
-        * [Discord On Connect](#discord-on-connect)
-        * [Map Restart](#map-restart)
-        * [FPS Threshold](#fps-threshold)
-        * [Anycast Endpoint](#anycast-endpoint)
+        * [Auto Cmd On Update](#auto-cmd-on-update) [[source](https://github.com/gamemann/Auto-Cmd-On-Update)]
+        * [Dynamic Slots](#dynamic-slots) [[source](https://github.com/gamemann/Dynamic-Slots)]
+        * [RTV Exclude AFKs](#rtv-exclude-afks) [[source](https://github.com/gamemann/RTV-Exclude-AFKs)]
+        * [Discord On Connect](#discord-on-connect) [[source](https://github.com/gamemann/Discord-OnConnect)]
+        * [Map Restart](#map-restart) [[source](https://github.com/gamemann/Map-Restart)]
+        * [FPS Threshold](#fps-threshold) [[source](https://github.com/gamemann/FPS-Threshold)]
+        * [Anycast Endpoint](#anycast-endpoint) [[source](https://github.com/gamemann/Anycast-Endpoint)]
     * [Left 4 Dead 2](#left-4-dead-2)
-        * [Party Boxes](#party-boxes)
+        * [Party Boxes](#party-boxes) [[source](https://github.com/gamemann/l4d2-partyboxes)]
     * [Counter-Strike](#counter-strike)
-        * [Spawn Protection](#spawn-protection)
-        * [Who Did I Flash?](#who-did-i-flash)
-        * [Extra Spawn Points](#extra-spawn-points)
-        * [Decoy Dodgeball](#decoy-dodgeball)
-        * [Prop Health](#prop-health)
-        * [Time Limit Enforcer](#time-limit-enforcer)
-        * [Full Alltalk Patch](#full-alltalk-patch)
-        * [Unlimited Ammo](#unlimited-ammo)
-        * [Map Spawns Checker](#map-spawns-checker)
-        * [Zeus Toggle](#zeus-toggle)
-        * [ZR Burn Slowdown](#zr-burn-slowdown)
+        * [Spawn Protection](#spawn-protection) [[source](https://github.com/gamemann/Spawn-Protection)]
+        * [Who Did I Flash?](#who-did-i-flash) [[source](https://github.com/gamemann/cs-who-did-i-flash)]
+        * [Extra Spawn Points](#extra-spawn-points) [[source](https://github.com/gamemann/Extra-Spawn-Points)]
+        * [Decoy Dodgeball](#decoy-dodgeball) [[source](https://github.com/gamemann/CSGO_DecoyDodgeball)]
+        * [Prop Health](#prop-health) [[source](https://github.com/gamemann/All_PropHealth)]
+        * [Time Limit Enforcer](#time-limit-enforcer) [[source](https://github.com/gamemann/CS_TimeLimitEnforcer)]
+        * [Full Alltalk Patch](#full-alltalk-patch) [[source](https://github.com/gamemann/Full-Alltalk-Patch)]
+        * [Unlimited Ammo](#unlimited-ammo) [[source](https://github.com/gamemann/CS-Unlimited-Ammo)]
+        * [Map Spawns Checker](#map-spawns-checker) [[source](https://github.com/gamemann/CS_MapSpawnsChecker)]
+        * [Zeus Toggle](#zeus-toggle) [[source](https://github.com/gamemann/CSGO_ZeusToggle)]
+        * [ZR Burn Slowdown](#zr-burn-slowdown) [[source](https://github.com/gamemann/CSGO_ZRBurnSlowDown)]
     * [Garry's Mod](#garrys-mod)
-        * [Server Hop](#server-hop-1)
-        * [Spawn Protection](#spawn-protection-1)
-        * [Purge Timer](#purge-timer)
-        * [Prop Spam Protection](#prop-spam-protection)
-        * [Server Browser Edits](#server-browser-edits)
-        * [Simple Discord Relay](#simple-discord-relay)
-        * [Lua User Management](#lua-user-management)
+        * [Server Hop](#server-hop-1) [[source](https://github.com/gamemann/-GMod-Server-Hop)]
+        * [Spawn Protection](#spawn-protection-1) [[source](https://github.com/gamemann/GMod---Roy-s-Spawn-Protection)]
+        * [Purge Timer](#purge-timer) [[source](https://github.com/gamemann/-GMod-Purge-Timer)]
+        * [Prop Spam Protection](#prop-spam-protection) [[source](https://github.com/gamemann/GModPropSpamProtection)]
+        * [Server Browser Edits](#server-browser-edits) [[source](https://github.com/gamemann/GMod-Server-Browser)]
+        * [Simple Discord Relay](#simple-discord-relay) [[source](https://github.com/gamemann/Simple-GMod-Discord-Relay)]
+        * [Lua User Management](#lua-user-management) [[source](https://github.com/gamemann/Lua-User-Management)]
     * [Rust](#rust)
-        * [User Management](#user-management-1)
-        * [Small Plugin Pack](#small-plugin-pack)
+        * [User Management](#user-management-1) [[source](https://github.com/gamemann/Rust-User-Management)]
+        * [Small Plugin Pack](#small-plugin-pack) [[source](https://github.com/gamemann/Rust-Plugins)]
 * [Outdated & Old Projects](#outdated--old-projects)
-    * [Packet Sequence](#packet-sequence)
-    * [The DPDK Common](#the-dpdk-common)
-    * [Kilimanjaro](#kilimanjaro)
-    * [Packet Flooder](#packet-flooder)
-    * [Misc](#misc)
-    * [Notes & Guides](#notes--guides)
-    * [The DPDK Stats](#the-dpdk-stats)
-    * [UDP Spoof](#udp-spoof)
-    * [TC Ingress IPIP Blocker](#tc-ingress-ipip-blocker)
-    * [CircleCI Test #2](#circleci-test-2)
-    * [Old Website #1](#old-website-1)
-    * [Fitbit Heartrate Monitor](#fitbit-heartrate-monitor)
-    * [Hard Link Files](#hard-link-files)
-    * [Bootstrap Testing Website](#bootstrap-testing-website)
-    * [UDP Ping](#udp-ping)
-    * [Simple Discord Bot](#simple-discord-bot)
-    * [Pterodactyl Packet Watch](#pterodactyl-packet-watch)
-    * [Elixir Phoenix User System](#elixir-phoenix-user-system)
-    * [AF_XDP Test](#af_xdp-test)
-    * [Simple Java MySQL Wrapper](#simple-java-mysql-wrapper)
-    * [Compressor V2 FOU Wrapper/UnWrapper](#compressor-v2-fou-wrapperunwrapper)
-    * [Killtrocity](#killtrocity)
-    * [Linux Back-End Scripts](#linux-back-end-scripts)
-    * [IPIP Forward](#ipip-forward)
-    * [Match And Log](#match-and-log)
-    * [Killfrenzy](#killfrenzy)
-    * [Game Server Versions](#game-server-versions)
-    * [Go Web Attack Simulator](#go-web-attack-simulator)
-    * [Continuous A2S_INFO Requests](#continuous-a2s_info-requests)
-    * [UDP Sender](#udp-sender)
-    * [Website #1](#website-1)
-    * [GFL API In Exlixir](#gfl-api-in-exlixir)
+    * [Packet Sequence](#packet-sequence) [[source](https://github.com/gamemann/Packet-Sequence)]
+    * [The DPDK Common](#the-dpdk-common) [[source](https://github.com/gamemann/The-DPDK-Common)]
+    * [Kilimanjaro](#kilimanjaro) [[source](https://github.com/gamemann/Kilimanjaro)]
+    * [Packet Flooder](#packet-flooder) [[source](https://github.com/gamemann/Packet-Flooder)]
+    * [Misc](#misc) [[source](https://github.com/gamemann/Misc)]
+    * [Notes & Guides](#notes--guides) [[source](https://github.com/gamemann/Notes-and-Guides)]
+    * [The DPDK Stats](#the-dpdk-stats) [[source](https://github.com/gamemann/The-DPDK-Stats)]
+    * [UDP Spoof](#udp-spoof) [[source](https://github.com/gamemann/UDP-Spoof)]
+    * [TC Ingress IPIP Blocker](#tc-ingress-ipip-blocker) [[source](https://github.com/gamemann/TC-Ingress-IPIP-Blocker)]
+    * [CircleCI Test #2](#circleci-test-2) [[source](https://github.com/gamemann/CircleCI-Test2)]
+    * [Old Website #1](#old-website-1) [[source](https://github.com/gamemann/Old-Website-1)]
+    * [Fitbit Heartrate Monitor](#fitbit-heartrate-monitor) [[source](https://github.com/gamemann/Fitbit-Heartrate-Monitor)]
+    * [Hard Link Files](#hard-link-files) [[source](https://github.com/gamemann/Hard-Link-Files)]
+    * [Bootstrap Testing Website](#bootstrap-testing-website) [[source](https://github.com/gamemann/Bootstrap-Testing-Website)]
+    * [UDP Ping](#udp-ping) [[source](https://github.com/gamemann/UDP-Ping)]
+    * [Simple Discord Bot](#simple-discord-bot) [[source](https://github.com/gamemann/Simple-Discord-Bot)]
+    * [Pterodactyl Packet Watch](#pterodactyl-packet-watch) [[source](https://github.com/gamemann/Pterodactyl-Packet-Watch)]
+    * [Elixir Phoenix User System](#elixir-phoenix-user-system) [[source](https://github.com/gamemann/Elixir-Phoenix-User-System)]
+    * [AF_XDP Test](#af_xdp-test) [[source](https://github.com/gamemann/AF_XDP-Test)]
+    * [Simple Java MySQL Wrapper](#simple-java-mysql-wrapper) [[source](https://github.com/gamemann/Simple-Java-MySQL-Wrapper)]
+    * [Compressor V2 FOU Wrapper/UnWrapper](#compressor-v2-fou-wrapperunwrapper) [[source](https://github.com/gamemann/Compressor-V2-FOU-Wrap-Unwrapper)]
+    * [Killtrocity](#killtrocity) [[source](https://github.com/gamemann/Killtrocity)]
+    * [Linux Back-End Scripts](#linux-back-end-scripts) [[source](https://github.com/gamemann/Linux-Back-End-Scripts)]
+    * [IPIP Forward](#ipip-forward) [[source](https://github.com/gamemann/IPIP-Forward)]
+    * [Match And Log](#match-and-log) [[source](https://github.com/gamemann/Match-And-Log)]
+    * [Killfrenzy](#killfrenzy) [[source](https://github.com/gamemann/Killfrenzy)]
+    * [Game Server Versions](#game-server-versions) [[source](https://github.com/gamemann/Game-Server-Versions)]
+    * [Go Web Attack Simulator](#go-web-attack-simulator) [[source](https://github.com/gamemann/Go-Web-Attack-Log-Simulation)]
+    * [Continuous A2S_INFO Requests](#continuous-a2s_info-requests) [[source](https://github.com/gamemann/Continuous-A2S_INFO-Requests)]
+    * [UDP Sender](#udp-sender) [[source](https://github.com/gamemann/UDP-Sender)]
+    * [Website #1](#website-1) [[source](https://github.com/gamemann/Website-1)]
+    * [GFL API In Exlixir](#gfl-api-in-exlixir) [[source](https://github.com/gamemann/GFL-API-In-Elixir)]
 
 **[G]** - Guide  
 **[U]** - Unsupported or outdated
