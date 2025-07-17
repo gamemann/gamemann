@@ -56,7 +56,10 @@ Here is a **full list** of open source projects and repositories I've created an
         * [XDP Dynamic Payload Matching](#xdp-dynamic-payload-match) [[source](https://github.com/gamemann/XDP-Dynamic-Payload-Matching)]
         * [The DPDK Examples](#the-dpdk-examples) [[source](https://github.com/gamemann/The-DPDK-Examples)]
         * [Simple Golang Web Application With CircleCI](#simple-golang-web-application-with-circleci) [[source](https://github.com/gamemann/Simple-GoLang-Application-With-CircleCI)]
+        * [CircleCI Test #2](#circleci-test-2) [[source](https://github.com/gamemann/CircleCI-Test2)]
         * [Create T3 Test](#create-t3-test) [[source](https://github.com/gamemann/Create-T3-Test)]
+        * [AF_XDP Test](#af_xdp-test) [[source](https://github.com/gamemann/AF_XDP-Test)]
+        * [Misc](#misc) [[source](https://github.com/gamemann/Misc)]
 * [Game Plugins & Addons](#game-plugins--addons)
     * [SourceMod Megapack #1](#sourcemod-megapack-1)
         * [Core](#core) [[source](https://github.com/gamemann/SM-Core)]
@@ -102,12 +105,10 @@ Here is a **full list** of open source projects and repositories I've created an
     * [The DPDK Common](#the-dpdk-common) [[source](https://github.com/gamemann/The-DPDK-Common)]
     * [Kilimanjaro](#kilimanjaro) [[source](https://github.com/gamemann/Kilimanjaro)]
     * [Packet Flooder](#packet-flooder) [[source](https://github.com/gamemann/Packet-Flooder)]
-    * [Misc](#misc) [[source](https://github.com/gamemann/Misc)]
     * [Notes & Guides](#notes--guides) [[source](https://github.com/gamemann/Notes-and-Guides)]
     * [The DPDK Stats](#the-dpdk-stats) [[source](https://github.com/gamemann/The-DPDK-Stats)]
     * [UDP Spoof](#udp-spoof) [[source](https://github.com/gamemann/UDP-Spoof)]
     * [TC Ingress IPIP Blocker](#tc-ingress-ipip-blocker) [[source](https://github.com/gamemann/TC-Ingress-IPIP-Blocker)]
-    * [CircleCI Test #2](#circleci-test-2) [[source](https://github.com/gamemann/CircleCI-Test2)]
     * [Old Website #1](#old-website-1) [[source](https://github.com/gamemann/Old-Website-1)]
     * [Fitbit Heartrate Monitor](#fitbit-heartrate-monitor) [[source](https://github.com/gamemann/Fitbit-Heartrate-Monitor)]
     * [Hard Link Files](#hard-link-files) [[source](https://github.com/gamemann/Hard-Link-Files)]
@@ -116,7 +117,6 @@ Here is a **full list** of open source projects and repositories I've created an
     * [Simple Discord Bot](#simple-discord-bot) [[source](https://github.com/gamemann/Simple-Discord-Bot)]
     * [Pterodactyl Packet Watch](#pterodactyl-packet-watch) [[source](https://github.com/gamemann/Pterodactyl-Packet-Watch)]
     * [Elixir Phoenix User System](#elixir-phoenix-user-system) [[source](https://github.com/gamemann/Elixir-Phoenix-User-System)]
-    * [AF_XDP Test](#af_xdp-test) [[source](https://github.com/gamemann/AF_XDP-Test)]
     * [Simple Java MySQL Wrapper](#simple-java-mysql-wrapper) [[source](https://github.com/gamemann/Simple-Java-MySQL-Wrapper)]
     * [Compressor V2 FOU Wrapper/UnWrapper](#compressor-v2-fou-wrapperunwrapper) [[source](https://github.com/gamemann/Compressor-V2-FOU-Wrap-Unwrapper)]
     * [Killtrocity](#killtrocity) [[source](https://github.com/gamemann/Killtrocity)]
@@ -602,6 +602,15 @@ A very simple web application made in Go that is deployed using CircleCI.
 
 [[source](https://github.com/gamemann/Simple-GoLang-Application-With-CircleCI)]
 
+### [CircleCI Test #2](https://github.com/gamemann/CircleCI-Test2)
+A repository that stored my results from a CircleCI interview I had many years ago.
+
+**Category** - CD/CI -> CircleCI -> Demonstration  
+**Skills** - CD/CI, CircleCI, and automation.  
+**Languages** - Python
+
+[[source](https://github.com/gamemann/CircleCI-Test2)]
+
 ### [Create T3 Test](https://github.com/gamemann/Create-T3-Test)
 A repository to help with learning Create T3 App which is being used in a future version of Best Mods.
 
@@ -610,6 +619,24 @@ A repository to help with learning Create T3 App which is being used in a future
 **Languages** - TypeScript, React, HTML, CSS
 
 [[source](https://github.com/gamemann/Create-T3-Test)]
+
+### [AF_XDP Test](https://github.com/gamemann/AF_XDP-Test)
+A simple and basic AF_XDP program. Used for testing.
+
+**Category** - Networking -> Tool    
+**Skills** - Linux, networking, XDP, BPF, and AF_XDP.  
+**Languages** - C, Makefile
+
+[[source](https://github.com/gamemann/AF_XDP-Test)]
+
+### [Misc](https://github.com/gamemann/Misc)
+A bunch of smaller projects and programs written in various languages. Includes many test programs.
+
+**Category** - Misc  
+**Skills** - *many*.  
+**Languages** - *many*
+
+[[source](https://github.com/gamemann/Misc)]
 
 ## Game Plugins & Addons
 I used to own an active gaming community a long time ago that hosted servers throughout multiple games such as Counter-Strike: Global Offensive (now CS2), Counter-Strike: Source, Team Fortress 2, Garry's Mod, Rust, and more. These are game server plugins and addons I've written for mostly my own servers in the past. I've also worked on some plugins and addons recently which I tried keeping towards the top of the sub-categories below. However, most of these projects listed below are very old (10+ years).
@@ -964,15 +991,6 @@ A packet flooding/generating program I made that supports TCP, UDP, and ICMP pac
 
 [[source](https://github.com/gamemann/Packet-Flooder)]
 
-### [Misc](https://github.com/gamemann/Misc)
-A bunch of smaller projects and programs written in various languages. Includes many test programs.
-
-**Category** - Misc  
-**Skills** - *many*.  
-**Languages** - *many*
-
-[[source](https://github.com/gamemann/Misc)]
-
 ### [Notes & Guides](https://github.com/gamemann/Notes-and-Guides)
 A bunch of notes, guides, updates, events, and more I've written in the past, mostly regarding an old gaming community I once owned. These were all published on a forum and there were a lot of people interested in the tech-related content, etc.
 
@@ -1008,15 +1026,6 @@ A simple TC BPF program that attaches to the ingress filter and blocks any IPs s
 **Languages** - C, Makefile
 
 [[source](https://github.com/gamemann/TC-Ingress-IPIP-Blocker)]
-
-### [CircleCI Test #2](https://github.com/gamemann/CircleCI-Test2)
-A repository that stored my results from a CircleCI interview I had many years ago.
-
-**Category** - CD/CI -> CircleCI -> Demonstration  
-**Skills** - CD/CI, CircleCI, and automation.  
-**Languages** - Python
-
-[[source](https://github.com/gamemann/CircleCI-Test2)]
 
 ### [Old Website #1](https://github.com/gamemann/Old-Website-1)
 An old website I made in 2014 while I was in High School! My first advanced project for PHP/MySQL.
@@ -1091,15 +1100,6 @@ This project uses [Argon2](https://hexdocs.pm/argon2_elixir/Argon2.html) for pas
 **Languages** - Elixir
 
 [[source](https://github.com/gamemann/Elixir-Phoenix-User-System)]
-
-### [AF_XDP Test](https://github.com/gamemann/AF_XDP-Test)
-A simple and basic AF_XDP program. Used for testing.
-
-**Category** - Networking -> Tool    
-**Skills** - Linux, networking, XDP, BPF, and AF_XDP.  
-**Languages** - C, Makefile
-
-[[source](https://github.com/gamemann/AF_XDP-Test)]
 
 ### [Simple Java MySQL Wrapper](https://github.com/gamemann/Simple-Java-MySQL-Wrapper)
 A simple MySQL wrapper for Java.
