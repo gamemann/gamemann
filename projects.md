@@ -22,6 +22,7 @@ Here is a **full list** of open source projects and repositories I've created an
     * [Web Extract With ChatGPT](#web-extract-with-chatgpt) [[source](https://github.com/gamemann/web-extract-with-chatgpt)]
     * [Discord Chooseable Roles](#discord-chooseable-roles) [[source](https://github.com/gamemann/Discord-Chooseable-Roles)]
     * [Discord Global Chat](#discord-global-chat) [[source](https://github.com/gamemann/Discord-Global-Chat)]
+    * [Discourse Topic Update Action](#discourse-topic-update-action) [[source](https://github.com/gamemann/discourse-topic-update-action)]
     * [Stat](#stat) [[source](https://github.com/gamemann/Stat)]
     * [TC IPIP Mapper](#tc-ipip-mapper) [[source](https://github.com/gamemann/TC-IPIP-Mapper)]
     * [IP ASN List](#ip-asn-list) [[source](https://github.com/gamemann/IP-ASN-List)]
@@ -317,6 +318,15 @@ A Discord bot that allows for global chat between Discord servers in certain cha
 **Languages** - Python, Makefile
 
 [[source](https://github.com/gamemann/Discord-Global-Chat)]
+
+### [Discourse Topic Update Action](https://github.com/gamemann/discourse-topic-update-action)
+A [GitHub Action](https://github.com/features/actions) that updates the contents of the first post of a [Discourse](https://www.discourse.org/) forum topic with the contents of a file in the caller's repository.
+
+**Category** - GitHub -> Actions  
+**Skills** - Bash scripting, GitHub Actions, and REST API.  
+**Languages** - Bash Script, YAML
+
+[[source](https://github.com/gamemann/discourse-topic-update-action)]
 
 ### [Stat](https://github.com/gamemann/Stat)
 A small project to gather counter statistics from the file system or output from commands. Useful for retrieving packets per second and bytes per second on a network interface.
