@@ -1,11 +1,11 @@
-Here is a **full list** of open source projects and repositories I've created and managed over the years.
+Here is a **full list** of open source projects and repositories I've **created and managed** over the years.
 
 ## Overview
 * [Portfolio](#portfolio) [[website](https://cdeacon.net/)] [[source](https://github.com/gamemann/portfolio)]
 * [Community & Company Projects](#community--company-projects)
     * [Active](#active)
         * [TekWorks](#tekworks) [[website](https://tekworks.net)] [[source](https://github.com/tek-works)]
-        * [The Modding Community](#the-modding-community) [[website](https://moddingcommunity.com)] [[source](https://github.com/modcommunity)]
+        * [The Modding Community](#the-modding-community-tmc) [[website](https://moddingcommunity.com)] [[source](https://github.com/modcommunity)]
     * [Inactive](#inactive)
         * [Best Mods](#best-mods) [[website](https://bestmods.io/)] [[source](https://github.com/bestmods)]
         * [Best Servers](#best-servers) [[source](https://github.com/bestserversio)]
@@ -104,6 +104,7 @@ Here is a **full list** of open source projects and repositories I've created an
         * [User Management](#user-management-1) [[source](https://github.com/gamemann/Rust-User-Management)]
         * [Small Plugin Pack](#small-plugin-pack) [[source](https://github.com/gamemann/Rust-Plugins)]
 * [Outdated & Old Projects](#outdated--old-projects)
+    * [Deaconn](#deaconn) [[source](https://github.com/gamemann/deaconn-2-12-24)]
     * [Packet Sequence](#packet-sequence) [[source](https://github.com/gamemann/Packet-Sequence)]
     * [The DPDK Common](#the-dpdk-common) [[source](https://github.com/gamemann/The-DPDK-Common)]
     * [Kilimanjaro](#kilimanjaro) [[source](https://github.com/gamemann/Kilimanjaro)]
@@ -137,44 +138,83 @@ Here is a **full list** of open source projects and repositories I've created an
 **[G]** - Guide  
 **[U]** - Unsupported or outdated
 
+## Notes Regarding My Production Environment
+* All active web apps I run are **self-hosted** on servers using **secure Docker containers**.
+    * *Most* of these web apps were created by me, but I also run other open source software.
+    * All databases are backed up automatically using **open source Docker images** I've created.
+        * [`database-backups-to-s3-docker-image`](#database-backups-to-s3-docker-image)
+        * [`postgresql-docker-image-with-backups`](#postgresql-docker-image-with-backups)
+* I try to use [**Amazon S3**](https://aws.amazon.com/s3/) storage buckets for dynamic and user-created content whenever possible.
+* I've mostly managed **MySQL** and **PostgreSQL** databases in the past.
+
 ## [Portfolio](https://cdeacon.net/)
-My website portfolio is live at [cdeacon.net](https://cdeacon.net)!
+My **open source** website portfolio live at [cdeacon.net](https://cdeacon.net)!
+
+**Category** - Website  
+**Skills** - Web development, Docker, and Astro.  
+**Languages** - TypeScript, React, HTML, CSS (Tailwind CSS)
 
 [[source](https://github.com/gamemann/portfolio)]
 
 ## Community & Company Projects
+These are my official projects I'm working on or have worked on in the past.
+
 ### Active
 #### [TekWorks](https://tekworks.net)
-A future software developer and community. Formerly known as Deaconn and currently in the process of rebanding.
+A software developer and publisher with a [blog](https://tekworks.net/blog). Also will be accepting freelance work in the future!
 
-**Category** - IT Company  
+* The company's website was completely developed and designed by me.
+    * I am still actively developing the website as well!
+        * **To Do:** Add custom sales and support ticket system.
+        * **To Do:** Implement user authentication system and public user profiles.
+        * **To Do:** Create system for billing, services, and more (payments, etc.).
+    * The website is optimized for SEO.
+        * Receives good ratings using online tools to estimate SEO optimization.
+* I've created technical guides on the custom blog I've developed [here](https://tekworks.net/blog)!
+* I will in the future be accepting freelancing work for things like custom firewalls.
+
+**Category** - Company  
 **Skills** - Freelancing, web development, security, Docker, Next.JS, Prisma, technical writing, and system administration.  
 **Languages** - TypeScript, React, HTML, CSS (Tailwind CSS)
 
-* Website [[link](https://tekworks.net)] [[source 2-12-24](https://github.com/tek-works/deaconn-2-12-24)]
 * React Google Analytics [[source](https://github.com/tek-works/react-google-analytics)]
-* **[G]** How To Launch A DoS Attack & Drop It [[website](https://deaconn.net/blog/view/how-to-launch-a-dos-attack-and-drop-it)] [[github](https://github.com/tek-works/how-to-launch-a-dos-attack-and-drop-it)]
-* **[G]** React Form With Dynamic Fields & Formik [[website](https://deaconn.net/blog/view/react-form-with-dynamic-fields-and-formik)] [[github](https://github.com/tek-works/react-form-with-dynamic-fields-and-formik)]
+* **[G]** How To Launch A DoS Attack & Drop It [[website](https://tekworks.net/blog/view/how-to-launch-a-dos-attack-and-drop-it)] [[github](https://github.com/tek-works/how-to-launch-a-dos-attack-and-drop-it)]
+* **[G]** React Form With Dynamic Fields & Formik [[website](https://tekworks.net/blog/view/react-form-with-dynamic-fields-and-formik)] [[github](https://github.com/tek-works/react-form-with-dynamic-fields-and-formik)]
+* **[G]** Basic Linux Security [[website](https://tekworks.net/blog/view/basic-linux-security)]
+* **[G]** MTR & Trace Route Tutorial [[website](https://tekworks.net/blog/view/mtr-and-traceroute-guide)]
 
 [[source](https://github.com/tek-works)]
 
-#### [The Modding Community](https://moddingcommunity.com)
-An upcoming inclusive modding community and game developer that currently offers a [forum](https://forum.moddingcommunity.com) and, in the future, will provide a mod workshop, server browser, and much more! We support popular games like [Minecraft](https://www.minecraft.net/en-us), [GTA V](https://www.rockstargames.com/gta-v), [Skyrim](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/), [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/), and many others!
+#### [The Modding Community](https://moddingcommunity.com) (TMC)
+A welcoming and inclusive **modding** and **game development** community that currently offers a [blog](https://blog.moddingcommunity.com) and [forum](https://forum.moddingcommunity.com), and in the future will provide a mod workshop, server browser, and much more! We support popular games like [Minecraft](https://www.minecraft.net/en-us), [GTA V](https://www.rockstargames.com/gta-v), [Skyrim](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/), [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/), and many others!
 
-**Category** - Gaming Community  
+* I've set up [Ghost](https://ghost.org/) (blog) and [Discourse](https://discourse.org) (forum) using Docker containers.
+    * I've created custom themes, components, and plugins on both web apps for TMC!
+* I've created various guides and resources related to game and device modding and tech that are stored on the community's blog and forum.
+    * I've integrated support for automatically updating the contents of the community's blog posts using public GitHub repositories stored in the community's [GitHub organization](https://github.com/modcommunity) using a GitHub Action I made [here](#ghost-post-update-action)!
+* I'm developing custom web apps that'll offer functionality for content creators.
+    * One web app acts as the landing page for the website and utilizes [Astro](https://astro.build/) for great performance.
+        * More pages and content will be added to this website in the future!
+    * The other web app will provide auth/user functionality, a mod workshop, and a game server browser.
+        * The mod workshop will allow content creators to upload their own mod creations.
+        * The server browser allows users to view server information and connect directly to game servers through the website.
+        * I plan on implementing support for Discord servers in the server browser eventually!
+
+**Category** - Community  
 **Skills** - Web development, security, Docker, Next.JS, Prisma, technical writing, and system administration.  
 **Languages** - TypeScript, React, HTML, CSS (Tailwind CSS)
 
+* Landing Page (`website-processing`) [[website](https://moddingcommunity.com)] [[source](https://github.com/modcommunity/website-processing)]
 * Dot FPS Controller [[source](https://github.com/modcommunity/dot-fps-controller)]
-* **[G]** How To Setup Steam Link On A Raspberry Pi 4 [[website](https://forum.moddingcommunity.com/t/how-to-setup-steam-link-on-a-raspberry-pi-4-1080p-120hz/42)] [[github](https://github.com/modcommunity/steam-link-with-raspberry-pi-setup)]
-* **[G]** How To Make A L4D2 Server With Mods [[website](https://forum.moddingcommunity.com/t/how-to-make-a-left-4-dead-2-server-with-mods/203)] [[github](https://github.com/modcommunity/how-to-make-a-l4d2-server-with-mods)]
-* **[G]** How To Download And Run SteamCMD [[website](https://forum.moddingcommunity.com/t/how-to-download-run-steamcmd/190)] [[github](https://github.com/modcommunity/how-to-download-and-run-steamcmd)]
-* **[G]** How To Install Mods In RDR2 [[website](https://forum.moddingcommunity.com/t/how-to-install-mods-in-rdr2/204)] [[github](https://github.com/modcommunity/how-to-install-mods-in-rdr2)]
-* **[G]** How To Install GTA V Mods In Singleplayer [[website](https://forum.moddingcommunity.com/t/how-to-install-mods-in-gta-v-singleplayer/43)]
-* **[G]** Hardware & Network Requirements For Source Engine Servers [[website](https://forum.moddingcommunity.com/t/hardware-network-requirements-for-source-engine-servers/197)] [[github](https://github.com/modcommunity/hardware-and-network-requirements-for-source-engine-servers)]
-* **[G]** How To Compile SourceMod Plugins [[website](https://github.com/modcommunity/how-to-compile-sourcemod-plugins)] [[github](https://github.com/modcommunity/how-to-compile-sourcemod-plugins)]
-* **[G]** Managing User Permissions In SourceMod [[website](https://forum.moddingcommunity.com/t/how-to-manage-user-permissions-in-sourcemod/193)] [[github](https://github.com/modcommunity/managing-user-permissions-in-sourcemod)]
-* **[G]** How To Make A Garry's Mod Server With Mods & Addons [[website](https://forum.moddingcommunity.com/t/how-to-make-a-garrys-mod-server-with-mods-addons/41)] [[github](https://github.com/modcommunity/how-to-make-a-gmod-server-with-mods-and-addons)]
+* **[G]** How To Setup Steam Link On A Raspberry Pi 4 [[website](https://blog.moddingcommunity.com/how-to-set-up-steam-link-on-a-raspberry-pi/)] [[github](https://github.com/modcommunity/steam-link-with-raspberry-pi-setup)]
+* **[G]** How To Make A L4D2 Server With Mods [[website](https://blog.moddingcommunity.com/how-to-make-a-l4d2-server-with-mods/)] [[github](https://github.com/modcommunity/how-to-make-a-l4d2-server-with-mods)]
+* **[G]** How To Download And Run SteamCMD [[website](https://blog.moddingcommunity.com/how-to-download-run-steamcmd/)] [[github](https://github.com/modcommunity/how-to-download-and-run-steamcmd)]
+* **[G]** How To Set Up A Rust Game Server [[website](https://blog.moddingcommunity.com/how-to-set-up-a-rust-server/)] [[github](https://github.com/modcommunity/how-to-set-up-a-rust-game-server)]
+* **[G]** How To Install Mods In RDR2 [[website](https://blog.moddingcommunity.com/how-to-install-mods-in-rdr2/)] [[github](https://github.com/modcommunity/how-to-install-mods-in-rdr2)]
+* **[G]** How To Compile SourceMod Plugins [[website](https://blog.moddingcommunity.com/how-to-compile-sourcemod-plugins/)] [[github](https://github.com/modcommunity/how-to-compile-sourcemod-plugins)]
+* **[G]** Managing User Permissions In SourceMod [[website](https://blog.moddingcommunity.com/how-to-manage-user-permissions-in-sourcemod/)] [[github](https://github.com/modcommunity/managing-user-permissions-in-sourcemod)]
+* **[G]** How To Make A Garry's Mod Server With Mods & Addons [[website](https://blog.moddingcommunity.com/how-to-make-a-gmod-server-install-mods-addons/)] [[github](https://github.com/modcommunity/how-to-make-a-gmod-server-with-mods-and-addons)]
+* **[G]** How To Install Mods In GTA V [[website](https://blog.moddingcommunity.com/how-to-install-mods-in-gta-v/)] [[github](https://github.com/modcommunity/how-to-install-mods-in-gta-v)]
 * **[U]** TMC Servers Engine [[source](https://github.com/modcommunity/tmc-servers-engine)]
 * **[U]** IPS 4 Fixed NavBar [[source](https://github.com/modcommunity/Plugin.Fixed-NavBar)]
 * **[U]** IPS 4 Background Slideshow [[source](https://github.com/modcommunity/Plugin.Background-Slideshow)]
@@ -981,6 +1021,17 @@ Two Rust plugins I developed a long time ago that contained a user management pl
 [[source](https://github.com/gamemann/Rust-Plugins)]
 
 ## Outdated & Old Projects
+### [Deaconn](https://github.com/gamemann/deaconn-2-12-24)
+A full-fledged website that served as a community for developers. This project was transformed into what is now [TekWorks](https://tekworks.net).
+
+**Category** - Website
+**Skills** - Web development, Next.JS, Prisma, TailwindCSS, tRPC, Docker, Docker Compose, security, database management, and more.  
+**Languages** - TypeScript, React, CSS
+
+**NOTE** - This was replaced with Packet Batch.
+
+[[source](https://github.com/gamemann/deaconn-2-12-24)]
+
 ### [Packet Sequence](https://github.com/gamemann/Packet-Sequence)
 A pen-test/DoS tool that allows you can send single or multiple packets in sequences. Also supports a bunch of customization.
 
