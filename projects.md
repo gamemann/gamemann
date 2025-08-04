@@ -22,6 +22,8 @@ Here is a **full list** of open source projects and repositories I've created an
     * [Web Extract With ChatGPT](#web-extract-with-chatgpt) [[source](https://github.com/gamemann/web-extract-with-chatgpt)]
     * [Discord Chooseable Roles](#discord-chooseable-roles) [[source](https://github.com/gamemann/Discord-Chooseable-Roles)]
     * [Discord Global Chat](#discord-global-chat) [[source](https://github.com/gamemann/Discord-Global-Chat)]
+    * [Database Backups To S3 Docker Image](#database-backups-to-s3-docker-image) [[source](https://github.com/gamemann/db-backups-to-s3-docker-image)]
+    * [Ghost Post Update Action](#ghost-post-update-action) [[source](https://github.com/gamemann/ghost-post-update-action)]
     * [Discourse Topic Update Action](#discourse-topic-update-action) [[source](https://github.com/gamemann/discourse-topic-update-action)]
     * [Stat](#stat) [[source](https://github.com/gamemann/Stat)]
     * [TC IPIP Mapper](#tc-ipip-mapper) [[source](https://github.com/gamemann/TC-IPIP-Mapper)]
@@ -318,6 +320,24 @@ A Discord bot that allows for global chat between Discord servers in certain cha
 **Languages** - Python, Makefile
 
 [[source](https://github.com/gamemann/Discord-Global-Chat)]
+
+### [Database Backups To S3 Docker Image](https://github.com/gamemann/db-backups-to-s3-docker-image)
+A custom Docker image that includes a Bash script that backs up MySQL and PostgreSQL databases to any S3-compatible storage bucket (e.g., Amazon S3, Backblaze B2). Backups are scheduled using a cron job inside the custom image.
+
+**Category** - Docker -> Image 
+**Skills** - Bash scripting, S3, Duplicity, Docker, Docker Compose, back ups, and automation.  
+**Languages** - Bash Script, YAML
+
+[[source](https://github.com/gamemann/db-backups-to-s3-docker-image)]
+
+### [Ghost Post Update Action](https://github.com/gamemann/ghost-post-update-action)
+A [GitHub Action](https://github.com/features/actions) that updates the contents of a blog post on [Ghost](https://ghost.org/) with the contents of a file in the caller's repository.
+
+**Category** - GitHub -> Actions  
+**Skills** - Bash scripting, GitHub Actions, and REST API.  
+**Languages** - Bash Script, YAML
+
+[[source](https://github.com/gamemann/ghost-post-update-action)]
 
 ### [Discourse Topic Update Action](https://github.com/gamemann/discourse-topic-update-action)
 A [GitHub Action](https://github.com/features/actions) that updates the contents of the first post of a [Discourse](https://www.discourse.org/) forum topic with the contents of a file in the caller's repository.
