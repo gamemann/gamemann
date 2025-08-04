@@ -365,7 +365,7 @@ A Discord bot that allows for global chat between Discord servers in certain cha
 ### [Database Backups To S3 Docker Image](https://github.com/gamemann/db-backups-to-s3-docker-image)
 A custom Docker image that includes a Bash script that backs up MySQL and PostgreSQL databases to any S3-compatible storage bucket (e.g., Amazon S3, Backblaze B2). Backups are scheduled using a cron job inside the custom image.
 
-**Category** - Docker -> Image 
+**Category** - Docker -> Image  
 **Skills** - Bash scripting, S3, Duplicity, Docker, Docker Compose, back ups, and automation.  
 **Languages** - Bash Script, YAML
 
