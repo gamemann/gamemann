@@ -1,6 +1,7 @@
 Here is a **full list** of open source projects and repositories I've **created and managed** over the years.
 
 ## Overview
+* [Notes Regarding My Production Environment](#notes-regarding-my-production-environment)
 * [Portfolio](#portfolio) [[website](https://cdeacon.net/)] [[source](https://github.com/gamemann/portfolio)]
 * [Community & Company Projects](#community--company-projects)
     * [Active](#active)
