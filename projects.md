@@ -194,11 +194,12 @@ A welcoming and inclusive **modding** and **game development** community that cu
 * I've created various guides and resources related to game and device modding and tech that are stored on the community's blog and forum.
     * I've integrated support for automatically updating the contents of the community's blog posts using public GitHub repositories stored in the community's [GitHub organization](https://github.com/modcommunity) using a GitHub Action I made [here](#ghost-post-update-action)!
 * I'm developing custom web apps that'll offer functionality for content creators.
-    * One web app acts as the landing page for the website and utilizes [Astro](https://astro.build/) for great performance.
-        * More pages and content will be added to this website in the future!
+    * One web app acts as the landing page for the community and utilizes [Astro](https://astro.build/) for great performance.
+        * More pages and content like **About Us** will be added to the website in the future!
     * The other web app will provide auth/user functionality, a mod workshop, and a game server browser.
+        * This is going to be the **core** of the community once finished!
         * The mod workshop will allow content creators to upload their own mod creations.
-        * The server browser allows users to view server information and connect directly to game servers through the website.
+        * The server browser will allow users to view server information and connect directly to game servers through the website.
         * I plan on implementing support for Discord servers in the server browser eventually!
 
 **Category** - Community  
