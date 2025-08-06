@@ -11,28 +11,31 @@
 - 🎮 **Game development**
 
 📁 Check out my:
-- 🌐 [**Open source website portfolio**](https://cdeacon.net)
-- 📄 [**Full list of open source projects**](./projects.md)
+-  [🌐 **Open source website portfolio**](https://cdeacon.net)
+-  [📄 **Full list of open source projects**](./projects.md)
 
 ## 🚀 My Active Projects
-### [<img src="./images/tekworks.png" width="30px" height="30px" align="center" /> **TekWorks**](https://tekworks.net)
+### [<img src="./images/tekworks.png" width="30px" height="30px" align="center" alt="TekWorks Icon" /> **TekWorks**](https://tekworks.net)
 A **software developer** and **publisher** organization.
 
-- 📝 [Blog](https://tekworks.net/blog)
-- 💻 [GitHub Org](https://github.com/tek-works)
+- [📝 Blog](https://tekworks.net/blog)
+- [💻 GitHub Org](https://github.com/tek-works)
 
-### [<img src="./images/tmc.png" width="30px" height="30px" align="center" /> **The Modding Community**](https://moddingcommunity.com)
+### [<img src="./images/tmc.png" width="30px" height="30px" align="center" alt="TMC Icon" /> **The Modding Community**](https://moddingcommunity.com)
 An inclusive **modding** and **game development** community.
 
-- 📝 [Blog](https://blog.moddingcommunity.com)
-- 💬 [Forum](https://forum.moddingcommunity.com)
-- 💻 [GitHub Org](https://github.com/modcommunity)
+- [📝 Blog](https://blog.moddingcommunity.com)
+- [💬 Forum](https://forum.moddingcommunity.com)
+- [💻 GitHub Org](https://github.com/modcommunity)
 
 ## 🤝 Let's Connect
-* [🔗 **Linkedin**](https://www.linkedin.com/in/christiandeacon/)
-* [🐦 **X (Twitter)**](https://x.com/ChristianDeacon)
-* [📸 **Instagram**](https://www.instagram.com/cdeaconado/)
-* [👾 **Discord Server**](https://discord.deaconn.net/)
+- [<img src="./images/linkedin.png" width="19px" height="19px" align="center" alt="Linkedin Icon" /> **Linkedin**](https://www.linkedin.com/in/christiandeacon/)
+
+- [🐦 **X (Twitter)**](https://x.com/ChristianDeacon)
+
+- [<img src="./images/instagram.png" width="19px" height="19px" align="center" alt="Instagram Icon" /> **Instagram**](https://www.instagram.com/cdeaconado/)
+
+- [<img src="./images/discord.png" width="19px" height="19px" align="center" alt="Discord Icon" /> **Discord Server**](https://discord.deaconn.net/)
   * Best place to get help with any of my open source projects or to reach out directly.
   * My Discord username is `gamemann`. Due to **spam invites**, I recommend **joining my server first** before adding me directly
 
