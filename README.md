@@ -8,7 +8,7 @@
 - 🔓 **Penetration testing**
 - 💻 **Web development** & **web scraping**
 - 🤖 **Bot development**
-- 🎮 **Game development** &  **modding**
+- 🎮 **Game development** & **game modding**
 
 📁 Check out my:
 -  🌐 [**Open source website portfolio**](https://cdeacon.net)
