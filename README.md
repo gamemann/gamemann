@@ -15,13 +15,13 @@
 - 📄 [**Full list of open source projects**](./projects.md)
 
 ## 🚀 My Active Projects
-### [<img src="./images/tekworks.png" width="30px" height="30px" style="vertical-align: middle;" /> **TekWorks**](https://tekworks.net)
+### [<img src="./images/tekworks.png" width="30px" height="30px" align="center" /> **TekWorks**](https://tekworks.net)
 A **software developer** and **publisher** organization.
 
 - 📝 [Blog](https://tekworks.net/blog)
 - 💻 [GitHub Org](https://github.com/tek-works)
 
-### [<img src="./images/tmc.png" width="30px" height="30px" style="vertical-align: middle;" /> **The Modding Community**](https://moddingcommunity.com)
+### [<img src="./images/tmc.png" width="30px" height="30px" align="center" /> **The Modding Community**](https://moddingcommunity.com)
 An inclusive **modding** and **game development** community.
 
 - 📝 [Blog](https://blog.moddingcommunity.com)
