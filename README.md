@@ -14,7 +14,7 @@
 - 🌐 [**Open source website portfolio**](https://cdeacon.net)
 - 📄 [**Full list of open source projects**](./projects.md)
 
-## My Active Projects
+## 🚀 My Active Projects
 ### 🖥️ [**TekWorks**](https://tekworks.net)
 A **software developer** and **publisher** organization.
 
