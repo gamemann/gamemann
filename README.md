@@ -24,7 +24,7 @@ A **software developer** and **publisher** organization.
 ### [<img src="./images/tmc.png" width="30px" height="30px" align="center" alt="TMC Icon" /> **The Modding Community**](https://moddingcommunity.com)
 An inclusive **modding** and **game development** community.
 
-- 📝 [ log](https://blog.moddingcommunity.com)
+- 📝 [Blog](https://blog.moddingcommunity.com)
 - 💬 [Forum](https://forum.moddingcommunity.com)
 - 💻 [GitHub Org](https://github.com/modcommunity)
 
