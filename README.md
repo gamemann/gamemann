@@ -35,7 +35,7 @@ An inclusive **modding** and **game development** community.
 - <img src="./images/x.png" width="19px" height="19px" align="center" alt="X (Twitter) Icon" /> [**X (Twitter)**](https://x.com/ChristianDeacon)
 - <img src="./images/instagram.png" width="19px" height="19px" align="center" alt="Instagram Icon" /> [**Instagram**](https://www.instagram.com/cdeaconado/)
 
-If you'd like to contact me directly, I recommend sending me an email using my public GitHub email address.
+If you'd like to contact me directly, I recommend sending me an email to my public GitHub email address.
 
 <div align="center">
 
