@@ -34,9 +34,8 @@ An inclusive **modding** and **game development** community.
 - <img src="./images/linkedin.png" width="19px" height="19px" align="center" alt="Linkedin Icon" /> [**Linkedin**](https://www.linkedin.com/in/christiandeacon/)
 - <img src="./images/x.png" width="19px" height="19px" align="center" alt="X (Twitter) Icon" /> [**X (Twitter)**](https://x.com/ChristianDeacon)
 - <img src="./images/instagram.png" width="19px" height="19px" align="center" alt="Instagram Icon" /> [**Instagram**](https://www.instagram.com/cdeaconado/)
-- <img src="./images/discord.png" width="19px" height="19px" align="center" alt="Discord Icon" /> [**Discord Server**](https://discord.deaconn.net/)
-  * Best place to get help with any of my open source projects or to reach out directly.
-  * My Discord username is `gamemann`. Due to **spam invites**, I recommend **joining my server first** before adding me directly
+
+If you'd like to contact me directly, I recommend sending me an email using my public GitHub email address.
 
 <div align="center">
 
