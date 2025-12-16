@@ -1,6 +1,6 @@
 👋 Hi, I'm a *self-taught* **network**, **software**, and **systems engineer** with a strong passion for **open source**!
 
-🙋‍♂️ My real name is **Christian**, but I often go by **Gamemann** or **WhoZ** online.
+🙋‍♂️ My real name is **Christian**, but I often go by **Gamemann** online.
 
 🛠️ I enjoy working with:
 - 🐧 **Linux**
