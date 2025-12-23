@@ -30,6 +30,8 @@ An inclusive **modding** and **game development** community.
 - 💬 [Forum](https://forum.moddingcommunity.com)
 - 💻 [GitHub Org](https://github.com/modcommunity)
 
+I strive to keep my **open source** projects updated, but as a solo developer juggling my own projects and professional work, it is sometimes hard for me to add features and address issues in a timely manner. Contributions are highly encouraged! Whether it’s a bug fix or a feature request, PRs are greatly appreciated, and all contributors will be credited in the README.
+
 <div align="center">
 
 ### [❤️ **I Lost My Mom To Pancreatic Cancer** ❤️](https://github.com/gamemann/i-lost-my-mom-to-pancreatic-cancer)
