@@ -30,7 +30,7 @@ A **software developer** and **publisher** organization.
 - 📝 [Blog](https://tekworks.net/blog)
 - 💻 [GitHub Org](https://github.com/tek-works)
 
-I strive to keep my **open source** projects updated, but as a solo developer juggling my own projects and professional work, it is sometimes hard for me to add features and address issues in a timely manner. Contributions are highly encouraged! Whether it’s a bug fix or a feature request, PRs are greatly appreciated, and all contributors will be credited in the README.
+I strive to keep my **open source** projects updated, but as a solo developer juggling my own projects and professional work, it is hard for me to add features and address issues in a timely manner. Contributions are highly encouraged! Whether it’s a bug fix or a feature request, PRs are greatly appreciated, and all contributors will be credited in the README.
 
 <div align="center">
 
