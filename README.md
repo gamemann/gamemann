@@ -19,9 +19,10 @@
 An inclusive **modding** and **game development** community.
 
 - 🎮 [Apps & Games](https://moddingcommunity.com/apps)
+- 🔨 [Mod Workshop](https://moddingcommunity.com/mods)
+- ⚙️ [Assets](https://moddingcommunity.com/assets) (game assets & more!)
 - 🌐 [Server Browser](https://moddingcommunity.com/servers)
-- 📝 [Blog](https://blog.moddingcommunity.com)
-- 💬 [Forum](https://forum.moddingcommunity.com)
+- 📝 [Blog](https://moddingcommunity.com/blog)
 - 💻 [GitHub Org](https://github.com/modcommunity)
 
 ### [<img src="./images/tekworks.png" width="30px" height="30px" align="center" alt="TekWorks Icon" /> **TekWorks**](https://tekworks.net)
