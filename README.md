@@ -15,7 +15,7 @@
 -  📄 [**Full list of open source projects**](./projects.md)
 
 ## 🚀 My Active Projects
-### [<img src="./images/tmc.png" width="30px" height="30px" align="center" alt="TMC Icon" /> **The Modding Community**](https://moddingcommunity.com)
+### <img src="./images/tmc.png" width="30px" height="30px" align="center" alt="TMC Icon" /> [The Modding Community](https://moddingcommunity.com)
 An inclusive **modding** and **game development** community. We offer a space where users can share game dev assets, mods, and track game/social servers. We are also creating our own gaming platform!
 
 - 🎮 [Apps & Games](https://moddingcommunity.com/apps)
@@ -25,7 +25,7 @@ An inclusive **modding** and **game development** community. We offer a space wh
 - 📝 [Blog](https://moddingcommunity.com/blog)
 - 💻 [GitHub Org](https://github.com/modcommunity)
 
-### [<img src="./images/tekworks.png" width="30px" height="30px" align="center" alt="TekWorks Icon" /> **TekWorks**](https://tekworks.net)
+### <img src="./images/tekworks.png" width="30px" height="30px" align="middle"  alt="TekWorks Icon" /> [TekWorks](https://tekworks.net)
 A **software developer** and **publisher** organization.
 
 - 📝 [Blog](https://tekworks.net/blog)
