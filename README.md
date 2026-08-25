@@ -16,7 +16,7 @@
 
 ## 🚀 My Active Projects
 ### [<img src="./images/tmc.png" width="30px" height="30px" align="center" alt="TMC Icon" /> **The Modding Community**](https://moddingcommunity.com)
-An inclusive **modding** and **game development** community.
+An inclusive **modding** and **game development** community. We offer a space where users can share game dev assets, mods, and track game/social servers. We are also creating our own gaming platform!
 
 - 🎮 [Apps & Games](https://moddingcommunity.com/apps)
 - 🔨 [Mod Workshop](https://moddingcommunity.com/mods)
