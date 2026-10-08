@@ -41,7 +41,7 @@ A **software developer** and **publisher** organization. As of right now, TMC is
 - 📝 [Blog](https://tekworks.net/blog)
 - 💻 [GitHub Org](https://github.com/tek-works)
 
-I strive to keep my **open source** projects updated, but as a solo developer juggling my own projects and professional work, it is hard for me to add features and address issues in a timely manner. Contributions are highly encouraged! Whether it’s a bug fix or a feature request, PRs are greatly appreciated, and all contributors will be credited in the README.
+**NOTE**: I started using Claude Code on **July 8th, 2026** due to the amount of projects I'm working on and how much code is required. Most of my open source projects' code before that time was written by me. I strive to keep my **open source** projects updated, but as a solo developer juggling my own projects and professional work, it is hard for me to add features and address issues in a timely manner. Contributions are highly encouraged! Whether it’s a bug fix or a feature request, PRs are greatly appreciated, and all contributors will be credited in the README.
 
 <div align="center">
 
