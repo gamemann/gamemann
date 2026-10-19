@@ -25,10 +25,24 @@ An inclusive **modding** and **game development** community. We offer a space wh
 - 📝 [Blog](https://moddingcommunity.com/blog)
 - 💻 [GitHub Org](https://github.com/modcommunity)
 
-#### [My Open Source Games (Zee's Games)](https://github.com/zees-games/)
-[![Zee's Games Banner](https://github.com/zees-games/.github/raw/main/banner01.jpg?raw=true)](https://github.com/zees-games)
+### <img src="./images/zg.png" width="30px" height="30px" align="center" alt="ZG Icon" /> [Zee's Games](https://zeesgames.com)
 
-[Zee's Games](https://github.com/zees-games) is a collection of *open source* multiplayer games I'm working on for [@modcommunity's](https://moddingcommunity.com/play) gaming platform built on-top of [@godotengine](https://godotengine.org)! Here is a list of some of the games!
+A collection of **open source** and *MIT-licensed* games I'm working on for [@modcommunity's](https://moddingcommunity.com/play) gaming platform built on top of [@godotengine](https://godotengine.org)! These games primarily serve as demonstrations of what the gaming platform is capable of, but I also like working on them for fun as well.
+
+- [G2g Fast](https://zeesgames.com/g2gfast): Bunny hop and surf timer runs with Source-style movement and leaderboards.
+- [Arena](https://zeesgames.com/arena): Fast first-person deathmatch with GunGame and classic Surf Deathmatch maps.
+- [Playground](https://zeesgames.com/playground): A physics sandbox: spawn props, NPCs and weapons and build whatever you like.
+- [Hungario](https://zeesgames.com/hungario): Steer a hungry monster, eat to grow and outlast everyone else.
+- [Buses From Hell](https://zeesgames.com/buses-from-hell): Survive one or more crazy bus drivers trying to run you over.
+- [Smash Copter](https://zeesgames.com/smash-copter): Stay on wobbly platforms while a cannon rains props down on you.
+- [Zombie Zone](https://zeesgames.com/zombie-zone): Co-op zombie survival: escape through the city or survive waves.
+- [Hide n Seek](https://zeesgames.com/hide-n-seek): Hide as yourself; every hider caught joins the hunt.
+- [Prop Hunt](https://zeesgames.com/prop-hunt): Disguise as furniture and keep still while blindfolded hunters search.
+- [Murder Mystery](https://zeesgames.com/murder-mystery): Everybody looks the same. One of them has a knife.
+- [Deathrun](https://zeesgames.com/deathrun): Run a trap-filled course while the activators press every button they have.
+- [Wipeout](https://zeesgames.com/wipeout): Obstacle courses over water: sweeper arms, big balls and a fight at the finish.
+- [Dangerous Delivery](https://zeesgames.com/dangerous-delivery): Haul loads up mountain roads with no guard rails. Riskier runs pay more.
+- [Look At Me](https://zeesgames.com/look-at-me): A dark house, 32 levels deep, and the witches walking its rooms.
 
 ### <img src="./images/tekworks.png" width="30px" height="30px" align="middle"  alt="TekWorks Icon" /> [TekWorks](https://tekworks.net)
 A **software developer** and **publisher** organization. As of right now, TMC is the only project under TekWorks. However, in the future we intend on creating open source security and general purpose tools!
