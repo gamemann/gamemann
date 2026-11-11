@@ -30,7 +30,7 @@ An inclusive **modding** and **game development** community. We offer a space wh
 A collection of **open source** and *MIT-licensed* games I'm working on for [@modcommunity's](https://moddingcommunity.com/play) gaming platform built on top of [@godotengine](https://godotengine.org)! These games primarily serve as demonstrations of what the gaming platform is capable of, but I also like working on them for fun as well.
 
 - [Airdrift](https://airdrift.net): A timer-based game with Source-style movement. Includes classic Surf Timer and Bunny Hop maps from Counter-Strike's custom/modded maps!
-- [Fatal Count](https://fatalcontact.net): Fast-paced shooter with sprinting, sliding, walling running, bunny hopping, surfing, and more!
+- [Fatal Contact](https://fatalcontact.net): Fast-paced shooter with sprinting, sliding, walling running, bunny hopping, surfing, and more!
 - [Playlot](https://playlot.net): A physics sandbox: spawn props, NPCs and weapons and build whatever you like.
 - [Hungario](https://zeesgames.com/hungario): Steer a hungry monster, eat to grow and outlast everyone else.
 - [Buses From Hell](https://zeesgames.com/buses-from-hell): Survive one or more crazy bus drivers trying to run you over.
