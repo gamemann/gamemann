@@ -29,15 +29,15 @@ An inclusive **modding** and **game development** community. We offer a space wh
 
 A collection of **open source** and *MIT-licensed* games I'm working on for [@modcommunity's](https://moddingcommunity.com/play) gaming platform built on top of [@godotengine](https://godotengine.org)! These games primarily serve as demonstrations of what the gaming platform is capable of, but I also like working on them for fun as well.
 
-- [G2g Fast](https://zeesgames.com/g2gfast): Bunny hop and surf timer runs with Source-style movement and leaderboards.
-- [Arena](https://zeesgames.com/arena): Fast first-person deathmatch with GunGame and classic Surf Deathmatch maps.
-- [Playground](https://zeesgames.com/playground): A physics sandbox: spawn props, NPCs and weapons and build whatever you like.
+- [Airdrift](https://airdrift.net): A timer-based game with Source-style movement. Includes classic Surf Timer and Bunny Hop maps from Counter-Strike's custom/modded maps!
+- [Fatal Count](https://fatalcontact.net): Fast-paced shooter with sprinting, sliding, walling running, bunny hopping, surfing, and more!
+- [Playlot](https://playlot.net): A physics sandbox: spawn props, NPCs and weapons and build whatever you like.
 - [Hungario](https://zeesgames.com/hungario): Steer a hungry monster, eat to grow and outlast everyone else.
 - [Buses From Hell](https://zeesgames.com/buses-from-hell): Survive one or more crazy bus drivers trying to run you over.
 - [Smash Copter](https://zeesgames.com/smash-copter): Stay on wobbly platforms while a cannon rains props down on you.
 - [Zombie Zone](https://zeesgames.com/zombie-zone): Co-op zombie survival: escape through the city or survive waves.
 - [Hide n Seek](https://zeesgames.com/hide-n-seek): Hide as yourself; every hider caught joins the hunt.
-- [Prop Hunt](https://zeesgames.com/prop-hunt): Disguise as furniture and keep still while blindfolded hunters search.
+- [Prop Hunt](https://prophunt.net): Disguise as furniture and keep still while blindfolded hunters search.
 - [Murder Mystery](https://zeesgames.com/murder-mystery): Everybody looks the same. One of them has a knife.
 - [Deathrun](https://zeesgames.com/deathrun): Run a trap-filled course while the activators press every button they have.
 - [Wipeout](https://zeesgames.com/wipeout): Obstacle courses over water: sweeper arms, big balls and a fight at the finish.
