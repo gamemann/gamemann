@@ -16,7 +16,7 @@
 
 ## 🚀 My Active Projects
 ### <img src="./images/tmc.png" width="30px" height="30px" align="center" alt="TMC Icon" /> [The Modding Community](https://moddingcommunity.com)
-An inclusive **modding** and **game development** community. We offer a space where users can share game dev assets, mods, and track game/social servers. We are also creating our own [**gaming platform**](https://moddingcommunity.com/platform) built on-top of [Godot](https://godotengine.org)!
+An inclusive **modding** and **game development** community. We offer a space where users can share game dev assets, mods, and track game/social servers. We are also creating our own [**gaming platform**](https://gamespice.net) built on-top of [Godot](https://godotengine.org) called [**GameSpice](https://gamespice.net)!
 
 - 🎮 [Apps & Games](https://moddingcommunity.com/apps)
 - 🔨 [Mod Workshop](https://moddingcommunity.com/mods)
@@ -25,24 +25,24 @@ An inclusive **modding** and **game development** community. We offer a space wh
 - 📝 [Blog](https://moddingcommunity.com/blog)
 - 💻 [GitHub Org](https://github.com/modcommunity)
 
-### <img src="./images/zg.png" width="30px" height="30px" align="center" alt="ZG Icon" /> [Zee's Games](https://zeesgames.com)
+### <img src="./images/gamespice.svg" width="30px" height="30px" align="center" alt="GS Icon" /> [GameSpice](https://gamespice.net)
+An **open source** and **cross-platform** gaming platform built on-top of [Godot](https://godotengine.org) that puts community and game servers first.
 
-A collection of **open source** and *MIT-licensed* games I'm working on for [@modcommunity's](https://moddingcommunity.com/play) gaming platform built on top of [@godotengine](https://godotengine.org)! These games primarily serve as demonstrations of what the gaming platform is capable of, but I also like working on them for fun as well.
+- **Community servers first**: anyone can run a server for game on the platform. Servers register themselves, and a live server list shows who is playing right now.
+- **Fully cross-platform**: play in a web browser, on Windows, macOS and Linux, or on a phone or tablet with touch controls.
+- **Browser and native, same match**: web players connect over WebSocket (TCP) and native players over UDP. A single server accepts both, so everyone plays in the same server and match.
+- **Play in seconds**: many games run in the browser with nothing to install and no account needed. Solo play, quick play and a server browser are built in.
+- **Open and verifiable CDN**: each release is stored by content hash with a signed manifest. Players check every file against its hash, and anyone can run a mirror.
+- **Built for developers**: Godot addons handle networking, bots, vehicles, weapons, maps, voice, stats, leaderboards and achievements, so you can work on the game itself.
+
+### <img src="./images/zg.png" width="30px" height="30px" align="center" alt="ZG Icon" /> [Zee's Games](https://zeesgames.com)
+A collection of **open source** and *MIT-licensed* games I'm working on for [@modcommunity's](https://moddingcommunity.com/) gaming platform, [**GameSpice](https://gamespice.net), which is built on-top of [@godotengine](https://godotengine.org)! These games primarily serve as demonstrations of what the gaming platform is capable of, but I also like working on them for fun as well.
 
 - [Airdrift](https://airdrift.net): A timer-based game with Source-style movement. Includes classic Surf Timer and Bunny Hop maps from Counter-Strike's custom/modded maps!
 - [Fatal Contact](https://fatalcontact.net): Fast-paced shooter with sprinting, sliding, walling running, bunny hopping, surfing, and more!
 - [Playlot](https://playlot.app): A physics sandbox: spawn props, NPCs and weapons and build whatever you like.
-- [Hungario](https://zeesgames.com/hungario): Steer a hungry monster, eat to grow and outlast everyone else.
-- [Buses From Hell](https://zeesgames.com/buses-from-hell): Survive one or more crazy bus drivers trying to run you over.
-- [Smash Copter](https://zeesgames.com/smash-copter): Stay on wobbly platforms while a cannon rains props down on you.
 - [Zombie Zone](https://zeesgames.com/zombie-zone): Co-op zombie survival: escape through the city or survive waves.
-- [Hide n Seek](https://zeesgames.com/hide-n-seek): Hide as yourself; every hider caught joins the hunt.
-- [Prop Hunt](https://prophunt.net): Disguise as furniture and keep still while blindfolded hunters search.
-- [Murder Mystery](https://zeesgames.com/murder-mystery): Everybody looks the same. One of them has a knife.
-- [Deathrun](https://zeesgames.com/deathrun): Run a trap-filled course while the activators press every button they have.
-- [Wipeout](https://zeesgames.com/wipeout): Obstacle courses over water: sweeper arms, big balls and a fight at the finish.
-- [Dangerous Delivery](https://zeesgames.com/dangerous-delivery): Haul loads up mountain roads with no guard rails. Riskier runs pay more.
-- [Look At Me](https://zeesgames.com/look-at-me): A dark house, 32 levels deep, and the witches walking its rooms.
+- [10 more games...](https://zeesgames.com#games)
 
 ### <img src="./images/tekworks.png" width="30px" height="30px" align="middle"  alt="TekWorks Icon" /> [TekWorks](https://tekworks.net)
 A **software developer** and **publisher** organization. As of right now, TMC is the only project under TekWorks. However, in the future we intend on creating open source security and general purpose tools!
