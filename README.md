@@ -36,7 +36,7 @@ An **open source** and **cross-platform** gaming platform built on-top of [Godot
 - **Built for developers**: Godot addons handle networking, bots, vehicles, weapons, maps, voice, stats, leaderboards and achievements, so you can work on the game itself.
 
 ### <img src="./images/zg.png" width="30px" height="30px" align="center" alt="ZG Icon" /> [Zee's Games](https://zeesgames.com)
-A collection of **open source** and *MIT-licensed* games I'm working on for [@modcommunity's](https://moddingcommunity.com/) gaming platform, [**GameSpice](https://gamespice.net), which is built on-top of [@godotengine](https://godotengine.org)! These games primarily serve as demonstrations of what the gaming platform is capable of, but I also like working on them for fun as well.
+A collection of **open source** and *MIT-licensed* games I'm working on for [@modcommunity's](https://moddingcommunity.com/) gaming platform, [**GameSpice**](https://gamespice.net), which is built on-top of [@godotengine](https://godotengine.org)! These games primarily serve as demonstrations of what the gaming platform is capable of, but I also like working on them for fun as well.
 
 - [Airdrift](https://airdrift.net): A timer-based game with Source-style movement. Includes classic Surf Timer and Bunny Hop maps from Counter-Strike's custom/modded maps!
 - [Fatal Contact](https://fatalcontact.net): Fast-paced shooter with sprinting, sliding, walling running, bunny hopping, surfing, and more!
